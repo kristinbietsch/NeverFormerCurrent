@@ -1,0 +1,1910 @@
+Method,Var,Freq,SurveyName,Country,StartYear
+Pill,Method Information Index,0.264749506,AFIR70FL.DTA,Afghanistan,2015
+IUD,Method Information Index,0.483620687,AFIR70FL.DTA,Afghanistan,2015
+Injections,Method Information Index,0.45902725,AFIR70FL.DTA,Afghanistan,2015
+Female Sterilization,Method Information Index,0.284678032,AFIR70FL.DTA,Afghanistan,2015
+Implant,Method Information Index,0.621186899,AFIR70FL.DTA,Afghanistan,2015
+Pill,Told About Other Methods,0.455500702,AFIR70FL.DTA,Afghanistan,2015
+IUD,Told About Other Methods,0.671273025,AFIR70FL.DTA,Afghanistan,2015
+Injections,Told About Other Methods,0.647856201,AFIR70FL.DTA,Afghanistan,2015
+Female Sterilization,Told About Other Methods,0.410440191,AFIR70FL.DTA,Afghanistan,2015
+Implant,Told About Other Methods,0.721988242,AFIR70FL.DTA,Afghanistan,2015
+Pill,Told About Side Effects,0.38245125,AFIR70FL.DTA,Afghanistan,2015
+IUD,Told About Side Effects,0.614715771,AFIR70FL.DTA,Afghanistan,2015
+Injections,Told About Side Effects,0.578676856,AFIR70FL.DTA,Afghanistan,2015
+Female Sterilization,Told About Side Effects,0.495976592,AFIR70FL.DTA,Afghanistan,2015
+Implant,Told About Side Effects,0.834993256,AFIR70FL.DTA,Afghanistan,2015
+Pill,Told What to Do About Side Effects,0.30061736,AFIR70FL.DTA,Afghanistan,2015
+IUD,Told What to Do About Side Effects,0.532680393,AFIR70FL.DTA,Afghanistan,2015
+Injections,Told What to Do About Side Effects,0.50022299,AFIR70FL.DTA,Afghanistan,2015
+Female Sterilization,Told What to Do About Side Effects,0.402820192,AFIR70FL.DTA,Afghanistan,2015
+Implant,Told What to Do About Side Effects,0.718819427,AFIR70FL.DTA,Afghanistan,2015
+Total,Method Information Index,0.355755199,AFIR70FL.DTA,Afghanistan,2015
+Total,Told About Other Methods,0.540044082,AFIR70FL.DTA,Afghanistan,2015
+Total,Told About Side Effects,0.482989491,AFIR70FL.DTA,Afghanistan,2015
+Total,Told What to Do About Side Effects,0.401097465,AFIR70FL.DTA,Afghanistan,2015
+Pill,Method Information Index,0.373213928,AOIR71FL.DTA,Angola,2015
+IUD,Method Information Index,0.188536139,AOIR71FL.DTA,Angola,2015
+Injections,Method Information Index,0.506067151,AOIR71FL.DTA,Angola,2015
+Female Sterilization,Method Information Index,0.725638994,AOIR71FL.DTA,Angola,2015
+Implant,Method Information Index,0.688624654,AOIR71FL.DTA,Angola,2015
+Pill,Told About Other Methods,0.608945783,AOIR71FL.DTA,Angola,2015
+IUD,Told About Other Methods,0.78423465,AOIR71FL.DTA,Angola,2015
+Injections,Told About Other Methods,0.670258315,AOIR71FL.DTA,Angola,2015
+Female Sterilization,Told About Other Methods,0.725638994,AOIR71FL.DTA,Angola,2015
+Implant,Told About Other Methods,0.859876035,AOIR71FL.DTA,Angola,2015
+Pill,Told About Side Effects,0.553533988,AOIR71FL.DTA,Angola,2015
+IUD,Told About Side Effects,0.575502779,AOIR71FL.DTA,Angola,2015
+Injections,Told About Side Effects,0.721614821,AOIR71FL.DTA,Angola,2015
+Female Sterilization,Told About Side Effects,1,AOIR71FL.DTA,Angola,2015
+Implant,Told About Side Effects,0.834414021,AOIR71FL.DTA,Angola,2015
+Pill,Told What to Do About Side Effects,0.451952056,AOIR71FL.DTA,Angola,2015
+IUD,Told What to Do About Side Effects,0.188536139,AOIR71FL.DTA,Angola,2015
+Injections,Told What to Do About Side Effects,0.617164596,AOIR71FL.DTA,Angola,2015
+Female Sterilization,Told What to Do About Side Effects,0.725638994,AOIR71FL.DTA,Angola,2015
+Implant,Told What to Do About Side Effects,0.743465689,AOIR71FL.DTA,Angola,2015
+Total,Method Information Index,0.462806021,AOIR71FL.DTA,Angola,2015
+Total,Told About Other Methods,0.656987418,AOIR71FL.DTA,Angola,2015
+Total,Told About Side Effects,0.661344666,AOIR71FL.DTA,Angola,2015
+Total,Told What to Do About Side Effects,0.553847037,AOIR71FL.DTA,Angola,2015
+Pill,Method Information Index,0.540388048,AMIR71FL.DTA,Armenia,2015
+IUD,Method Information Index,0.614908821,AMIR71FL.DTA,Armenia,2015
+Injections,Method Information Index,1,AMIR71FL.DTA,Armenia,2015
+Female Sterilization,Method Information Index,0.678418067,AMIR71FL.DTA,Armenia,2015
+Pill,Told About Other Methods,0.659638368,AMIR71FL.DTA,Armenia,2015
+IUD,Told About Other Methods,0.64033618,AMIR71FL.DTA,Armenia,2015
+Injections,Told About Other Methods,1,AMIR71FL.DTA,Armenia,2015
+Female Sterilization,Told About Other Methods,0.678418067,AMIR71FL.DTA,Armenia,2015
+Pill,Told About Side Effects,0.641399612,AMIR71FL.DTA,Armenia,2015
+IUD,Told About Side Effects,0.939451373,AMIR71FL.DTA,Armenia,2015
+Injections,Told About Side Effects,1,AMIR71FL.DTA,Armenia,2015
+Female Sterilization,Told About Side Effects,0.773683157,AMIR71FL.DTA,Armenia,2015
+Pill,Told What to Do About Side Effects,0.600764884,AMIR71FL.DTA,Armenia,2015
+IUD,Told What to Do About Side Effects,0.92315722,AMIR71FL.DTA,Armenia,2015
+Injections,Told What to Do About Side Effects,1,AMIR71FL.DTA,Armenia,2015
+Female Sterilization,Told What to Do About Side Effects,0.773683157,AMIR71FL.DTA,Armenia,2015
+Total,Method Information Index,0.609313058,AMIR71FL.DTA,Armenia,2015
+Total,Told About Other Methods,0.645423233,AMIR71FL.DTA,Armenia,2015
+Total,Told About Side Effects,0.86639054,AMIR71FL.DTA,Armenia,2015
+Total,Told What to Do About Side Effects,0.845544441,AMIR71FL.DTA,Armenia,2015
+Pill,Method Information Index,0.276470342,AMIR61FL.DTA,Armenia,2010
+IUD,Method Information Index,0.403178029,AMIR61FL.DTA,Armenia,2010
+Female Sterilization,Method Information Index,0.36160806,AMIR61FL.DTA,Armenia,2010
+Pill,Told About Other Methods,0.595136081,AMIR61FL.DTA,Armenia,2010
+IUD,Told About Other Methods,0.463687431,AMIR61FL.DTA,Armenia,2010
+Female Sterilization,Told About Other Methods,0.36160806,AMIR61FL.DTA,Armenia,2010
+Pill,Told About Side Effects,0.420064287,AMIR61FL.DTA,Armenia,2010
+IUD,Told About Side Effects,0.797032443,AMIR61FL.DTA,Armenia,2010
+Female Sterilization,Told About Side Effects,0.728288461,AMIR61FL.DTA,Armenia,2010
+Pill,Told What to Do About Side Effects,0.317167203,AMIR61FL.DTA,Armenia,2010
+IUD,Told What to Do About Side Effects,0.723392233,AMIR61FL.DTA,Armenia,2010
+Female Sterilization,Told What to Do About Side Effects,0.662329065,AMIR61FL.DTA,Armenia,2010
+Total,Method Information Index,0.380849083,AMIR61FL.DTA,Armenia,2010
+Total,Told About Other Methods,0.483533593,AMIR61FL.DTA,Armenia,2010
+Total,Told About Side Effects,0.731523146,AMIR61FL.DTA,Armenia,2010
+Total,Told What to Do About Side Effects,0.653017064,AMIR61FL.DTA,Armenia,2010
+Pill,Method Information Index,0.193287769,BJIR71FL.DTA,Benin,2017
+IUD,Method Information Index,0.61227259,BJIR71FL.DTA,Benin,2017
+Injections,Method Information Index,0.535206754,BJIR71FL.DTA,Benin,2017
+Female Sterilization,Method Information Index,0.515613418,BJIR71FL.DTA,Benin,2017
+Implant,Method Information Index,0.507386238,BJIR71FL.DTA,Benin,2017
+Pill,Told About Other Methods,0.444316004,BJIR71FL.DTA,Benin,2017
+IUD,Told About Other Methods,0.819794796,BJIR71FL.DTA,Benin,2017
+Injections,Told About Other Methods,0.743807219,BJIR71FL.DTA,Benin,2017
+Female Sterilization,Told About Other Methods,0.622637437,BJIR71FL.DTA,Benin,2017
+Implant,Told About Other Methods,0.69627134,BJIR71FL.DTA,Benin,2017
+Pill,Told About Side Effects,0.287621014,BJIR71FL.DTA,Benin,2017
+IUD,Told About Side Effects,0.686762665,BJIR71FL.DTA,Benin,2017
+Injections,Told About Side Effects,0.641611572,BJIR71FL.DTA,Benin,2017
+Female Sterilization,Told About Side Effects,0.688064315,BJIR71FL.DTA,Benin,2017
+Implant,Told About Side Effects,0.609716547,BJIR71FL.DTA,Benin,2017
+Pill,Told What to Do About Side Effects,0.216022635,BJIR71FL.DTA,Benin,2017
+IUD,Told What to Do About Side Effects,0.648742982,BJIR71FL.DTA,Benin,2017
+Injections,Told What to Do About Side Effects,0.575906361,BJIR71FL.DTA,Benin,2017
+Female Sterilization,Told What to Do About Side Effects,0.57292544,BJIR71FL.DTA,Benin,2017
+Implant,Told What to Do About Side Effects,0.557743145,BJIR71FL.DTA,Benin,2017
+Total,Method Information Index,0.486951776,BJIR71FL.DTA,Benin,2017
+Total,Told About Other Methods,0.674009778,BJIR71FL.DTA,Benin,2017
+Total,Told About Side Effects,0.585912828,BJIR71FL.DTA,Benin,2017
+Total,Told What to Do About Side Effects,0.529801109,BJIR71FL.DTA,Benin,2017
+Pill,Method Information Index,0.276481952,BJIR61FL.DTA,Benin,2011
+IUD,Method Information Index,0.550745033,BJIR61FL.DTA,Benin,2011
+Injections,Method Information Index,0.502349038,BJIR61FL.DTA,Benin,2011
+Female Sterilization,Method Information Index,0.494692352,BJIR61FL.DTA,Benin,2011
+Implant,Method Information Index,0.624530994,BJIR61FL.DTA,Benin,2011
+Pill,Told About Other Methods,0.548873364,BJIR61FL.DTA,Benin,2011
+IUD,Told About Other Methods,0.748257604,BJIR61FL.DTA,Benin,2011
+Injections,Told About Other Methods,0.758560421,BJIR61FL.DTA,Benin,2011
+Female Sterilization,Told About Other Methods,0.775065273,BJIR61FL.DTA,Benin,2011
+Implant,Told About Other Methods,0.79612871,BJIR61FL.DTA,Benin,2011
+Pill,Told About Side Effects,0.405339448,BJIR61FL.DTA,Benin,2011
+IUD,Told About Side Effects,0.635950541,BJIR61FL.DTA,Benin,2011
+Injections,Told About Side Effects,0.591342599,BJIR61FL.DTA,Benin,2011
+Female Sterilization,Told About Side Effects,0.586707479,BJIR61FL.DTA,Benin,2011
+Implant,Told About Side Effects,0.766348365,BJIR61FL.DTA,Benin,2011
+Pill,Told What to Do About Side Effects,0.34393226,BJIR61FL.DTA,Benin,2011
+IUD,Told What to Do About Side Effects,0.59779441,BJIR61FL.DTA,Benin,2011
+Injections,Told What to Do About Side Effects,0.561246945,BJIR61FL.DTA,Benin,2011
+Female Sterilization,Told What to Do About Side Effects,0.494692352,BJIR61FL.DTA,Benin,2011
+Implant,Told What to Do About Side Effects,0.691842044,BJIR61FL.DTA,Benin,2011
+Total,Method Information Index,0.461240796,BJIR61FL.DTA,Benin,2011
+Total,Told About Other Methods,0.697441117,BJIR61FL.DTA,Benin,2011
+Total,Told About Side Effects,0.57241615,BJIR61FL.DTA,Benin,2011
+Total,Told What to Do About Side Effects,0.522171873,BJIR61FL.DTA,Benin,2011
+Pill,Method Information Index,0.557787952,BFIR62FL.DTA,Burkina Faso,2010
+IUD,Method Information Index,0.605138991,BFIR62FL.DTA,Burkina Faso,2010
+Injections,Method Information Index,0.652735724,BFIR62FL.DTA,Burkina Faso,2010
+Female Sterilization,Method Information Index,0.26410605,BFIR62FL.DTA,Burkina Faso,2010
+Implant,Method Information Index,0.714647523,BFIR62FL.DTA,Burkina Faso,2010
+Pill,Told About Other Methods,0.854884265,BFIR62FL.DTA,Burkina Faso,2010
+IUD,Told About Other Methods,0.916545036,BFIR62FL.DTA,Burkina Faso,2010
+Injections,Told About Other Methods,0.85713527,BFIR62FL.DTA,Burkina Faso,2010
+Female Sterilization,Told About Other Methods,0.575566556,BFIR62FL.DTA,Burkina Faso,2010
+Implant,Told About Other Methods,0.894807435,BFIR62FL.DTA,Burkina Faso,2010
+Pill,Told About Side Effects,0.609932868,BFIR62FL.DTA,Burkina Faso,2010
+IUD,Told About Side Effects,0.642625972,BFIR62FL.DTA,Burkina Faso,2010
+Injections,Told About Side Effects,0.764439491,BFIR62FL.DTA,Burkina Faso,2010
+Female Sterilization,Told About Side Effects,0.562617543,BFIR62FL.DTA,Burkina Faso,2010
+Implant,Told About Side Effects,0.792325467,BFIR62FL.DTA,Burkina Faso,2010
+Pill,Told What to Do About Side Effects,0.576012339,BFIR62FL.DTA,Burkina Faso,2010
+IUD,Told What to Do About Side Effects,0.605138991,BFIR62FL.DTA,Burkina Faso,2010
+Injections,Told What to Do About Side Effects,0.703067025,BFIR62FL.DTA,Burkina Faso,2010
+Female Sterilization,Told What to Do About Side Effects,0.394052755,BFIR62FL.DTA,Burkina Faso,2010
+Implant,Told What to Do About Side Effects,0.746323573,BFIR62FL.DTA,Burkina Faso,2010
+Total,Method Information Index,0.641719369,BFIR62FL.DTA,Burkina Faso,2010
+Total,Told About Other Methods,0.863244879,BFIR62FL.DTA,Burkina Faso,2010
+Total,Told About Side Effects,0.729553528,BFIR62FL.DTA,Burkina Faso,2010
+Total,Told What to Do About Side Effects,0.678744619,BFIR62FL.DTA,Burkina Faso,2010
+Pill,Method Information Index,0.257434306,BUIR70FL.DTA,Burundi,2016
+IUD,Method Information Index,0.294075428,BUIR70FL.DTA,Burundi,2016
+Injections,Method Information Index,0.218081498,BUIR70FL.DTA,Burundi,2016
+Female Sterilization,Method Information Index,0.129311241,BUIR70FL.DTA,Burundi,2016
+Implant,Method Information Index,0.256214142,BUIR70FL.DTA,Burundi,2016
+Pill,Told About Other Methods,0.715178172,BUIR70FL.DTA,Burundi,2016
+IUD,Told About Other Methods,0.815295989,BUIR70FL.DTA,Burundi,2016
+Injections,Told About Other Methods,0.760113648,BUIR70FL.DTA,Burundi,2016
+Female Sterilization,Told About Other Methods,0.412877403,BUIR70FL.DTA,Burundi,2016
+Implant,Told About Other Methods,0.77960356,BUIR70FL.DTA,Burundi,2016
+Pill,Told About Side Effects,0.356704003,BUIR70FL.DTA,Burundi,2016
+IUD,Told About Side Effects,0.330202531,BUIR70FL.DTA,Burundi,2016
+Injections,Told About Side Effects,0.272823376,BUIR70FL.DTA,Burundi,2016
+Female Sterilization,Told About Side Effects,0.151032436,BUIR70FL.DTA,Burundi,2016
+Implant,Told About Side Effects,0.303846102,BUIR70FL.DTA,Burundi,2016
+Pill,Told What to Do About Side Effects,0.289964538,BUIR70FL.DTA,Burundi,2016
+IUD,Told What to Do About Side Effects,0.297748031,BUIR70FL.DTA,Burundi,2016
+Injections,Told What to Do About Side Effects,0.237477973,BUIR70FL.DTA,Burundi,2016
+Female Sterilization,Told What to Do About Side Effects,0.151032436,BUIR70FL.DTA,Burundi,2016
+Implant,Told What to Do About Side Effects,0.285559268,BUIR70FL.DTA,Burundi,2016
+Total,Method Information Index,0.234276309,BUIR70FL.DTA,Burundi,2016
+Total,Told About Other Methods,0.752329895,BUIR70FL.DTA,Burundi,2016
+Total,Told About Side Effects,0.289042019,BUIR70FL.DTA,Burundi,2016
+Total,Told What to Do About Side Effects,0.257207601,BUIR70FL.DTA,Burundi,2016
+Pill,Method Information Index,0.270083654,BUIR61FL.DTA,Burundi,2010
+IUD,Method Information Index,0.27568357,BUIR61FL.DTA,Burundi,2010
+Injections,Method Information Index,0.278910728,BUIR61FL.DTA,Burundi,2010
+Female Sterilization,Method Information Index,0.030780605,BUIR61FL.DTA,Burundi,2010
+Implant,Method Information Index,0.209185877,BUIR61FL.DTA,Burundi,2010
+Pill,Told About Other Methods,0.711158623,BUIR61FL.DTA,Burundi,2010
+IUD,Told About Other Methods,0.641290622,BUIR61FL.DTA,Burundi,2010
+Injections,Told About Other Methods,0.698253992,BUIR61FL.DTA,Burundi,2010
+Female Sterilization,Told About Other Methods,0.223052151,BUIR61FL.DTA,Burundi,2010
+Implant,Told About Other Methods,0.701242841,BUIR61FL.DTA,Burundi,2010
+Pill,Told About Side Effects,0.353656016,BUIR61FL.DTA,Burundi,2010
+IUD,Told About Side Effects,0.361301233,BUIR61FL.DTA,Burundi,2010
+Injections,Told About Side Effects,0.356745177,BUIR61FL.DTA,Burundi,2010
+Female Sterilization,Told About Side Effects,0.191628158,BUIR61FL.DTA,Burundi,2010
+Implant,Told About Side Effects,0.373034991,BUIR61FL.DTA,Burundi,2010
+Pill,Told What to Do About Side Effects,0.279027378,BUIR61FL.DTA,Burundi,2010
+IUD,Told What to Do About Side Effects,0.359633581,BUIR61FL.DTA,Burundi,2010
+Injections,Told What to Do About Side Effects,0.32225936,BUIR61FL.DTA,Burundi,2010
+Female Sterilization,Told What to Do About Side Effects,0.053619925,BUIR61FL.DTA,Burundi,2010
+Implant,Told What to Do About Side Effects,0.260971984,BUIR61FL.DTA,Burundi,2010
+Total,Method Information Index,0.268481127,BUIR61FL.DTA,Burundi,2010
+Total,Told About Other Methods,0.678290864,BUIR61FL.DTA,Burundi,2010
+Total,Told About Side Effects,0.353610905,BUIR61FL.DTA,Burundi,2010
+Total,Told What to Do About Side Effects,0.313314696,BUIR61FL.DTA,Burundi,2010
+Pill,Method Information Index,0.592855445,KHIR73FL.DTA,Cambodia,2014
+IUD,Method Information Index,0.866737685,KHIR73FL.DTA,Cambodia,2014
+Injections,Method Information Index,0.700810204,KHIR73FL.DTA,Cambodia,2014
+Female Sterilization,Method Information Index,0.625309215,KHIR73FL.DTA,Cambodia,2014
+Implant,Method Information Index,0.804105473,KHIR73FL.DTA,Cambodia,2014
+Pill,Told About Other Methods,0.699412329,KHIR73FL.DTA,Cambodia,2014
+IUD,Told About Other Methods,0.887582137,KHIR73FL.DTA,Cambodia,2014
+Injections,Told About Other Methods,0.784969916,KHIR73FL.DTA,Cambodia,2014
+Female Sterilization,Told About Other Methods,0.701678522,KHIR73FL.DTA,Cambodia,2014
+Implant,Told About Other Methods,0.839169265,KHIR73FL.DTA,Cambodia,2014
+Pill,Told About Side Effects,0.703125879,KHIR73FL.DTA,Cambodia,2014
+IUD,Told About Side Effects,0.96417328,KHIR73FL.DTA,Cambodia,2014
+Injections,Told About Side Effects,0.825461781,KHIR73FL.DTA,Cambodia,2014
+Female Sterilization,Told About Side Effects,0.873715331,KHIR73FL.DTA,Cambodia,2014
+Implant,Told About Side Effects,0.944051912,KHIR73FL.DTA,Cambodia,2014
+Pill,Told What to Do About Side Effects,0.667235055,KHIR73FL.DTA,Cambodia,2014
+IUD,Told What to Do About Side Effects,0.957798087,KHIR73FL.DTA,Cambodia,2014
+Injections,Told What to Do About Side Effects,0.78138026,KHIR73FL.DTA,Cambodia,2014
+Female Sterilization,Told What to Do About Side Effects,0.762749547,KHIR73FL.DTA,Cambodia,2014
+Implant,Told What to Do About Side Effects,0.926805204,KHIR73FL.DTA,Cambodia,2014
+Total,Method Information Index,0.674124893,KHIR73FL.DTA,Cambodia,2014
+Total,Told About Other Methods,0.756991503,KHIR73FL.DTA,Cambodia,2014
+Total,Told About Side Effects,0.796304499,KHIR73FL.DTA,Cambodia,2014
+Total,Told What to Do About Side Effects,0.759345566,KHIR73FL.DTA,Cambodia,2014
+Pill,Method Information Index,0.31071283,CMIR61FL.DTA,Cameroon,2011
+IUD,Method Information Index,0.574364949,CMIR61FL.DTA,Cameroon,2011
+Injections,Method Information Index,0.421477861,CMIR61FL.DTA,Cameroon,2011
+Female Sterilization,Method Information Index,0.333535557,CMIR61FL.DTA,Cameroon,2011
+Implant,Method Information Index,0.722700179,CMIR61FL.DTA,Cameroon,2011
+Pill,Told About Other Methods,0.66269541,CMIR61FL.DTA,Cameroon,2011
+IUD,Told About Other Methods,0.666759643,CMIR61FL.DTA,Cameroon,2011
+Injections,Told About Other Methods,0.693792509,CMIR61FL.DTA,Cameroon,2011
+Female Sterilization,Told About Other Methods,0.353353555,CMIR61FL.DTA,Cameroon,2011
+Implant,Told About Other Methods,0.821734988,CMIR61FL.DTA,Cameroon,2011
+Pill,Told About Side Effects,0.497024782,CMIR61FL.DTA,Cameroon,2011
+IUD,Told About Side Effects,0.907605306,CMIR61FL.DTA,Cameroon,2011
+Injections,Told About Side Effects,0.669484638,CMIR61FL.DTA,Cameroon,2011
+Female Sterilization,Told About Side Effects,0.694281642,CMIR61FL.DTA,Cameroon,2011
+Implant,Told About Side Effects,0.911111974,CMIR61FL.DTA,Cameroon,2011
+Pill,Told What to Do About Side Effects,0.35112439,CMIR61FL.DTA,Cameroon,2011
+IUD,Told What to Do About Side Effects,0.850099339,CMIR61FL.DTA,Cameroon,2011
+Injections,Told What to Do About Side Effects,0.525817092,CMIR61FL.DTA,Cameroon,2011
+Female Sterilization,Told What to Do About Side Effects,0.568953882,CMIR61FL.DTA,Cameroon,2011
+Implant,Told What to Do About Side Effects,0.808445773,CMIR61FL.DTA,Cameroon,2011
+Total,Method Information Index,0.41834912,CMIR61FL.DTA,Cameroon,2011
+Total,Told About Other Methods,0.675983851,CMIR61FL.DTA,Cameroon,2011
+Total,Told About Side Effects,0.646873145,CMIR61FL.DTA,Cameroon,2011
+Total,Told What to Do About Side Effects,0.509718917,CMIR61FL.DTA,Cameroon,2011
+Pill,Method Information Index,0.343683175,TDIR71FL.DTA,Chad,2014
+IUD,Method Information Index,0.622239468,TDIR71FL.DTA,Chad,2014
+Injections,Method Information Index,0.422593477,TDIR71FL.DTA,Chad,2014
+Female Sterilization,Method Information Index,0.04001695,TDIR71FL.DTA,Chad,2014
+Implant,Method Information Index,0.402242689,TDIR71FL.DTA,Chad,2014
+Pill,Told About Other Methods,0.563873245,TDIR71FL.DTA,Chad,2014
+IUD,Told About Other Methods,0.622239468,TDIR71FL.DTA,Chad,2014
+Injections,Told About Other Methods,0.652213338,TDIR71FL.DTA,Chad,2014
+Female Sterilization,Told About Other Methods,0.154817166,TDIR71FL.DTA,Chad,2014
+Implant,Told About Other Methods,0.643183161,TDIR71FL.DTA,Chad,2014
+Pill,Told About Side Effects,0.621182128,TDIR71FL.DTA,Chad,2014
+IUD,Told About Side Effects,1,TDIR71FL.DTA,Chad,2014
+Injections,Told About Side Effects,0.618947873,TDIR71FL.DTA,Chad,2014
+Female Sterilization,Told About Side Effects,0.517820132,TDIR71FL.DTA,Chad,2014
+Implant,Told About Side Effects,0.638320452,TDIR71FL.DTA,Chad,2014
+Pill,Told What to Do About Side Effects,0.531517798,TDIR71FL.DTA,Chad,2014
+IUD,Told What to Do About Side Effects,1,TDIR71FL.DTA,Chad,2014
+Injections,Told What to Do About Side Effects,0.521334194,TDIR71FL.DTA,Chad,2014
+Female Sterilization,Told What to Do About Side Effects,0.261713725,TDIR71FL.DTA,Chad,2014
+Implant,Told What to Do About Side Effects,0.524550107,TDIR71FL.DTA,Chad,2014
+Total,Method Information Index,0.387373669,TDIR71FL.DTA,Chad,2014
+Total,Told About Other Methods,0.609859038,TDIR71FL.DTA,Chad,2014
+Total,Told About Side Effects,0.622302851,TDIR71FL.DTA,Chad,2014
+Total,Told What to Do About Side Effects,0.512528978,TDIR71FL.DTA,Chad,2014
+Pill,Method Information Index,0.425951049,KMIR61FL.DTA,Comoros,2012
+IUD,Method Information Index,0.266035165,KMIR61FL.DTA,Comoros,2012
+Injections,Method Information Index,0.311577723,KMIR61FL.DTA,Comoros,2012
+Female Sterilization,Method Information Index,0.355418874,KMIR61FL.DTA,Comoros,2012
+Implant,Method Information Index,0.513767008,KMIR61FL.DTA,Comoros,2012
+Pill,Told About Other Methods,0.659722766,KMIR61FL.DTA,Comoros,2012
+IUD,Told About Other Methods,0.266035165,KMIR61FL.DTA,Comoros,2012
+Injections,Told About Other Methods,0.633407773,KMIR61FL.DTA,Comoros,2012
+Female Sterilization,Told About Other Methods,0.418688241,KMIR61FL.DTA,Comoros,2012
+Implant,Told About Other Methods,0.742473739,KMIR61FL.DTA,Comoros,2012
+Pill,Told About Side Effects,0.529975557,KMIR61FL.DTA,Comoros,2012
+IUD,Told About Side Effects,0.266035165,KMIR61FL.DTA,Comoros,2012
+Injections,Told About Side Effects,0.524608741,KMIR61FL.DTA,Comoros,2012
+Female Sterilization,Told About Side Effects,0.637183141,KMIR61FL.DTA,Comoros,2012
+Implant,Told About Side Effects,0.722435797,KMIR61FL.DTA,Comoros,2012
+Pill,Told What to Do About Side Effects,0.474303895,KMIR61FL.DTA,Comoros,2012
+IUD,Told What to Do About Side Effects,0.266035165,KMIR61FL.DTA,Comoros,2012
+Injections,Told What to Do About Side Effects,0.387191842,KMIR61FL.DTA,Comoros,2012
+Female Sterilization,Told What to Do About Side Effects,0.55578702,KMIR61FL.DTA,Comoros,2012
+Implant,Told What to Do About Side Effects,0.562722862,KMIR61FL.DTA,Comoros,2012
+Total,Method Information Index,0.376641106,KMIR61FL.DTA,Comoros,2012
+Total,Told About Other Methods,0.645235279,KMIR61FL.DTA,Comoros,2012
+Total,Told About Side Effects,0.561385198,KMIR61FL.DTA,Comoros,2012
+Total,Told What to Do About Side Effects,0.445815811,KMIR61FL.DTA,Comoros,2012
+Pill,Method Information Index,0.307398811,CGIR60FL.DTA,Congo,2011
+IUD,Method Information Index,0.157221785,CGIR60FL.DTA,Congo,2011
+Injections,Method Information Index,0.335010492,CGIR60FL.DTA,Congo,2011
+Female Sterilization,Method Information Index,0.055598969,CGIR60FL.DTA,Congo,2011
+Implant,Method Information Index,0.733773119,CGIR60FL.DTA,Congo,2011
+Pill,Told About Other Methods,0.494988913,CGIR60FL.DTA,Congo,2011
+IUD,Told About Other Methods,1,CGIR60FL.DTA,Congo,2011
+Injections,Told About Other Methods,0.547401482,CGIR60FL.DTA,Congo,2011
+Female Sterilization,Told About Other Methods,0.129391634,CGIR60FL.DTA,Congo,2011
+Implant,Told About Other Methods,0.76010026,CGIR60FL.DTA,Congo,2011
+Pill,Told About Side Effects,0.509800812,CGIR60FL.DTA,Congo,2011
+IUD,Told About Side Effects,0.157221785,CGIR60FL.DTA,Congo,2011
+Injections,Told About Side Effects,0.627531307,CGIR60FL.DTA,Congo,2011
+Female Sterilization,Told About Side Effects,0.627084818,CGIR60FL.DTA,Congo,2011
+Implant,Told About Side Effects,0.792361022,CGIR60FL.DTA,Congo,2011
+Pill,Told What to Do About Side Effects,0.401582458,CGIR60FL.DTA,Congo,2011
+IUD,Told What to Do About Side Effects,0.157221785,CGIR60FL.DTA,Congo,2011
+Injections,Told What to Do About Side Effects,0.537443751,CGIR60FL.DTA,Congo,2011
+Female Sterilization,Told What to Do About Side Effects,0.579715243,CGIR60FL.DTA,Congo,2011
+Implant,Told What to Do About Side Effects,0.792361022,CGIR60FL.DTA,Congo,2011
+Total,Method Information Index,0.321644207,CGIR60FL.DTA,Congo,2011
+Total,Told About Other Methods,0.516314914,CGIR60FL.DTA,Congo,2011
+Total,Told About Side Effects,0.564655374,CGIR60FL.DTA,Congo,2011
+Total,Told What to Do About Side Effects,0.467697008,CGIR60FL.DTA,Congo,2011
+Pill,Method Information Index,0.322299161,DRIR61FL.DTA,Dominican Republic,2013
+IUD,Method Information Index,0.555609871,DRIR61FL.DTA,Dominican Republic,2013
+Injections,Method Information Index,0.359441299,DRIR61FL.DTA,Dominican Republic,2013
+Female Sterilization,Method Information Index,0.184603958,DRIR61FL.DTA,Dominican Republic,2013
+Implant,Method Information Index,0.56406385,DRIR61FL.DTA,Dominican Republic,2013
+Pill,Told About Other Methods,0.632037666,DRIR61FL.DTA,Dominican Republic,2013
+IUD,Told About Other Methods,0.784470506,DRIR61FL.DTA,Dominican Republic,2013
+Injections,Told About Other Methods,0.695811184,DRIR61FL.DTA,Dominican Republic,2013
+Female Sterilization,Told About Other Methods,0.385828128,DRIR61FL.DTA,Dominican Republic,2013
+Implant,Told About Other Methods,0.812049077,DRIR61FL.DTA,Dominican Republic,2013
+Pill,Told About Side Effects,0.464090333,DRIR61FL.DTA,Dominican Republic,2013
+IUD,Told About Side Effects,0.723297822,DRIR61FL.DTA,Dominican Republic,2013
+Injections,Told About Side Effects,0.569615343,DRIR61FL.DTA,Dominican Republic,2013
+Female Sterilization,Told About Side Effects,0.325848398,DRIR61FL.DTA,Dominican Republic,2013
+Implant,Told About Side Effects,0.639264428,DRIR61FL.DTA,Dominican Republic,2013
+Pill,Told What to Do About Side Effects,0.361880481,DRIR61FL.DTA,Dominican Republic,2013
+IUD,Told What to Do About Side Effects,0.637396965,DRIR61FL.DTA,Dominican Republic,2013
+Injections,Told What to Do About Side Effects,0.38487669,DRIR61FL.DTA,Dominican Republic,2013
+Female Sterilization,Told What to Do About Side Effects,0.247963299,DRIR61FL.DTA,Dominican Republic,2013
+Implant,Told What to Do About Side Effects,0.581698081,DRIR61FL.DTA,Dominican Republic,2013
+Total,Method Information Index,0.247650587,DRIR61FL.DTA,Dominican Republic,2013
+Total,Told About Other Methods,0.488707331,DRIR61FL.DTA,Dominican Republic,2013
+Total,Told About Side Effects,0.395483534,DRIR61FL.DTA,Dominican Republic,2013
+Total,Told What to Do About Side Effects,0.302038524,DRIR61FL.DTA,Dominican Republic,2013
+Pill,Method Information Index,0.254537638,EGIR61FL.DTA,Egypt,2014
+IUD,Method Information Index,0.304257016,EGIR61FL.DTA,Egypt,2014
+Female Sterilization,Method Information Index,0.254430372,EGIR61FL.DTA,Egypt,2014
+Implant,Method Information Index,0.272452222,EGIR61FL.DTA,Egypt,2014
+Pill,Told About Other Methods,0.545893568,EGIR61FL.DTA,Egypt,2014
+IUD,Told About Other Methods,0.553887244,EGIR61FL.DTA,Egypt,2014
+Female Sterilization,Told About Other Methods,0.479426532,EGIR61FL.DTA,Egypt,2014
+Implant,Told About Other Methods,0.668188343,EGIR61FL.DTA,Egypt,2014
+Pill,Told About Side Effects,0.384932941,EGIR61FL.DTA,Egypt,2014
+IUD,Told About Side Effects,0.467135881,EGIR61FL.DTA,Egypt,2014
+Female Sterilization,Told About Side Effects,0.494237829,EGIR61FL.DTA,Egypt,2014
+Implant,Told About Side Effects,0.515270699,EGIR61FL.DTA,Egypt,2014
+Pill,Told What to Do About Side Effects,0.279683607,EGIR61FL.DTA,Egypt,2014
+IUD,Told What to Do About Side Effects,0.362352672,EGIR61FL.DTA,Egypt,2014
+Female Sterilization,Told What to Do About Side Effects,0.328669929,EGIR61FL.DTA,Egypt,2014
+Implant,Told What to Do About Side Effects,0.302025815,EGIR61FL.DTA,Egypt,2014
+Total,Method Information Index,0.288162888,EGIR61FL.DTA,Egypt,2014
+Total,Told About Other Methods,0.559122704,EGIR61FL.DTA,Egypt,2014
+Total,Told About Side Effects,0.450373941,EGIR61FL.DTA,Egypt,2014
+Total,Told What to Do About Side Effects,0.334946435,EGIR61FL.DTA,Egypt,2014
+Pill,Method Information Index,0.223901633,ETIR70FL.DTA,Ethiopia,2016
+IUD,Method Information Index,0.444871849,ETIR70FL.DTA,Ethiopia,2016
+Injections,Method Information Index,0.238510299,ETIR70FL.DTA,Ethiopia,2016
+Female Sterilization,Method Information Index,0.354044187,ETIR70FL.DTA,Ethiopia,2016
+Implant,Method Information Index,0.315500011,ETIR70FL.DTA,Ethiopia,2016
+Pill,Told About Other Methods,0.443403152,ETIR70FL.DTA,Ethiopia,2016
+IUD,Told About Other Methods,0.626544498,ETIR70FL.DTA,Ethiopia,2016
+Injections,Told About Other Methods,0.475969695,ETIR70FL.DTA,Ethiopia,2016
+Female Sterilization,Told About Other Methods,0.354044187,ETIR70FL.DTA,Ethiopia,2016
+Implant,Told About Other Methods,0.500230544,ETIR70FL.DTA,Ethiopia,2016
+Pill,Told About Side Effects,0.38050074,ETIR70FL.DTA,Ethiopia,2016
+IUD,Told About Side Effects,0.544246622,ETIR70FL.DTA,Ethiopia,2016
+Injections,Told About Side Effects,0.359600476,ETIR70FL.DTA,Ethiopia,2016
+Female Sterilization,Told About Side Effects,0.436178627,ETIR70FL.DTA,Ethiopia,2016
+Implant,Told About Side Effects,0.506321719,ETIR70FL.DTA,Ethiopia,2016
+Pill,Told What to Do About Side Effects,0.312355585,ETIR70FL.DTA,Ethiopia,2016
+IUD,Told What to Do About Side Effects,0.497873678,ETIR70FL.DTA,Ethiopia,2016
+Injections,Told What to Do About Side Effects,0.281279283,ETIR70FL.DTA,Ethiopia,2016
+Female Sterilization,Told What to Do About Side Effects,0.436178627,ETIR70FL.DTA,Ethiopia,2016
+Implant,Told What to Do About Side Effects,0.419282002,ETIR70FL.DTA,Ethiopia,2016
+Total,Method Information Index,0.268984344,ETIR70FL.DTA,Ethiopia,2016
+Total,Told About Other Methods,0.487804494,ETIR70FL.DTA,Ethiopia,2016
+Total,Told About Side Effects,0.407387653,ETIR70FL.DTA,Ethiopia,2016
+Total,Told What to Do About Side Effects,0.329817812,ETIR70FL.DTA,Ethiopia,2016
+Pill,Method Information Index,0.231573583,ETIR61FL.DTA,Ethiopia,2011
+IUD,Method Information Index,0.193657189,ETIR61FL.DTA,Ethiopia,2011
+Injections,Method Information Index,0.142391608,ETIR61FL.DTA,Ethiopia,2011
+Female Sterilization,Method Information Index,0.201457446,ETIR61FL.DTA,Ethiopia,2011
+Implant,Method Information Index,0.304631588,ETIR61FL.DTA,Ethiopia,2011
+Pill,Told About Other Methods,0.481768239,ETIR61FL.DTA,Ethiopia,2011
+IUD,Told About Other Methods,0.48027048,ETIR61FL.DTA,Ethiopia,2011
+Injections,Told About Other Methods,0.341386372,ETIR61FL.DTA,Ethiopia,2011
+Female Sterilization,Told About Other Methods,0.222793614,ETIR61FL.DTA,Ethiopia,2011
+Implant,Told About Other Methods,0.486140715,ETIR61FL.DTA,Ethiopia,2011
+Pill,Told About Side Effects,0.342041794,ETIR61FL.DTA,Ethiopia,2011
+IUD,Told About Side Effects,0.63244506,ETIR61FL.DTA,Ethiopia,2011
+Injections,Told About Side Effects,0.239624583,ETIR61FL.DTA,Ethiopia,2011
+Female Sterilization,Told About Side Effects,0.342883628,ETIR61FL.DTA,Ethiopia,2011
+Implant,Told About Side Effects,0.451497685,ETIR61FL.DTA,Ethiopia,2011
+Pill,Told What to Do About Side Effects,0.254114585,ETIR61FL.DTA,Ethiopia,2011
+IUD,Told What to Do About Side Effects,0.471672144,ETIR61FL.DTA,Ethiopia,2011
+Injections,Told What to Do About Side Effects,0.18127403,ETIR61FL.DTA,Ethiopia,2011
+Female Sterilization,Told What to Do About Side Effects,0.289260266,ETIR61FL.DTA,Ethiopia,2011
+Implant,Told What to Do About Side Effects,0.40851596,ETIR61FL.DTA,Ethiopia,2011
+Total,Method Information Index,0.171753904,ETIR61FL.DTA,Ethiopia,2011
+Total,Told About Other Methods,0.372214373,ETIR61FL.DTA,Ethiopia,2011
+Total,Told About Side Effects,0.280948489,ETIR61FL.DTA,Ethiopia,2011
+Total,Told What to Do About Side Effects,0.221018326,ETIR61FL.DTA,Ethiopia,2011
+Pill,Method Information Index,0.179171035,GAIR60FL.DTA,Gabon,2012
+IUD,Method Information Index,0.513635093,GAIR60FL.DTA,Gabon,2012
+Injections,Method Information Index,0.248573545,GAIR60FL.DTA,Gabon,2012
+Female Sterilization,Method Information Index,0.366735503,GAIR60FL.DTA,Gabon,2012
+Implant,Method Information Index,0.891713811,GAIR60FL.DTA,Gabon,2012
+Pill,Told About Other Methods,0.341366772,GAIR60FL.DTA,Gabon,2012
+IUD,Told About Other Methods,0.513635093,GAIR60FL.DTA,Gabon,2012
+Injections,Told About Other Methods,0.368999993,GAIR60FL.DTA,Gabon,2012
+Female Sterilization,Told About Other Methods,0.38450879,GAIR60FL.DTA,Gabon,2012
+Implant,Told About Other Methods,0.891713811,GAIR60FL.DTA,Gabon,2012
+Pill,Told About Side Effects,0.541858787,GAIR60FL.DTA,Gabon,2012
+IUD,Told About Side Effects,0.513635093,GAIR60FL.DTA,Gabon,2012
+Injections,Told About Side Effects,0.582733108,GAIR60FL.DTA,Gabon,2012
+Female Sterilization,Told About Side Effects,0.533876732,GAIR60FL.DTA,Gabon,2012
+Implant,Told About Side Effects,1,GAIR60FL.DTA,Gabon,2012
+Pill,Told What to Do About Side Effects,0.41912199,GAIR60FL.DTA,Gabon,2012
+IUD,Told What to Do About Side Effects,0.513635093,GAIR60FL.DTA,Gabon,2012
+Injections,Told What to Do About Side Effects,0.267500378,GAIR60FL.DTA,Gabon,2012
+Female Sterilization,Told What to Do About Side Effects,0.524220022,GAIR60FL.DTA,Gabon,2012
+Implant,Told What to Do About Side Effects,1,GAIR60FL.DTA,Gabon,2012
+Total,Method Information Index,0.210783369,GAIR60FL.DTA,Gabon,2012
+Total,Told About Other Methods,0.351072963,GAIR60FL.DTA,Gabon,2012
+Total,Told About Side Effects,0.544674083,GAIR60FL.DTA,Gabon,2012
+Total,Told What to Do About Side Effects,0.425132563,GAIR60FL.DTA,Gabon,2012
+Pill,Method Information Index,0.461143085,GMIR81FL.DTA,Gambia,2019
+IUD,Method Information Index,0.661850852,GMIR81FL.DTA,Gambia,2019
+Injections,Method Information Index,0.508214373,GMIR81FL.DTA,Gambia,2019
+Female Sterilization,Method Information Index,0.260343402,GMIR81FL.DTA,Gambia,2019
+Implant,Method Information Index,0.587234191,GMIR81FL.DTA,Gambia,2019
+Pill,Told About Other Methods,0.648267326,GMIR81FL.DTA,Gambia,2019
+IUD,Told About Other Methods,0.666360333,GMIR81FL.DTA,Gambia,2019
+Injections,Told About Other Methods,0.696764615,GMIR81FL.DTA,Gambia,2019
+Female Sterilization,Told About Other Methods,0.415938655,GMIR81FL.DTA,Gambia,2019
+Implant,Told About Other Methods,0.708321213,GMIR81FL.DTA,Gambia,2019
+Pill,Told About Side Effects,0.573211348,GMIR81FL.DTA,Gambia,2019
+IUD,Told About Side Effects,0.99549052,GMIR81FL.DTA,Gambia,2019
+Injections,Told About Side Effects,0.700544738,GMIR81FL.DTA,Gambia,2019
+Female Sterilization,Told About Side Effects,0.447089756,GMIR81FL.DTA,Gambia,2019
+Implant,Told About Side Effects,0.78083354,GMIR81FL.DTA,Gambia,2019
+Pill,Told What to Do About Side Effects,0.521228797,GMIR81FL.DTA,Gambia,2019
+IUD,Told What to Do About Side Effects,0.99549052,GMIR81FL.DTA,Gambia,2019
+Injections,Told What to Do About Side Effects,0.612877716,GMIR81FL.DTA,Gambia,2019
+Female Sterilization,Told What to Do About Side Effects,0.447089756,GMIR81FL.DTA,Gambia,2019
+Implant,Told What to Do About Side Effects,0.736903656,GMIR81FL.DTA,Gambia,2019
+Total,Method Information Index,0.532578724,GMIR81FL.DTA,Gambia,2019
+Total,Told About Other Methods,0.691833237,GMIR81FL.DTA,Gambia,2019
+Total,Told About Side Effects,0.720755429,GMIR81FL.DTA,Gambia,2019
+Total,Told What to Do About Side Effects,0.65670072,GMIR81FL.DTA,Gambia,2019
+Pill,Method Information Index,0.285523454,GMIR60FL.DTA,Gambia,2013
+IUD,Method Information Index,0.299012235,GMIR60FL.DTA,Gambia,2013
+Injections,Method Information Index,0.34774898,GMIR60FL.DTA,Gambia,2013
+Implant,Method Information Index,0.300998212,GMIR60FL.DTA,Gambia,2013
+Pill,Told About Other Methods,0.613854863,GMIR60FL.DTA,Gambia,2013
+IUD,Told About Other Methods,0.526865558,GMIR60FL.DTA,Gambia,2013
+Injections,Told About Other Methods,0.578866777,GMIR60FL.DTA,Gambia,2013
+Female Sterilization,Told About Other Methods,0.250577873,GMIR60FL.DTA,Gambia,2013
+Implant,Told About Other Methods,0.6529768,GMIR60FL.DTA,Gambia,2013
+Pill,Told About Side Effects,0.508309001,GMIR60FL.DTA,Gambia,2013
+IUD,Told About Side Effects,0.559708573,GMIR60FL.DTA,Gambia,2013
+Injections,Told About Side Effects,0.472013874,GMIR60FL.DTA,Gambia,2013
+Implant,Told About Side Effects,0.504321837,GMIR60FL.DTA,Gambia,2013
+Pill,Told What to Do About Side Effects,0.401834776,GMIR60FL.DTA,Gambia,2013
+IUD,Told What to Do About Side Effects,0.559708573,GMIR60FL.DTA,Gambia,2013
+Injections,Told What to Do About Side Effects,0.388496054,GMIR60FL.DTA,Gambia,2013
+Implant,Told What to Do About Side Effects,0.419575376,GMIR60FL.DTA,Gambia,2013
+Total,Method Information Index,0.323461088,GMIR60FL.DTA,Gambia,2013
+Total,Told About Other Methods,0.568203264,GMIR60FL.DTA,Gambia,2013
+Total,Told About Side Effects,0.489800106,GMIR60FL.DTA,Gambia,2013
+Total,Told What to Do About Side Effects,0.404353033,GMIR60FL.DTA,Gambia,2013
+Pill,Method Information Index,0.240920019,GHIR72FL.DTA,Ghana,2014
+IUD,Method Information Index,0.781475046,GHIR72FL.DTA,Ghana,2014
+Injections,Method Information Index,0.596376493,GHIR72FL.DTA,Ghana,2014
+Female Sterilization,Method Information Index,0.410481276,GHIR72FL.DTA,Ghana,2014
+Implant,Method Information Index,0.60254933,GHIR72FL.DTA,Ghana,2014
+Pill,Told About Other Methods,0.450079366,GHIR72FL.DTA,Ghana,2014
+IUD,Told About Other Methods,0.894253071,GHIR72FL.DTA,Ghana,2014
+Injections,Told About Other Methods,0.781054259,GHIR72FL.DTA,Ghana,2014
+Female Sterilization,Told About Other Methods,0.483677519,GHIR72FL.DTA,Ghana,2014
+Implant,Told About Other Methods,0.75484446,GHIR72FL.DTA,Ghana,2014
+Pill,Told About Side Effects,0.331572718,GHIR72FL.DTA,Ghana,2014
+IUD,Told About Side Effects,0.889977001,GHIR72FL.DTA,Ghana,2014
+Injections,Told About Side Effects,0.726092196,GHIR72FL.DTA,Ghana,2014
+Female Sterilization,Told About Side Effects,0.524813792,GHIR72FL.DTA,Ghana,2014
+Implant,Told About Side Effects,0.792273978,GHIR72FL.DTA,Ghana,2014
+Pill,Told What to Do About Side Effects,0.266597258,GHIR72FL.DTA,Ghana,2014
+IUD,Told What to Do About Side Effects,0.788987695,GHIR72FL.DTA,Ghana,2014
+Injections,Told What to Do About Side Effects,0.640864578,GHIR72FL.DTA,Ghana,2014
+Female Sterilization,Told What to Do About Side Effects,0.484134501,GHIR72FL.DTA,Ghana,2014
+Implant,Told What to Do About Side Effects,0.68241124,GHIR72FL.DTA,Ghana,2014
+Total,Method Information Index,0.503692325,GHIR72FL.DTA,Ghana,2014
+Total,Told About Other Methods,0.676873346,GHIR72FL.DTA,Ghana,2014
+Total,Told About Side Effects,0.637169827,GHIR72FL.DTA,Ghana,2014
+Total,Told What to Do About Side Effects,0.553077678,GHIR72FL.DTA,Ghana,2014
+Pill,Method Information Index,0.363795841,GUIR71FL.DTA,Guatemala,2014
+IUD,Method Information Index,0.615236152,GUIR71FL.DTA,Guatemala,2014
+Injections,Method Information Index,0.331811827,GUIR71FL.DTA,Guatemala,2014
+Female Sterilization,Method Information Index,0.223038731,GUIR71FL.DTA,Guatemala,2014
+Implant,Method Information Index,0.582965169,GUIR71FL.DTA,Guatemala,2014
+Pill,Told About Other Methods,0.701890688,GUIR71FL.DTA,Guatemala,2014
+IUD,Told About Other Methods,0.851274778,GUIR71FL.DTA,Guatemala,2014
+Injections,Told About Other Methods,0.700563444,GUIR71FL.DTA,Guatemala,2014
+Female Sterilization,Told About Other Methods,0.510442033,GUIR71FL.DTA,Guatemala,2014
+Implant,Told About Other Methods,0.812468885,GUIR71FL.DTA,Guatemala,2014
+Pill,Told About Side Effects,0.539920061,GUIR71FL.DTA,Guatemala,2014
+IUD,Told About Side Effects,0.772119975,GUIR71FL.DTA,Guatemala,2014
+Injections,Told About Side Effects,0.517514369,GUIR71FL.DTA,Guatemala,2014
+Female Sterilization,Told About Side Effects,0.390473656,GUIR71FL.DTA,Guatemala,2014
+Implant,Told About Side Effects,0.767918616,GUIR71FL.DTA,Guatemala,2014
+Pill,Told What to Do About Side Effects,0.39017216,GUIR71FL.DTA,Guatemala,2014
+IUD,Told What to Do About Side Effects,0.681285362,GUIR71FL.DTA,Guatemala,2014
+Injections,Told What to Do About Side Effects,0.370885523,GUIR71FL.DTA,Guatemala,2014
+Female Sterilization,Told What to Do About Side Effects,0.275737113,GUIR71FL.DTA,Guatemala,2014
+Implant,Told What to Do About Side Effects,0.670637248,GUIR71FL.DTA,Guatemala,2014
+Total,Method Information Index,0.32662242,GUIR71FL.DTA,Guatemala,2014
+Total,Told About Other Methods,0.65238043,GUIR71FL.DTA,Guatemala,2014
+Total,Told About Side Effects,0.504274305,GUIR71FL.DTA,Guatemala,2014
+Total,Told What to Do About Side Effects,0.372954669,GUIR71FL.DTA,Guatemala,2014
+Pill,Method Information Index,0.283268071,GNIR71FL.DTA,Guinea,2018
+IUD,Method Information Index,0.358493741,GNIR71FL.DTA,Guinea,2018
+Injections,Method Information Index,0.338136675,GNIR71FL.DTA,Guinea,2018
+Female Sterilization,Method Information Index,0.161364335,GNIR71FL.DTA,Guinea,2018
+Implant,Method Information Index,0.363623648,GNIR71FL.DTA,Guinea,2018
+Pill,Told About Other Methods,0.48694237,GNIR71FL.DTA,Guinea,2018
+IUD,Told About Other Methods,0.813885124,GNIR71FL.DTA,Guinea,2018
+Injections,Told About Other Methods,0.657974247,GNIR71FL.DTA,Guinea,2018
+Female Sterilization,Told About Other Methods,0.494433371,GNIR71FL.DTA,Guinea,2018
+Implant,Told About Other Methods,0.572453248,GNIR71FL.DTA,Guinea,2018
+Pill,Told About Side Effects,0.442919973,GNIR71FL.DTA,Guinea,2018
+IUD,Told About Side Effects,0.543900877,GNIR71FL.DTA,Guinea,2018
+Injections,Told About Side Effects,0.516333534,GNIR71FL.DTA,Guinea,2018
+Female Sterilization,Told About Side Effects,0.446814123,GNIR71FL.DTA,Guinea,2018
+Implant,Told About Side Effects,0.586490708,GNIR71FL.DTA,Guinea,2018
+Pill,Told What to Do About Side Effects,0.378692031,GNIR71FL.DTA,Guinea,2018
+IUD,Told What to Do About Side Effects,0.465582057,GNIR71FL.DTA,Guinea,2018
+Injections,Told What to Do About Side Effects,0.436674196,GNIR71FL.DTA,Guinea,2018
+Female Sterilization,Told What to Do About Side Effects,0.446814123,GNIR71FL.DTA,Guinea,2018
+Implant,Told What to Do About Side Effects,0.517607953,GNIR71FL.DTA,Guinea,2018
+Total,Method Information Index,0.331202382,GNIR71FL.DTA,Guinea,2018
+Total,Told About Other Methods,0.58973669,GNIR71FL.DTA,Guinea,2018
+Total,Told About Side Effects,0.52002813,GNIR71FL.DTA,Guinea,2018
+Total,Told What to Do About Side Effects,0.448872827,GNIR71FL.DTA,Guinea,2018
+Pill,Method Information Index,0.293209734,GNIR62FL.DTA,Guinea,2012
+IUD,Method Information Index,0.684464776,GNIR62FL.DTA,Guinea,2012
+Injections,Method Information Index,0.313025559,GNIR62FL.DTA,Guinea,2012
+Female Sterilization,Method Information Index,0.125556865,GNIR62FL.DTA,Guinea,2012
+Implant,Method Information Index,0.601369505,GNIR62FL.DTA,Guinea,2012
+Pill,Told About Other Methods,0.529550949,GNIR62FL.DTA,Guinea,2012
+IUD,Told About Other Methods,0.921159246,GNIR62FL.DTA,Guinea,2012
+Injections,Told About Other Methods,0.41928922,GNIR62FL.DTA,Guinea,2012
+Female Sterilization,Told About Other Methods,0.125556865,GNIR62FL.DTA,Guinea,2012
+Implant,Told About Other Methods,1,GNIR62FL.DTA,Guinea,2012
+Pill,Told About Side Effects,0.445564097,GNIR62FL.DTA,Guinea,2012
+IUD,Told About Side Effects,0.711475839,GNIR62FL.DTA,Guinea,2012
+Injections,Told About Side Effects,0.551644775,GNIR62FL.DTA,Guinea,2012
+Female Sterilization,Told About Side Effects,0.334261138,GNIR62FL.DTA,Guinea,2012
+Implant,Told About Side Effects,0.601369505,GNIR62FL.DTA,Guinea,2012
+Pill,Told What to Do About Side Effects,0.368676481,GNIR62FL.DTA,Guinea,2012
+IUD,Told What to Do About Side Effects,0.684464776,GNIR62FL.DTA,Guinea,2012
+Injections,Told What to Do About Side Effects,0.482650608,GNIR62FL.DTA,Guinea,2012
+Female Sterilization,Told What to Do About Side Effects,0.334261138,GNIR62FL.DTA,Guinea,2012
+Implant,Told What to Do About Side Effects,0.601369505,GNIR62FL.DTA,Guinea,2012
+Total,Method Information Index,0.327439024,GNIR62FL.DTA,Guinea,2012
+Total,Told About Other Methods,0.508098506,GNIR62FL.DTA,Guinea,2012
+Total,Told About Side Effects,0.508069718,GNIR62FL.DTA,Guinea,2012
+Total,Told What to Do About Side Effects,0.440706623,GNIR62FL.DTA,Guinea,2012
+Pill,Method Information Index,0.206285686,HNIR62FL.DTA,Honduras,2011
+IUD,Method Information Index,0.509310902,HNIR62FL.DTA,Honduras,2011
+Injections,Method Information Index,0.271096187,HNIR62FL.DTA,Honduras,2011
+Female Sterilization,Method Information Index,0.155795069,HNIR62FL.DTA,Honduras,2011
+Implant,Method Information Index,0,HNIR62FL.DTA,Honduras,2011
+Pill,Told About Other Methods,0.57469742,HNIR62FL.DTA,Honduras,2011
+IUD,Told About Other Methods,0.822823506,HNIR62FL.DTA,Honduras,2011
+Injections,Told About Other Methods,0.685793504,HNIR62FL.DTA,Honduras,2011
+Female Sterilization,Told About Other Methods,0.423105221,HNIR62FL.DTA,Honduras,2011
+Implant,Told About Other Methods,0,HNIR62FL.DTA,Honduras,2011
+Pill,Told About Side Effects,0.36421943,HNIR62FL.DTA,Honduras,2011
+IUD,Told About Side Effects,0.672804095,HNIR62FL.DTA,Honduras,2011
+Injections,Told About Side Effects,0.44827897,HNIR62FL.DTA,Honduras,2011
+Female Sterilization,Told About Side Effects,0.334327527,HNIR62FL.DTA,Honduras,2011
+Implant,Told About Side Effects,1,HNIR62FL.DTA,Honduras,2011
+Pill,Told What to Do About Side Effects,0.2498927,HNIR62FL.DTA,Honduras,2011
+IUD,Told What to Do About Side Effects,0.572819591,HNIR62FL.DTA,Honduras,2011
+Injections,Told What to Do About Side Effects,0.308390934,HNIR62FL.DTA,Honduras,2011
+Female Sterilization,Told What to Do About Side Effects,0.228632511,HNIR62FL.DTA,Honduras,2011
+Implant,Told What to Do About Side Effects,0,HNIR62FL.DTA,Honduras,2011
+Total,Method Information Index,0.256708609,HNIR62FL.DTA,Honduras,2011
+Total,Told About Other Methods,0.61208496,HNIR62FL.DTA,Honduras,2011
+Total,Told About Side Effects,0.427929182,HNIR62FL.DTA,Honduras,2011
+Total,Told What to Do About Side Effects,0.307302166,HNIR62FL.DTA,Honduras,2011
+Pill,Method Information Index,0.491900114,IAIR7DFL.DTA,India,2019
+IUD,Method Information Index,0.571064224,IAIR7DFL.DTA,India,2019
+Injections,Method Information Index,0.570569893,IAIR7DFL.DTA,India,2019
+Female Sterilization,Method Information Index,0.422544347,IAIR7DFL.DTA,India,2019
+Pill,Told About Other Methods,0.691319993,IAIR7DFL.DTA,India,2019
+IUD,Told About Other Methods,0.72943195,IAIR7DFL.DTA,India,2019
+Injections,Told About Other Methods,0.779599104,IAIR7DFL.DTA,India,2019
+Female Sterilization,Told About Other Methods,0.592666526,IAIR7DFL.DTA,India,2019
+Pill,Told About Side Effects,0.592360807,IAIR7DFL.DTA,India,2019
+IUD,Told About Side Effects,0.701649127,IAIR7DFL.DTA,India,2019
+Injections,Told About Side Effects,0.703929768,IAIR7DFL.DTA,India,2019
+Female Sterilization,Told About Side Effects,0.547304367,IAIR7DFL.DTA,India,2019
+Pill,Told What to Do About Side Effects,0.524717007,IAIR7DFL.DTA,India,2019
+IUD,Told What to Do About Side Effects,0.634193598,IAIR7DFL.DTA,India,2019
+Injections,Told What to Do About Side Effects,0.616847138,IAIR7DFL.DTA,India,2019
+Female Sterilization,Told What to Do About Side Effects,0.482102176,IAIR7DFL.DTA,India,2019
+Total,Method Information Index,0.459561763,IAIR7DFL.DTA,India,2019
+Total,Told About Other Methods,0.65143414,IAIR7DFL.DTA,India,2019
+Total,Told About Side Effects,0.579695788,IAIR7DFL.DTA,India,2019
+Total,Told What to Do About Side Effects,0.512996964,IAIR7DFL.DTA,India,2019
+Pill,Method Information Index,0.390657709,IAIR73FL.DTA,India,2015
+IUD,Method Information Index,0.489644248,IAIR73FL.DTA,India,2015
+Injections,Method Information Index,0.339921437,IAIR73FL.DTA,India,2015
+Female Sterilization,Method Information Index,0.281154554,IAIR73FL.DTA,India,2015
+Pill,Told About Other Methods,0.592121553,IAIR73FL.DTA,India,2015
+IUD,Told About Other Methods,0.669947669,IAIR73FL.DTA,India,2015
+Injections,Told About Other Methods,0.637910798,IAIR73FL.DTA,India,2015
+Female Sterilization,Told About Other Methods,0.441512173,IAIR73FL.DTA,India,2015
+Pill,Told About Side Effects,0.489657785,IAIR73FL.DTA,India,2015
+IUD,Told About Side Effects,0.631386923,IAIR73FL.DTA,India,2015
+Injections,Told About Side Effects,0.47311534,IAIR73FL.DTA,India,2015
+Female Sterilization,Told About Side Effects,0.396920214,IAIR73FL.DTA,India,2015
+Pill,Told What to Do About Side Effects,0.424112478,IAIR73FL.DTA,India,2015
+IUD,Told What to Do About Side Effects,0.559617173,IAIR73FL.DTA,India,2015
+Injections,Told What to Do About Side Effects,0.388073864,IAIR73FL.DTA,India,2015
+Female Sterilization,Told What to Do About Side Effects,0.336056345,IAIR73FL.DTA,India,2015
+Total,Method Information Index,0.324021189,IAIR73FL.DTA,India,2015
+Total,Told About Other Methods,0.514644648,IAIR73FL.DTA,India,2015
+Total,Told About Side Effects,0.43857209,IAIR73FL.DTA,India,2015
+Total,Told What to Do About Side Effects,0.375460526,IAIR73FL.DTA,India,2015
+Pill,Method Information Index,0.190446904,IDIR71FL.DTA,Indonesia,2017
+IUD,Method Information Index,0.353960747,IDIR71FL.DTA,Indonesia,2017
+Injections,Method Information Index,0.255291899,IDIR71FL.DTA,Indonesia,2017
+Female Sterilization,Method Information Index,0.210142271,IDIR71FL.DTA,Indonesia,2017
+Implant,Method Information Index,0.273694977,IDIR71FL.DTA,Indonesia,2017
+Pill,Told About Other Methods,0.464490569,IDIR71FL.DTA,Indonesia,2017
+IUD,Told About Other Methods,0.596631861,IDIR71FL.DTA,Indonesia,2017
+Injections,Told About Other Methods,0.593465398,IDIR71FL.DTA,Indonesia,2017
+Female Sterilization,Told About Other Methods,0.422498874,IDIR71FL.DTA,Indonesia,2017
+Implant,Told About Other Methods,0.57520695,IDIR71FL.DTA,Indonesia,2017
+Pill,Told About Side Effects,0.278296521,IDIR71FL.DTA,Indonesia,2017
+IUD,Told About Side Effects,0.574961027,IDIR71FL.DTA,Indonesia,2017
+Injections,Told About Side Effects,0.410157657,IDIR71FL.DTA,Indonesia,2017
+Female Sterilization,Told About Side Effects,0.429488973,IDIR71FL.DTA,Indonesia,2017
+Implant,Told About Side Effects,0.425778726,IDIR71FL.DTA,Indonesia,2017
+Pill,Told What to Do About Side Effects,0.221773299,IDIR71FL.DTA,Indonesia,2017
+IUD,Told What to Do About Side Effects,0.491110371,IDIR71FL.DTA,Indonesia,2017
+Injections,Told What to Do About Side Effects,0.305304776,IDIR71FL.DTA,Indonesia,2017
+Female Sterilization,Told What to Do About Side Effects,0.306129463,IDIR71FL.DTA,Indonesia,2017
+Implant,Told What to Do About Side Effects,0.36490704,IDIR71FL.DTA,Indonesia,2017
+Total,Method Information Index,0.252905744,IDIR71FL.DTA,Indonesia,2017
+Total,Told About Other Methods,0.561310713,IDIR71FL.DTA,Indonesia,2017
+Total,Told About Side Effects,0.402492953,IDIR71FL.DTA,Indonesia,2017
+Total,Told What to Do About Side Effects,0.313674421,IDIR71FL.DTA,Indonesia,2017
+Pill,Method Information Index,0.173255769,IDIR63FL.DTA,Indonesia,2012
+IUD,Method Information Index,0.368318408,IDIR63FL.DTA,Indonesia,2012
+Injections,Method Information Index,0.215508028,IDIR63FL.DTA,Indonesia,2012
+Female Sterilization,Method Information Index,0.197164112,IDIR63FL.DTA,Indonesia,2012
+Implant,Method Information Index,0.2140478,IDIR63FL.DTA,Indonesia,2012
+Pill,Told About Other Methods,0.492328833,IDIR63FL.DTA,Indonesia,2012
+IUD,Told About Other Methods,0.566716723,IDIR63FL.DTA,Indonesia,2012
+Injections,Told About Other Methods,0.538386165,IDIR63FL.DTA,Indonesia,2012
+Female Sterilization,Told About Other Methods,0.430337086,IDIR63FL.DTA,Indonesia,2012
+Implant,Told About Other Methods,0.50020032,IDIR63FL.DTA,Indonesia,2012
+Pill,Told About Side Effects,0.284787169,IDIR63FL.DTA,Indonesia,2012
+IUD,Told About Side Effects,0.568312763,IDIR63FL.DTA,Indonesia,2012
+Injections,Told About Side Effects,0.388218217,IDIR63FL.DTA,Indonesia,2012
+Female Sterilization,Told About Side Effects,0.361409312,IDIR63FL.DTA,Indonesia,2012
+Implant,Told About Side Effects,0.384614019,IDIR63FL.DTA,Indonesia,2012
+Pill,Told What to Do About Side Effects,0.20985548,IDIR63FL.DTA,Indonesia,2012
+IUD,Told What to Do About Side Effects,0.49275637,IDIR63FL.DTA,Indonesia,2012
+Injections,Told What to Do About Side Effects,0.275224544,IDIR63FL.DTA,Indonesia,2012
+Female Sterilization,Told What to Do About Side Effects,0.291425732,IDIR63FL.DTA,Indonesia,2012
+Implant,Told What to Do About Side Effects,0.306534536,IDIR63FL.DTA,Indonesia,2012
+Total,Method Information Index,0.213401342,IDIR63FL.DTA,Indonesia,2012
+Total,Told About Other Methods,0.522162946,IDIR63FL.DTA,Indonesia,2012
+Total,Told About Side Effects,0.372449066,IDIR63FL.DTA,Indonesia,2012
+Total,Told What to Do About Side Effects,0.274899867,IDIR63FL.DTA,Indonesia,2012
+Pill,Method Information Index,0.471478043,JOIR72FL.DTA,Jordan,2017
+IUD,Method Information Index,0.545461876,JOIR72FL.DTA,Jordan,2017
+Injections,Method Information Index,0.511243896,JOIR72FL.DTA,Jordan,2017
+Female Sterilization,Method Information Index,0.475318471,JOIR72FL.DTA,Jordan,2017
+Implant,Method Information Index,0.660799173,JOIR72FL.DTA,Jordan,2017
+Pill,Told About Other Methods,0.623839474,JOIR72FL.DTA,Jordan,2017
+IUD,Told About Other Methods,0.685094642,JOIR72FL.DTA,Jordan,2017
+Injections,Told About Other Methods,0.701678631,JOIR72FL.DTA,Jordan,2017
+Female Sterilization,Told About Other Methods,0.643391401,JOIR72FL.DTA,Jordan,2017
+Implant,Told About Other Methods,0.757564427,JOIR72FL.DTA,Jordan,2017
+Pill,Told About Side Effects,0.672705048,JOIR72FL.DTA,Jordan,2017
+IUD,Told About Side Effects,0.707138766,JOIR72FL.DTA,Jordan,2017
+Injections,Told About Side Effects,0.675398843,JOIR72FL.DTA,Jordan,2017
+Female Sterilization,Told About Side Effects,0.61483498,JOIR72FL.DTA,Jordan,2017
+Implant,Told About Side Effects,0.78019344,JOIR72FL.DTA,Jordan,2017
+Pill,Told What to Do About Side Effects,0.575635071,JOIR72FL.DTA,Jordan,2017
+IUD,Told What to Do About Side Effects,0.64617698,JOIR72FL.DTA,Jordan,2017
+Injections,Told What to Do About Side Effects,0.564954385,JOIR72FL.DTA,Jordan,2017
+Female Sterilization,Told What to Do About Side Effects,0.563670427,JOIR72FL.DTA,Jordan,2017
+Implant,Told What to Do About Side Effects,0.67994356,JOIR72FL.DTA,Jordan,2017
+Total,Method Information Index,0.520338855,JOIR72FL.DTA,Jordan,2017
+Total,Told About Other Methods,0.665914542,JOIR72FL.DTA,Jordan,2017
+Total,Told About Side Effects,0.693148235,JOIR72FL.DTA,Jordan,2017
+Total,Told What to Do About Side Effects,0.619304885,JOIR72FL.DTA,Jordan,2017
+Pill,Method Information Index,0.49663868,JOIR6CFL.DTA,Jordan,2012
+IUD,Method Information Index,0.497785617,JOIR6CFL.DTA,Jordan,2012
+Injections,Method Information Index,0.556498573,JOIR6CFL.DTA,Jordan,2012
+Female Sterilization,Method Information Index,0.407498654,JOIR6CFL.DTA,Jordan,2012
+Implant,Method Information Index,0.564598152,JOIR6CFL.DTA,Jordan,2012
+Pill,Told About Other Methods,0.778865615,JOIR6CFL.DTA,Jordan,2012
+IUD,Told About Other Methods,0.747446452,JOIR6CFL.DTA,Jordan,2012
+Injections,Told About Other Methods,0.852770008,JOIR6CFL.DTA,Jordan,2012
+Female Sterilization,Told About Other Methods,0.693415438,JOIR6CFL.DTA,Jordan,2012
+Implant,Told About Other Methods,0.677973954,JOIR6CFL.DTA,Jordan,2012
+Pill,Told About Side Effects,0.683732639,JOIR6CFL.DTA,Jordan,2012
+IUD,Told About Side Effects,0.705285705,JOIR6CFL.DTA,Jordan,2012
+Injections,Told About Side Effects,0.680791484,JOIR6CFL.DTA,Jordan,2012
+Female Sterilization,Told About Side Effects,0.628175935,JOIR6CFL.DTA,Jordan,2012
+Implant,Told About Side Effects,0.860823043,JOIR6CFL.DTA,Jordan,2012
+Pill,Told What to Do About Side Effects,0.539321236,JOIR6CFL.DTA,Jordan,2012
+IUD,Told What to Do About Side Effects,0.591365133,JOIR6CFL.DTA,Jordan,2012
+Injections,Told What to Do About Side Effects,0.582223134,JOIR6CFL.DTA,Jordan,2012
+Female Sterilization,Told What to Do About Side Effects,0.464327768,JOIR6CFL.DTA,Jordan,2012
+Implant,Told What to Do About Side Effects,0.722193091,JOIR6CFL.DTA,Jordan,2012
+Total,Method Information Index,0.496971304,JOIR6CFL.DTA,Jordan,2012
+Total,Told About Other Methods,0.757062598,JOIR6CFL.DTA,Jordan,2012
+Total,Told About Side Effects,0.697429976,JOIR6CFL.DTA,Jordan,2012
+Total,Told What to Do About Side Effects,0.573319421,JOIR6CFL.DTA,Jordan,2012
+Pill,Method Information Index,0.342527049,KEIR72FL.DTA,Kenya,2014
+IUD,Method Information Index,0.639422412,KEIR72FL.DTA,Kenya,2014
+Injections,Method Information Index,0.389236196,KEIR72FL.DTA,Kenya,2014
+Female Sterilization,Method Information Index,0.362322018,KEIR72FL.DTA,Kenya,2014
+Implant,Method Information Index,0.547238828,KEIR72FL.DTA,Kenya,2014
+Pill,Told About Other Methods,0.666289996,KEIR72FL.DTA,Kenya,2014
+IUD,Told About Other Methods,0.814997532,KEIR72FL.DTA,Kenya,2014
+Injections,Told About Other Methods,0.673419259,KEIR72FL.DTA,Kenya,2014
+Female Sterilization,Told About Other Methods,0.668551717,KEIR72FL.DTA,Kenya,2014
+Implant,Told About Other Methods,0.774480279,KEIR72FL.DTA,Kenya,2014
+Pill,Told About Side Effects,0.429712372,KEIR72FL.DTA,Kenya,2014
+IUD,Told About Side Effects,0.773903569,KEIR72FL.DTA,Kenya,2014
+Injections,Told About Side Effects,0.49513751,KEIR72FL.DTA,Kenya,2014
+Female Sterilization,Told About Side Effects,0.492139217,KEIR72FL.DTA,Kenya,2014
+Implant,Told About Side Effects,0.681887325,KEIR72FL.DTA,Kenya,2014
+Pill,Told What to Do About Side Effects,0.381543263,KEIR72FL.DTA,Kenya,2014
+IUD,Told What to Do About Side Effects,0.712226272,KEIR72FL.DTA,Kenya,2014
+Injections,Told What to Do About Side Effects,0.433581792,KEIR72FL.DTA,Kenya,2014
+Female Sterilization,Told What to Do About Side Effects,0.45975467,KEIR72FL.DTA,Kenya,2014
+Implant,Told What to Do About Side Effects,0.619172127,KEIR72FL.DTA,Kenya,2014
+Total,Method Information Index,0.432276894,KEIR72FL.DTA,Kenya,2014
+Total,Told About Other Methods,0.703443862,KEIR72FL.DTA,Kenya,2014
+Total,Told About Side Effects,0.54461408,KEIR72FL.DTA,Kenya,2014
+Total,Told What to Do About Side Effects,0.485871131,KEIR72FL.DTA,Kenya,2014
+Pill,Method Information Index,0.513096729,KYIR61FL.DTA,Kyrgyz Republic,2012
+IUD,Method Information Index,0.69253574,KYIR61FL.DTA,Kyrgyz Republic,2012
+Injections,Method Information Index,0.514025433,KYIR61FL.DTA,Kyrgyz Republic,2012
+Female Sterilization,Method Information Index,0.477219405,KYIR61FL.DTA,Kyrgyz Republic,2012
+Pill,Told About Other Methods,0.66111751,KYIR61FL.DTA,Kyrgyz Republic,2012
+IUD,Told About Other Methods,0.772538142,KYIR61FL.DTA,Kyrgyz Republic,2012
+Injections,Told About Other Methods,0.825163252,KYIR61FL.DTA,Kyrgyz Republic,2012
+Female Sterilization,Told About Other Methods,0.649195756,KYIR61FL.DTA,Kyrgyz Republic,2012
+Pill,Told About Side Effects,0.709495714,KYIR61FL.DTA,Kyrgyz Republic,2012
+IUD,Told About Side Effects,0.843654436,KYIR61FL.DTA,Kyrgyz Republic,2012
+Injections,Told About Side Effects,0.87893476,KYIR61FL.DTA,Kyrgyz Republic,2012
+Female Sterilization,Told About Side Effects,0.796252237,KYIR61FL.DTA,Kyrgyz Republic,2012
+Pill,Told What to Do About Side Effects,0.623187026,KYIR61FL.DTA,Kyrgyz Republic,2012
+IUD,Told What to Do About Side Effects,0.796163927,KYIR61FL.DTA,Kyrgyz Republic,2012
+Injections,Told What to Do About Side Effects,0.567796941,KYIR61FL.DTA,Kyrgyz Republic,2012
+Female Sterilization,Told What to Do About Side Effects,0.70664382,KYIR61FL.DTA,Kyrgyz Republic,2012
+Total,Method Information Index,0.667378535,KYIR61FL.DTA,Kyrgyz Republic,2012
+Total,Told About Other Methods,0.760128622,KYIR61FL.DTA,Kyrgyz Republic,2012
+Total,Told About Side Effects,0.830681257,KYIR61FL.DTA,Kyrgyz Republic,2012
+Total,Told What to Do About Side Effects,0.774333678,KYIR61FL.DTA,Kyrgyz Republic,2012
+Pill,Method Information Index,0.244028674,LSIR71FL.DTA,Lesotho,2014
+IUD,Method Information Index,0.554671911,LSIR71FL.DTA,Lesotho,2014
+Injections,Method Information Index,0.266494251,LSIR71FL.DTA,Lesotho,2014
+Female Sterilization,Method Information Index,0.038771917,LSIR71FL.DTA,Lesotho,2014
+Implant,Method Information Index,0.44285029,LSIR71FL.DTA,Lesotho,2014
+Pill,Told About Other Methods,0.580282237,LSIR71FL.DTA,Lesotho,2014
+IUD,Told About Other Methods,0.849455837,LSIR71FL.DTA,Lesotho,2014
+Injections,Told About Other Methods,0.628315822,LSIR71FL.DTA,Lesotho,2014
+Female Sterilization,Told About Other Methods,0.548797797,LSIR71FL.DTA,Lesotho,2014
+Implant,Told About Other Methods,0.773073067,LSIR71FL.DTA,Lesotho,2014
+Pill,Told About Side Effects,0.387693464,LSIR71FL.DTA,Lesotho,2014
+IUD,Told About Side Effects,0.678511765,LSIR71FL.DTA,Lesotho,2014
+Injections,Told About Side Effects,0.382021892,LSIR71FL.DTA,Lesotho,2014
+Female Sterilization,Told About Side Effects,0.257637204,LSIR71FL.DTA,Lesotho,2014
+Implant,Told About Side Effects,0.591859416,LSIR71FL.DTA,Lesotho,2014
+Pill,Told What to Do About Side Effects,0.307192413,LSIR71FL.DTA,Lesotho,2014
+IUD,Told What to Do About Side Effects,0.62704333,LSIR71FL.DTA,Lesotho,2014
+Injections,Told What to Do About Side Effects,0.319858164,LSIR71FL.DTA,Lesotho,2014
+Female Sterilization,Told What to Do About Side Effects,0.076754391,LSIR71FL.DTA,Lesotho,2014
+Implant,Told What to Do About Side Effects,0.546923193,LSIR71FL.DTA,Lesotho,2014
+Total,Method Information Index,0.270207376,LSIR71FL.DTA,Lesotho,2014
+Total,Told About Other Methods,0.622932512,LSIR71FL.DTA,Lesotho,2014
+Total,Told About Side Effects,0.398328091,LSIR71FL.DTA,Lesotho,2014
+Total,Told What to Do About Side Effects,0.329130728,LSIR71FL.DTA,Lesotho,2014
+Pill,Method Information Index,0.466746549,LBIR7AFL.DTA,Liberia,2019
+IUD,Method Information Index,1,LBIR7AFL.DTA,Liberia,2019
+Injections,Method Information Index,0.456839713,LBIR7AFL.DTA,Liberia,2019
+Female Sterilization,Method Information Index,0.424121996,LBIR7AFL.DTA,Liberia,2019
+Implant,Method Information Index,0.600569496,LBIR7AFL.DTA,Liberia,2019
+Pill,Told About Other Methods,0.551374263,LBIR7AFL.DTA,Liberia,2019
+IUD,Told About Other Methods,1,LBIR7AFL.DTA,Liberia,2019
+Injections,Told About Other Methods,0.583479961,LBIR7AFL.DTA,Liberia,2019
+Female Sterilization,Told About Other Methods,0.485259249,LBIR7AFL.DTA,Liberia,2019
+Implant,Told About Other Methods,0.713224443,LBIR7AFL.DTA,Liberia,2019
+Pill,Told About Side Effects,0.591063509,LBIR7AFL.DTA,Liberia,2019
+IUD,Told About Side Effects,1,LBIR7AFL.DTA,Liberia,2019
+Injections,Told About Side Effects,0.583732011,LBIR7AFL.DTA,Liberia,2019
+Female Sterilization,Told About Side Effects,0.424121996,LBIR7AFL.DTA,Liberia,2019
+Implant,Told About Side Effects,0.798505933,LBIR7AFL.DTA,Liberia,2019
+Pill,Told What to Do About Side Effects,0.536616245,LBIR7AFL.DTA,Liberia,2019
+IUD,Told What to Do About Side Effects,1,LBIR7AFL.DTA,Liberia,2019
+Injections,Told What to Do About Side Effects,0.54923197,LBIR7AFL.DTA,Liberia,2019
+Female Sterilization,Told What to Do About Side Effects,0.424121996,LBIR7AFL.DTA,Liberia,2019
+Implant,Told What to Do About Side Effects,0.761018512,LBIR7AFL.DTA,Liberia,2019
+Total,Method Information Index,0.492121423,LBIR7AFL.DTA,Liberia,2019
+Total,Told About Other Methods,0.6047415,LBIR7AFL.DTA,Liberia,2019
+Total,Told About Side Effects,0.633763616,LBIR7AFL.DTA,Liberia,2019
+Total,Told What to Do About Side Effects,0.596172132,LBIR7AFL.DTA,Liberia,2019
+Pill,Method Information Index,0.521685625,LBIR6AFL.DTA,Liberia,2013
+IUD,Method Information Index,1,LBIR6AFL.DTA,Liberia,2013
+Injections,Method Information Index,0.62435464,LBIR6AFL.DTA,Liberia,2013
+Female Sterilization,Method Information Index,0.218594937,LBIR6AFL.DTA,Liberia,2013
+Implant,Method Information Index,0.755937664,LBIR6AFL.DTA,Liberia,2013
+Pill,Told About Other Methods,0.645298855,LBIR6AFL.DTA,Liberia,2013
+IUD,Told About Other Methods,1,LBIR6AFL.DTA,Liberia,2013
+Injections,Told About Other Methods,0.732230007,LBIR6AFL.DTA,Liberia,2013
+Female Sterilization,Told About Other Methods,0.602571802,LBIR6AFL.DTA,Liberia,2013
+Implant,Told About Other Methods,0.812124213,LBIR6AFL.DTA,Liberia,2013
+Pill,Told About Side Effects,0.640871443,LBIR6AFL.DTA,Liberia,2013
+IUD,Told About Side Effects,1,LBIR6AFL.DTA,Liberia,2013
+Injections,Told About Side Effects,0.763263732,LBIR6AFL.DTA,Liberia,2013
+Female Sterilization,Told About Side Effects,0.615695419,LBIR6AFL.DTA,Liberia,2013
+Implant,Told About Side Effects,0.901006046,LBIR6AFL.DTA,Liberia,2013
+Pill,Told What to Do About Side Effects,0.612931473,LBIR6AFL.DTA,Liberia,2013
+IUD,Told What to Do About Side Effects,1,LBIR6AFL.DTA,Liberia,2013
+Injections,Told What to Do About Side Effects,0.721407734,LBIR6AFL.DTA,Liberia,2013
+Female Sterilization,Told What to Do About Side Effects,0.458013669,LBIR6AFL.DTA,Liberia,2013
+Implant,Told What to Do About Side Effects,0.868924485,LBIR6AFL.DTA,Liberia,2013
+Total,Method Information Index,0.615361555,LBIR6AFL.DTA,Liberia,2013
+Total,Told About Other Methods,0.721935422,LBIR6AFL.DTA,Liberia,2013
+Total,Told About Side Effects,0.751944599,LBIR6AFL.DTA,Liberia,2013
+Total,Told What to Do About Side Effects,0.713763837,LBIR6AFL.DTA,Liberia,2013
+Pill,Method Information Index,0.147310613,MDIR81FL.DTA,Madagascar,2021
+IUD,Method Information Index,0.252003187,MDIR81FL.DTA,Madagascar,2021
+Injections,Method Information Index,0.164107979,MDIR81FL.DTA,Madagascar,2021
+Female Sterilization,Method Information Index,0.230628787,MDIR81FL.DTA,Madagascar,2021
+Implant,Method Information Index,0.264919546,MDIR81FL.DTA,Madagascar,2021
+Pill,Told About Other Methods,0.540376249,MDIR81FL.DTA,Madagascar,2021
+IUD,Told About Other Methods,0.776676252,MDIR81FL.DTA,Madagascar,2021
+Injections,Told About Other Methods,0.56486971,MDIR81FL.DTA,Madagascar,2021
+Female Sterilization,Told About Other Methods,0.454126914,MDIR81FL.DTA,Madagascar,2021
+Implant,Told About Other Methods,0.679485894,MDIR81FL.DTA,Madagascar,2021
+Pill,Told About Side Effects,0.190603289,MDIR81FL.DTA,Madagascar,2021
+IUD,Told About Side Effects,0.297400588,MDIR81FL.DTA,Madagascar,2021
+Injections,Told About Side Effects,0.221353944,MDIR81FL.DTA,Madagascar,2021
+Female Sterilization,Told About Side Effects,0.355592927,MDIR81FL.DTA,Madagascar,2021
+Implant,Told About Side Effects,0.346312621,MDIR81FL.DTA,Madagascar,2021
+Pill,Told What to Do About Side Effects,0.155168075,MDIR81FL.DTA,Madagascar,2021
+IUD,Told What to Do About Side Effects,0.262238949,MDIR81FL.DTA,Madagascar,2021
+Injections,Told What to Do About Side Effects,0.181314763,MDIR81FL.DTA,Madagascar,2021
+Female Sterilization,Told What to Do About Side Effects,0.2597564,MDIR81FL.DTA,Madagascar,2021
+Implant,Told What to Do About Side Effects,0.312821116,MDIR81FL.DTA,Madagascar,2021
+Total,Method Information Index,0.18837912,MDIR81FL.DTA,Madagascar,2021
+Total,Told About Other Methods,0.590692444,MDIR81FL.DTA,Madagascar,2021
+Total,Told About Side Effects,0.250686394,MDIR81FL.DTA,Madagascar,2021
+Total,Told What to Do About Side Effects,0.212002759,MDIR81FL.DTA,Madagascar,2021
+Pill,Method Information Index,0.581201957,MWIR7AFL.DTA,Malawi,2015
+IUD,Method Information Index,0.708417022,MWIR7AFL.DTA,Malawi,2015
+Injections,Method Information Index,0.630629854,MWIR7AFL.DTA,Malawi,2015
+Female Sterilization,Method Information Index,0.456816801,MWIR7AFL.DTA,Malawi,2015
+Implant,Method Information Index,0.70468867,MWIR7AFL.DTA,Malawi,2015
+Pill,Told About Other Methods,0.768018343,MWIR7AFL.DTA,Malawi,2015
+IUD,Told About Other Methods,0.861075782,MWIR7AFL.DTA,Malawi,2015
+Injections,Told About Other Methods,0.835793755,MWIR7AFL.DTA,Malawi,2015
+Female Sterilization,Told About Other Methods,0.660176113,MWIR7AFL.DTA,Malawi,2015
+Implant,Told About Other Methods,0.839781908,MWIR7AFL.DTA,Malawi,2015
+Pill,Told About Side Effects,0.673449934,MWIR7AFL.DTA,Malawi,2015
+IUD,Told About Side Effects,0.820447817,MWIR7AFL.DTA,Malawi,2015
+Injections,Told About Side Effects,0.731686507,MWIR7AFL.DTA,Malawi,2015
+Female Sterilization,Told About Side Effects,0.621788142,MWIR7AFL.DTA,Malawi,2015
+Implant,Told About Side Effects,0.820846568,MWIR7AFL.DTA,Malawi,2015
+Pill,Told What to Do About Side Effects,0.633728054,MWIR7AFL.DTA,Malawi,2015
+IUD,Told What to Do About Side Effects,0.786375188,MWIR7AFL.DTA,Malawi,2015
+Injections,Told What to Do About Side Effects,0.681556517,MWIR7AFL.DTA,Malawi,2015
+Female Sterilization,Told What to Do About Side Effects,0.558012779,MWIR7AFL.DTA,Malawi,2015
+Implant,Told What to Do About Side Effects,0.784312548,MWIR7AFL.DTA,Malawi,2015
+Total,Method Information Index,0.627108501,MWIR7AFL.DTA,Malawi,2015
+Total,Told About Other Methods,0.812097835,MWIR7AFL.DTA,Malawi,2015
+Total,Told About Side Effects,0.739195151,MWIR7AFL.DTA,Malawi,2015
+Total,Told What to Do About Side Effects,0.691479422,MWIR7AFL.DTA,Malawi,2015
+Pill,Method Information Index,0.418756598,MVIR71FL.DTA,Maldives,2016
+IUD,Method Information Index,0.971973331,MVIR71FL.DTA,Maldives,2016
+Injections,Method Information Index,0.563595602,MVIR71FL.DTA,Maldives,2016
+Female Sterilization,Method Information Index,0.161941297,MVIR71FL.DTA,Maldives,2016
+Implant,Method Information Index,0.712382071,MVIR71FL.DTA,Maldives,2016
+Pill,Told About Other Methods,0.610104826,MVIR71FL.DTA,Maldives,2016
+IUD,Told About Other Methods,0.971973331,MVIR71FL.DTA,Maldives,2016
+Injections,Told About Other Methods,0.766613528,MVIR71FL.DTA,Maldives,2016
+Female Sterilization,Told About Other Methods,0.2734893,MVIR71FL.DTA,Maldives,2016
+Implant,Told About Other Methods,0.809319761,MVIR71FL.DTA,Maldives,2016
+Pill,Told About Side Effects,0.586028265,MVIR71FL.DTA,Maldives,2016
+IUD,Told About Side Effects,1,MVIR71FL.DTA,Maldives,2016
+Injections,Told About Side Effects,0.646889041,MVIR71FL.DTA,Maldives,2016
+Female Sterilization,Told About Side Effects,0.515967962,MVIR71FL.DTA,Maldives,2016
+Implant,Told About Side Effects,0.88240576,MVIR71FL.DTA,Maldives,2016
+Pill,Told What to Do About Side Effects,0.479331685,MVIR71FL.DTA,Maldives,2016
+IUD,Told What to Do About Side Effects,1,MVIR71FL.DTA,Maldives,2016
+Injections,Told What to Do About Side Effects,0.631532798,MVIR71FL.DTA,Maldives,2016
+Female Sterilization,Told What to Do About Side Effects,0.324987361,MVIR71FL.DTA,Maldives,2016
+Implant,Told What to Do About Side Effects,0.731286849,MVIR71FL.DTA,Maldives,2016
+Total,Method Information Index,0.401962621,MVIR71FL.DTA,Maldives,2016
+Total,Told About Other Methods,0.55041894,MVIR71FL.DTA,Maldives,2016
+Total,Told About Side Effects,0.614308352,MVIR71FL.DTA,Maldives,2016
+Total,Told What to Do About Side Effects,0.495924503,MVIR71FL.DTA,Maldives,2016
+Pill,Method Information Index,0.299195798,MLIR7HFL.DTA,Mali,2018
+IUD,Method Information Index,0.450437727,MLIR7HFL.DTA,Mali,2018
+Injections,Method Information Index,0.411041493,MLIR7HFL.DTA,Mali,2018
+Female Sterilization,Method Information Index,0.505034359,MLIR7HFL.DTA,Mali,2018
+Implant,Method Information Index,0.50676561,MLIR7HFL.DTA,Mali,2018
+Pill,Told About Other Methods,0.460112425,MLIR7HFL.DTA,Mali,2018
+IUD,Told About Other Methods,0.751201387,MLIR7HFL.DTA,Mali,2018
+Injections,Told About Other Methods,0.54650214,MLIR7HFL.DTA,Mali,2018
+Female Sterilization,Told About Other Methods,0.559666532,MLIR7HFL.DTA,Mali,2018
+Implant,Told About Other Methods,0.646614548,MLIR7HFL.DTA,Mali,2018
+Pill,Told About Side Effects,0.413999509,MLIR7HFL.DTA,Mali,2018
+IUD,Told About Side Effects,0.667588983,MLIR7HFL.DTA,Mali,2018
+Injections,Told About Side Effects,0.586005159,MLIR7HFL.DTA,Mali,2018
+Female Sterilization,Told About Side Effects,0.665929364,MLIR7HFL.DTA,Mali,2018
+Implant,Told About Side Effects,0.706105136,MLIR7HFL.DTA,Mali,2018
+Pill,Told What to Do About Side Effects,0.359930164,MLIR7HFL.DTA,Mali,2018
+IUD,Told What to Do About Side Effects,0.610735709,MLIR7HFL.DTA,Mali,2018
+Injections,Told What to Do About Side Effects,0.509954775,MLIR7HFL.DTA,Mali,2018
+Female Sterilization,Told What to Do About Side Effects,0.61593769,MLIR7HFL.DTA,Mali,2018
+Implant,Told What to Do About Side Effects,0.651565428,MLIR7HFL.DTA,Mali,2018
+Total,Method Information Index,0.44371343,MLIR7HFL.DTA,Mali,2018
+Total,Told About Other Methods,0.592909884,MLIR7HFL.DTA,Mali,2018
+Total,Told About Side Effects,0.624251982,MLIR7HFL.DTA,Mali,2018
+Total,Told What to Do About Side Effects,0.562238616,MLIR7HFL.DTA,Mali,2018
+Pill,Method Information Index,0.253885968,MLIR6AFL.DTA,Mali,2012
+IUD,Method Information Index,0.500645185,MLIR6AFL.DTA,Mali,2012
+Injections,Method Information Index,0.31190793,MLIR6AFL.DTA,Mali,2012
+Female Sterilization,Method Information Index,0.691998504,MLIR6AFL.DTA,Mali,2012
+Implant,Method Information Index,0.417699956,MLIR6AFL.DTA,Mali,2012
+Pill,Told About Other Methods,0.449307289,MLIR6AFL.DTA,Mali,2012
+IUD,Told About Other Methods,0.79443944,MLIR6AFL.DTA,Mali,2012
+Injections,Told About Other Methods,0.561994304,MLIR6AFL.DTA,Mali,2012
+Female Sterilization,Told About Other Methods,0.691998504,MLIR6AFL.DTA,Mali,2012
+Implant,Told About Other Methods,0.658758192,MLIR6AFL.DTA,Mali,2012
+Pill,Told About Side Effects,0.368092359,MLIR6AFL.DTA,Mali,2012
+IUD,Told About Side Effects,0.828236772,MLIR6AFL.DTA,Mali,2012
+Injections,Told About Side Effects,0.524738993,MLIR6AFL.DTA,Mali,2012
+Female Sterilization,Told About Side Effects,0.889180462,MLIR6AFL.DTA,Mali,2012
+Implant,Told About Side Effects,0.663584715,MLIR6AFL.DTA,Mali,2012
+Pill,Told What to Do About Side Effects,0.296815995,MLIR6AFL.DTA,Mali,2012
+IUD,Told What to Do About Side Effects,0.607728161,MLIR6AFL.DTA,Mali,2012
+Injections,Told What to Do About Side Effects,0.412133782,MLIR6AFL.DTA,Mali,2012
+Female Sterilization,Told What to Do About Side Effects,0.889180462,MLIR6AFL.DTA,Mali,2012
+Implant,Told What to Do About Side Effects,0.556761667,MLIR6AFL.DTA,Mali,2012
+Total,Method Information Index,0.333032152,MLIR6AFL.DTA,Mali,2012
+Total,Told About Other Methods,0.566427847,MLIR6AFL.DTA,Mali,2012
+Total,Told About Side Effects,0.530914931,MLIR6AFL.DTA,Mali,2012
+Total,Told What to Do About Side Effects,0.428189052,MLIR6AFL.DTA,Mali,2012
+Pill,Method Information Index,0.117904344,MRIR71FL.DTA,Mauritania,2019
+IUD,Method Information Index,0.145189706,MRIR71FL.DTA,Mauritania,2019
+Injections,Method Information Index,0.163185412,MRIR71FL.DTA,Mauritania,2019
+Implant,Method Information Index,0.190251749,MRIR71FL.DTA,Mauritania,2019
+Pill,Told About Other Methods,0.259960033,MRIR71FL.DTA,Mauritania,2019
+IUD,Told About Other Methods,0.145189706,MRIR71FL.DTA,Mauritania,2019
+Injections,Told About Other Methods,0.32979848,MRIR71FL.DTA,Mauritania,2019
+Implant,Told About Other Methods,0.319212336,MRIR71FL.DTA,Mauritania,2019
+Pill,Told About Side Effects,0.285041938,MRIR71FL.DTA,Mauritania,2019
+IUD,Told About Side Effects,0.288344978,MRIR71FL.DTA,Mauritania,2019
+Injections,Told About Side Effects,0.321660142,MRIR71FL.DTA,Mauritania,2019
+Implant,Told About Side Effects,0.426452714,MRIR71FL.DTA,Mauritania,2019
+Pill,Told What to Do About Side Effects,0.210211722,MRIR71FL.DTA,Mauritania,2019
+IUD,Told What to Do About Side Effects,0.145189706,MRIR71FL.DTA,Mauritania,2019
+Injections,Told What to Do About Side Effects,0.231757774,MRIR71FL.DTA,Mauritania,2019
+Implant,Told What to Do About Side Effects,0.338188519,MRIR71FL.DTA,Mauritania,2019
+Total,Method Information Index,0.142155787,MRIR71FL.DTA,Mauritania,2019
+Total,Told About Other Methods,0.287712455,MRIR71FL.DTA,Mauritania,2019
+Total,Told About Side Effects,0.318472454,MRIR71FL.DTA,Mauritania,2019
+Total,Told What to Do About Side Effects,0.236793354,MRIR71FL.DTA,Mauritania,2019
+Pill,Method Information Index,0.422600482,MZIR62FL.DTA,Mozambique,2011
+IUD,Method Information Index,0.397204833,MZIR62FL.DTA,Mozambique,2011
+Injections,Method Information Index,0.474892501,MZIR62FL.DTA,Mozambique,2011
+Female Sterilization,Method Information Index,0.33597695,MZIR62FL.DTA,Mozambique,2011
+Implant,Method Information Index,1,MZIR62FL.DTA,Mozambique,2011
+Pill,Told About Other Methods,0.642406639,MZIR62FL.DTA,Mozambique,2011
+IUD,Told About Other Methods,0.54265991,MZIR62FL.DTA,Mozambique,2011
+Injections,Told About Other Methods,0.715081911,MZIR62FL.DTA,Mozambique,2011
+Female Sterilization,Told About Other Methods,0.496793196,MZIR62FL.DTA,Mozambique,2011
+Implant,Told About Other Methods,1,MZIR62FL.DTA,Mozambique,2011
+Pill,Told About Side Effects,0.522255573,MZIR62FL.DTA,Mozambique,2011
+IUD,Told About Side Effects,0.589924602,MZIR62FL.DTA,Mozambique,2011
+Injections,Told About Side Effects,0.619647246,MZIR62FL.DTA,Mozambique,2011
+Female Sterilization,Told About Side Effects,0.467124674,MZIR62FL.DTA,Mozambique,2011
+Implant,Told About Side Effects,1,MZIR62FL.DTA,Mozambique,2011
+Pill,Told What to Do About Side Effects,0.461353704,MZIR62FL.DTA,Mozambique,2011
+IUD,Told What to Do About Side Effects,0.562963897,MZIR62FL.DTA,Mozambique,2011
+Injections,Told What to Do About Side Effects,0.526185256,MZIR62FL.DTA,Mozambique,2011
+Female Sterilization,Told What to Do About Side Effects,0.420217362,MZIR62FL.DTA,Mozambique,2011
+Implant,Told What to Do About Side Effects,1,MZIR62FL.DTA,Mozambique,2011
+Total,Method Information Index,0.44806401,MZIR62FL.DTA,Mozambique,2011
+Total,Told About Other Methods,0.671125659,MZIR62FL.DTA,Mozambique,2011
+Total,Told About Side Effects,0.571522142,MZIR62FL.DTA,Mozambique,2011
+Total,Told What to Do About Side Effects,0.495410138,MZIR62FL.DTA,Mozambique,2011
+Pill,Method Information Index,0.332390526,NPIR7HFL.DTA,Nepal,2016
+IUD,Method Information Index,0.652395906,NPIR7HFL.DTA,Nepal,2016
+Injections,Method Information Index,0.47310002,NPIR7HFL.DTA,Nepal,2016
+Female Sterilization,Method Information Index,0.265669472,NPIR7HFL.DTA,Nepal,2016
+Implant,Method Information Index,0.581911285,NPIR7HFL.DTA,Nepal,2016
+Pill,Told About Other Methods,0.455924373,NPIR7HFL.DTA,Nepal,2016
+IUD,Told About Other Methods,0.675483124,NPIR7HFL.DTA,Nepal,2016
+Injections,Told About Other Methods,0.606391525,NPIR7HFL.DTA,Nepal,2016
+Female Sterilization,Told About Other Methods,0.347269426,NPIR7HFL.DTA,Nepal,2016
+Implant,Told About Other Methods,0.687738733,NPIR7HFL.DTA,Nepal,2016
+Pill,Told About Side Effects,0.499933255,NPIR7HFL.DTA,Nepal,2016
+IUD,Told About Side Effects,0.819940194,NPIR7HFL.DTA,Nepal,2016
+Injections,Told About Side Effects,0.650899393,NPIR7HFL.DTA,Nepal,2016
+Female Sterilization,Told About Side Effects,0.426777546,NPIR7HFL.DTA,Nepal,2016
+Implant,Told About Side Effects,0.767965419,NPIR7HFL.DTA,Nepal,2016
+Pill,Told What to Do About Side Effects,0.404011809,NPIR7HFL.DTA,Nepal,2016
+IUD,Told What to Do About Side Effects,0.760937606,NPIR7HFL.DTA,Nepal,2016
+Injections,Told What to Do About Side Effects,0.559754611,NPIR7HFL.DTA,Nepal,2016
+Female Sterilization,Told What to Do About Side Effects,0.361061515,NPIR7HFL.DTA,Nepal,2016
+Implant,Told What to Do About Side Effects,0.720902602,NPIR7HFL.DTA,Nepal,2016
+Total,Method Information Index,0.432946543,NPIR7HFL.DTA,Nepal,2016
+Total,Told About Other Methods,0.543014061,NPIR7HFL.DTA,Nepal,2016
+Total,Told About Side Effects,0.606412309,NPIR7HFL.DTA,Nepal,2016
+Total,Told What to Do About Side Effects,0.527533637,NPIR7HFL.DTA,Nepal,2016
+Pill,Method Information Index,0.38436874,NPIR60FL.DTA,Nepal,2011
+IUD,Method Information Index,0.628996252,NPIR60FL.DTA,Nepal,2011
+Injections,Method Information Index,0.498975214,NPIR60FL.DTA,Nepal,2011
+Female Sterilization,Method Information Index,0.20782614,NPIR60FL.DTA,Nepal,2011
+Implant,Method Information Index,0.724884023,NPIR60FL.DTA,Nepal,2011
+Pill,Told About Other Methods,0.539849788,NPIR60FL.DTA,Nepal,2011
+IUD,Told About Other Methods,0.738813906,NPIR60FL.DTA,Nepal,2011
+Injections,Told About Other Methods,0.634882942,NPIR60FL.DTA,Nepal,2011
+Female Sterilization,Told About Other Methods,0.293633537,NPIR60FL.DTA,Nepal,2011
+Implant,Told About Other Methods,0.765004282,NPIR60FL.DTA,Nepal,2011
+Pill,Told About Side Effects,0.55442159,NPIR60FL.DTA,Nepal,2011
+IUD,Told About Side Effects,0.889317775,NPIR60FL.DTA,Nepal,2011
+Injections,Told About Side Effects,0.71494397,NPIR60FL.DTA,Nepal,2011
+Female Sterilization,Told About Side Effects,0.435539824,NPIR60FL.DTA,Nepal,2011
+Implant,Told About Side Effects,0.835822594,NPIR60FL.DTA,Nepal,2011
+Pill,Told What to Do About Side Effects,0.494452715,NPIR60FL.DTA,Nepal,2011
+IUD,Told What to Do About Side Effects,0.833858977,NPIR60FL.DTA,Nepal,2011
+Injections,Told What to Do About Side Effects,0.614221325,NPIR60FL.DTA,Nepal,2011
+Female Sterilization,Told What to Do About Side Effects,0.409650602,NPIR60FL.DTA,Nepal,2011
+Implant,Told What to Do About Side Effects,0.815341778,NPIR60FL.DTA,Nepal,2011
+Total,Method Information Index,0.414121705,NPIR60FL.DTA,Nepal,2011
+Total,Told About Other Methods,0.532803206,NPIR60FL.DTA,Nepal,2011
+Total,Told About Side Effects,0.621039736,NPIR60FL.DTA,Nepal,2011
+Total,Told What to Do About Side Effects,0.556738854,NPIR60FL.DTA,Nepal,2011
+Pill,Method Information Index,0.258883182,NIIR61FL.DTA,Niger,2012
+IUD,Method Information Index,0.325723945,NIIR61FL.DTA,Niger,2012
+Injections,Method Information Index,0.353798965,NIIR61FL.DTA,Niger,2012
+Female Sterilization,Method Information Index,0.256048175,NIIR61FL.DTA,Niger,2012
+Implant,Method Information Index,0.397632011,NIIR61FL.DTA,Niger,2012
+Pill,Told About Other Methods,0.541662919,NIIR61FL.DTA,Niger,2012
+IUD,Told About Other Methods,0.571178557,NIIR61FL.DTA,Niger,2012
+Injections,Told About Other Methods,0.638377034,NIIR61FL.DTA,Niger,2012
+Female Sterilization,Told About Other Methods,0.340505933,NIIR61FL.DTA,Niger,2012
+Implant,Told About Other Methods,0.662550067,NIIR61FL.DTA,Niger,2012
+Pill,Told About Side Effects,0.368342778,NIIR61FL.DTA,Niger,2012
+IUD,Told About Side Effects,0.42510155,NIIR61FL.DTA,Niger,2012
+Injections,Told About Side Effects,0.471235134,NIIR61FL.DTA,Niger,2012
+Female Sterilization,Told About Side Effects,0.502117942,NIIR61FL.DTA,Niger,2012
+Implant,Told About Side Effects,0.501638265,NIIR61FL.DTA,Niger,2012
+Pill,Told What to Do About Side Effects,0.29682099,NIIR61FL.DTA,Niger,2012
+IUD,Told What to Do About Side Effects,0.42510155,NIIR61FL.DTA,Niger,2012
+Injections,Told What to Do About Side Effects,0.411754446,NIIR61FL.DTA,Niger,2012
+Female Sterilization,Told What to Do About Side Effects,0.502117942,NIIR61FL.DTA,Niger,2012
+Implant,Told What to Do About Side Effects,0.470380454,NIIR61FL.DTA,Niger,2012
+Total,Method Information Index,0.28922449,NIIR61FL.DTA,Niger,2012
+Total,Told About Other Methods,0.56877096,NIIR61FL.DTA,Niger,2012
+Total,Told About Side Effects,0.402538438,NIIR61FL.DTA,Niger,2012
+Total,Told What to Do About Side Effects,0.337351166,NIIR61FL.DTA,Niger,2012
+Pill,Method Information Index,0.355130696,NGIR7AFL.DTA,Nigeria,2018
+IUD,Method Information Index,0.812406221,NGIR7AFL.DTA,Nigeria,2018
+Injections,Method Information Index,0.59923929,NGIR7AFL.DTA,Nigeria,2018
+Female Sterilization,Method Information Index,0.401634519,NGIR7AFL.DTA,Nigeria,2018
+Implant,Method Information Index,0.709775885,NGIR7AFL.DTA,Nigeria,2018
+Pill,Told About Other Methods,0.554988428,NGIR7AFL.DTA,Nigeria,2018
+IUD,Told About Other Methods,0.929307438,NGIR7AFL.DTA,Nigeria,2018
+Injections,Told About Other Methods,0.787054375,NGIR7AFL.DTA,Nigeria,2018
+Female Sterilization,Told About Other Methods,0.541780628,NGIR7AFL.DTA,Nigeria,2018
+Implant,Told About Other Methods,0.850970588,NGIR7AFL.DTA,Nigeria,2018
+Pill,Told About Side Effects,0.48074406,NGIR7AFL.DTA,Nigeria,2018
+IUD,Told About Side Effects,0.855258756,NGIR7AFL.DTA,Nigeria,2018
+Injections,Told About Side Effects,0.685039754,NGIR7AFL.DTA,Nigeria,2018
+Female Sterilization,Told About Side Effects,0.62077047,NGIR7AFL.DTA,Nigeria,2018
+Implant,Told About Side Effects,0.805244202,NGIR7AFL.DTA,Nigeria,2018
+Pill,Told What to Do About Side Effects,0.410346255,NGIR7AFL.DTA,Nigeria,2018
+IUD,Told What to Do About Side Effects,0.822846514,NGIR7AFL.DTA,Nigeria,2018
+Injections,Told What to Do About Side Effects,0.634803085,NGIR7AFL.DTA,Nigeria,2018
+Female Sterilization,Told What to Do About Side Effects,0.532332743,NGIR7AFL.DTA,Nigeria,2018
+Implant,Told What to Do About Side Effects,0.755098461,NGIR7AFL.DTA,Nigeria,2018
+Total,Method Information Index,0.615053059,NGIR7AFL.DTA,Nigeria,2018
+Total,Told About Other Methods,0.755906683,NGIR7AFL.DTA,Nigeria,2018
+Total,Told About Side Effects,0.709716465,NGIR7AFL.DTA,Nigeria,2018
+Total,Told What to Do About Side Effects,0.657019996,NGIR7AFL.DTA,Nigeria,2018
+Pill,Method Information Index,0.324526927,NGIR6AFL.DTA,Nigeria,2013
+IUD,Method Information Index,0.659677176,NGIR6AFL.DTA,Nigeria,2013
+Injections,Method Information Index,0.5436228,NGIR6AFL.DTA,Nigeria,2013
+Female Sterilization,Method Information Index,0.258379278,NGIR6AFL.DTA,Nigeria,2013
+Implant,Method Information Index,0.741557265,NGIR6AFL.DTA,Nigeria,2013
+Pill,Told About Other Methods,0.557047975,NGIR6AFL.DTA,Nigeria,2013
+IUD,Told About Other Methods,0.800150416,NGIR6AFL.DTA,Nigeria,2013
+Injections,Told About Other Methods,0.710704518,NGIR6AFL.DTA,Nigeria,2013
+Female Sterilization,Told About Other Methods,0.385427403,NGIR6AFL.DTA,Nigeria,2013
+Implant,Told About Other Methods,0.857813865,NGIR6AFL.DTA,Nigeria,2013
+Pill,Told About Side Effects,0.459515596,NGIR6AFL.DTA,Nigeria,2013
+IUD,Told About Side Effects,0.798403058,NGIR6AFL.DTA,Nigeria,2013
+Injections,Told About Side Effects,0.673899023,NGIR6AFL.DTA,Nigeria,2013
+Female Sterilization,Told About Side Effects,0.573254698,NGIR6AFL.DTA,Nigeria,2013
+Implant,Told About Side Effects,0.831108974,NGIR6AFL.DTA,Nigeria,2013
+Pill,Told What to Do About Side Effects,0.368767369,NGIR6AFL.DTA,Nigeria,2013
+IUD,Told What to Do About Side Effects,0.76316044,NGIR6AFL.DTA,Nigeria,2013
+Injections,Told What to Do About Side Effects,0.602215446,NGIR6AFL.DTA,Nigeria,2013
+Female Sterilization,Told What to Do About Side Effects,0.464940059,NGIR6AFL.DTA,Nigeria,2013
+Implant,Told What to Do About Side Effects,0.788824514,NGIR6AFL.DTA,Nigeria,2013
+Total,Method Information Index,0.488779968,NGIR6AFL.DTA,Nigeria,2013
+Total,Told About Other Methods,0.671922404,NGIR6AFL.DTA,Nigeria,2013
+Total,Told About Side Effects,0.624580785,NGIR6AFL.DTA,Nigeria,2013
+Total,Told What to Do About Side Effects,0.552025717,NGIR6AFL.DTA,Nigeria,2013
+Pill,Method Information Index,0.11498563,PKIR71FL.DTA,Pakistan,2017
+IUD,Method Information Index,0.31796698,PKIR71FL.DTA,Pakistan,2017
+Injections,Method Information Index,0.138652849,PKIR71FL.DTA,Pakistan,2017
+Female Sterilization,Method Information Index,0.098327745,PKIR71FL.DTA,Pakistan,2017
+Implant,Method Information Index,0.30780498,PKIR71FL.DTA,Pakistan,2017
+Pill,Told About Other Methods,0.334933698,PKIR71FL.DTA,Pakistan,2017
+IUD,Told About Other Methods,0.454258805,PKIR71FL.DTA,Pakistan,2017
+Injections,Told About Other Methods,0.347781197,PKIR71FL.DTA,Pakistan,2017
+Female Sterilization,Told About Other Methods,0.257883516,PKIR71FL.DTA,Pakistan,2017
+Implant,Told About Other Methods,0.605479311,PKIR71FL.DTA,Pakistan,2017
+Pill,Told About Side Effects,0.243150526,PKIR71FL.DTA,Pakistan,2017
+IUD,Told About Side Effects,0.510987428,PKIR71FL.DTA,Pakistan,2017
+Injections,Told About Side Effects,0.281120603,PKIR71FL.DTA,Pakistan,2017
+Female Sterilization,Told About Side Effects,0.23591061,PKIR71FL.DTA,Pakistan,2017
+Implant,Told About Side Effects,0.652490567,PKIR71FL.DTA,Pakistan,2017
+Pill,Told What to Do About Side Effects,0.16875597,PKIR71FL.DTA,Pakistan,2017
+IUD,Told What to Do About Side Effects,0.449882031,PKIR71FL.DTA,Pakistan,2017
+Injections,Told What to Do About Side Effects,0.176906839,PKIR71FL.DTA,Pakistan,2017
+Female Sterilization,Told What to Do About Side Effects,0.157913574,PKIR71FL.DTA,Pakistan,2017
+Implant,Told What to Do About Side Effects,0.496104799,PKIR71FL.DTA,Pakistan,2017
+Total,Method Information Index,0.160671763,PKIR71FL.DTA,Pakistan,2017
+Total,Told About Other Methods,0.340900936,PKIR71FL.DTA,Pakistan,2017
+Total,Told About Side Effects,0.31721371,PKIR71FL.DTA,Pakistan,2017
+Total,Told What to Do About Side Effects,0.233217006,PKIR71FL.DTA,Pakistan,2017
+Pill,Method Information Index,0.506029037,PHIR61FL.DTA,Philippines,2013
+IUD,Method Information Index,0.698085852,PHIR61FL.DTA,Philippines,2013
+Injections,Method Information Index,0.586111847,PHIR61FL.DTA,Philippines,2013
+Female Sterilization,Method Information Index,0.459475608,PHIR61FL.DTA,Philippines,2013
+Implant,Method Information Index,0.816171386,PHIR61FL.DTA,Philippines,2013
+Pill,Told About Other Methods,0.678528463,PHIR61FL.DTA,Philippines,2013
+IUD,Told About Other Methods,0.835051184,PHIR61FL.DTA,Philippines,2013
+Injections,Told About Other Methods,0.778662131,PHIR61FL.DTA,Philippines,2013
+Female Sterilization,Told About Other Methods,0.569066912,PHIR61FL.DTA,Philippines,2013
+Implant,Told About Other Methods,0.816171386,PHIR61FL.DTA,Philippines,2013
+Pill,Told About Side Effects,0.620006519,PHIR61FL.DTA,Philippines,2013
+IUD,Told About Side Effects,0.81699446,PHIR61FL.DTA,Philippines,2013
+Injections,Told About Side Effects,0.773511344,PHIR61FL.DTA,Philippines,2013
+Female Sterilization,Told About Side Effects,0.71455077,PHIR61FL.DTA,Philippines,2013
+Implant,Told About Side Effects,1,PHIR61FL.DTA,Philippines,2013
+Pill,Told What to Do About Side Effects,0.563818142,PHIR61FL.DTA,Philippines,2013
+IUD,Told What to Do About Side Effects,0.789639445,PHIR61FL.DTA,Philippines,2013
+Injections,Told What to Do About Side Effects,0.687085002,PHIR61FL.DTA,Philippines,2013
+Female Sterilization,Told What to Do About Side Effects,0.651623321,PHIR61FL.DTA,Philippines,2013
+Implant,Told What to Do About Side Effects,1,PHIR61FL.DTA,Philippines,2013
+Total,Method Information Index,0.522303047,PHIR61FL.DTA,Philippines,2013
+Total,Told About Other Methods,0.690179286,PHIR61FL.DTA,Philippines,2013
+Total,Told About Side Effects,0.679502488,PHIR61FL.DTA,Philippines,2013
+Total,Told What to Do About Side Effects,0.621405752,PHIR61FL.DTA,Philippines,2013
+Pill,Method Information Index,0.461087894,RWIR81FL.DTA,Rwanda,2019
+IUD,Method Information Index,0.551188468,RWIR81FL.DTA,Rwanda,2019
+Injections,Method Information Index,0.476923598,RWIR81FL.DTA,Rwanda,2019
+Female Sterilization,Method Information Index,0.284690379,RWIR81FL.DTA,Rwanda,2019
+Implant,Method Information Index,0.479324509,RWIR81FL.DTA,Rwanda,2019
+Pill,Told About Other Methods,0.728522462,RWIR81FL.DTA,Rwanda,2019
+IUD,Told About Other Methods,0.724183061,RWIR81FL.DTA,Rwanda,2019
+Injections,Told About Other Methods,0.755294099,RWIR81FL.DTA,Rwanda,2019
+Female Sterilization,Told About Other Methods,0.396288263,RWIR81FL.DTA,Rwanda,2019
+Implant,Told About Other Methods,0.707551737,RWIR81FL.DTA,Rwanda,2019
+Pill,Told About Side Effects,0.529156925,RWIR81FL.DTA,Rwanda,2019
+IUD,Told About Side Effects,0.682177554,RWIR81FL.DTA,Rwanda,2019
+Injections,Told About Side Effects,0.541461205,RWIR81FL.DTA,Rwanda,2019
+Female Sterilization,Told About Side Effects,0.542021764,RWIR81FL.DTA,Rwanda,2019
+Implant,Told About Side Effects,0.565790423,RWIR81FL.DTA,Rwanda,2019
+Pill,Told What to Do About Side Effects,0.504724284,RWIR81FL.DTA,Rwanda,2019
+IUD,Told What to Do About Side Effects,0.621541039,RWIR81FL.DTA,Rwanda,2019
+Injections,Told What to Do About Side Effects,0.517038218,RWIR81FL.DTA,Rwanda,2019
+Female Sterilization,Told What to Do About Side Effects,0.389924184,RWIR81FL.DTA,Rwanda,2019
+Implant,Told What to Do About Side Effects,0.541525193,RWIR81FL.DTA,Rwanda,2019
+Total,Method Information Index,0.474352422,RWIR81FL.DTA,Rwanda,2019
+Total,Told About Other Methods,0.717615022,RWIR81FL.DTA,Rwanda,2019
+Total,Told About Side Effects,0.558202062,RWIR81FL.DTA,Rwanda,2019
+Total,Told What to Do About Side Effects,0.529546358,RWIR81FL.DTA,Rwanda,2019
+Pill,Method Information Index,0.529627163,RWIR70FL.DTA,Rwanda,2014
+IUD,Method Information Index,0.651391995,RWIR70FL.DTA,Rwanda,2014
+Injections,Method Information Index,0.591088881,RWIR70FL.DTA,Rwanda,2014
+Female Sterilization,Method Information Index,0.238798437,RWIR70FL.DTA,Rwanda,2014
+Implant,Method Information Index,0.614308963,RWIR70FL.DTA,Rwanda,2014
+Pill,Told About Other Methods,0.803127314,RWIR70FL.DTA,Rwanda,2014
+IUD,Told About Other Methods,0.796649011,RWIR70FL.DTA,Rwanda,2014
+Injections,Told About Other Methods,0.815945956,RWIR70FL.DTA,Rwanda,2014
+Female Sterilization,Told About Other Methods,0.37187572,RWIR70FL.DTA,Rwanda,2014
+Implant,Told About Other Methods,0.763285164,RWIR70FL.DTA,Rwanda,2014
+Pill,Told About Side Effects,0.593249334,RWIR70FL.DTA,Rwanda,2014
+IUD,Told About Side Effects,0.746393784,RWIR70FL.DTA,Rwanda,2014
+Injections,Told About Side Effects,0.649657744,RWIR70FL.DTA,Rwanda,2014
+Female Sterilization,Told About Side Effects,0.49955759,RWIR70FL.DTA,Rwanda,2014
+Implant,Told About Side Effects,0.698798062,RWIR70FL.DTA,Rwanda,2014
+Pill,Told What to Do About Side Effects,0.575500322,RWIR70FL.DTA,Rwanda,2014
+IUD,Told What to Do About Side Effects,0.737856177,RWIR70FL.DTA,Rwanda,2014
+Injections,Told What to Do About Side Effects,0.631110487,RWIR70FL.DTA,Rwanda,2014
+Female Sterilization,Told What to Do About Side Effects,0.37648743,RWIR70FL.DTA,Rwanda,2014
+Implant,Told What to Do About Side Effects,0.687488222,RWIR70FL.DTA,Rwanda,2014
+Total,Method Information Index,0.579237907,RWIR70FL.DTA,Rwanda,2014
+Total,Told About Other Methods,0.79482565,RWIR70FL.DTA,Rwanda,2014
+Total,Told About Side Effects,0.648418277,RWIR70FL.DTA,Rwanda,2014
+Total,Told What to Do About Side Effects,0.629834306,RWIR70FL.DTA,Rwanda,2014
+Pill,Method Information Index,0.559895705,RWIR61FL.DTA,Rwanda,2010
+IUD,Method Information Index,0.6420945,RWIR61FL.DTA,Rwanda,2010
+Injections,Method Information Index,0.580192389,RWIR61FL.DTA,Rwanda,2010
+Female Sterilization,Method Information Index,0.190482852,RWIR61FL.DTA,Rwanda,2010
+Implant,Method Information Index,0.578666889,RWIR61FL.DTA,Rwanda,2010
+Pill,Told About Other Methods,0.818945115,RWIR61FL.DTA,Rwanda,2010
+IUD,Told About Other Methods,0.7733245,RWIR61FL.DTA,Rwanda,2010
+Injections,Told About Other Methods,0.78493433,RWIR61FL.DTA,Rwanda,2010
+Female Sterilization,Told About Other Methods,0.258891954,RWIR61FL.DTA,Rwanda,2010
+Implant,Told About Other Methods,0.765211343,RWIR61FL.DTA,Rwanda,2010
+Pill,Told About Side Effects,0.604229684,RWIR61FL.DTA,Rwanda,2010
+IUD,Told About Side Effects,0.7200021,RWIR61FL.DTA,Rwanda,2010
+Injections,Told About Side Effects,0.646130945,RWIR61FL.DTA,Rwanda,2010
+Female Sterilization,Told About Side Effects,0.415923405,RWIR61FL.DTA,Rwanda,2010
+Implant,Told About Side Effects,0.667822378,RWIR61FL.DTA,Rwanda,2010
+Pill,Told What to Do About Side Effects,0.593197665,RWIR61FL.DTA,Rwanda,2010
+IUD,Told What to Do About Side Effects,0.7200021,RWIR61FL.DTA,Rwanda,2010
+Injections,Told What to Do About Side Effects,0.63510514,RWIR61FL.DTA,Rwanda,2010
+Female Sterilization,Told What to Do About Side Effects,0.355792108,RWIR61FL.DTA,Rwanda,2010
+Implant,Told What to Do About Side Effects,0.659179849,RWIR61FL.DTA,Rwanda,2010
+Total,Method Information Index,0.571879265,RWIR61FL.DTA,Rwanda,2010
+Total,Told About Other Methods,0.78010339,RWIR61FL.DTA,Rwanda,2010
+Total,Told About Side Effects,0.640092172,RWIR61FL.DTA,Rwanda,2010
+Total,Told What to Do About Side Effects,0.628885459,RWIR61FL.DTA,Rwanda,2010
+Pill,Method Information Index,0.749531213,SNIR8AFL.DTA,Senegal,2019
+IUD,Method Information Index,0.839958568,SNIR8AFL.DTA,Senegal,2019
+Injections,Method Information Index,0.756843602,SNIR8AFL.DTA,Senegal,2019
+Female Sterilization,Method Information Index,0.518974086,SNIR8AFL.DTA,Senegal,2019
+Implant,Method Information Index,0.75366202,SNIR8AFL.DTA,Senegal,2019
+Pill,Told About Other Methods,0.891310252,SNIR8AFL.DTA,Senegal,2019
+IUD,Told About Other Methods,0.901817667,SNIR8AFL.DTA,Senegal,2019
+Injections,Told About Other Methods,0.921822598,SNIR8AFL.DTA,Senegal,2019
+Female Sterilization,Told About Other Methods,0.601308401,SNIR8AFL.DTA,Senegal,2019
+Implant,Told About Other Methods,0.896516121,SNIR8AFL.DTA,Senegal,2019
+Pill,Told About Side Effects,0.800887414,SNIR8AFL.DTA,Senegal,2019
+IUD,Told About Side Effects,0.883777863,SNIR8AFL.DTA,Senegal,2019
+Injections,Told About Side Effects,0.825237709,SNIR8AFL.DTA,Senegal,2019
+Female Sterilization,Told About Side Effects,0.743065729,SNIR8AFL.DTA,Senegal,2019
+Implant,Told About Side Effects,0.82748529,SNIR8AFL.DTA,Senegal,2019
+Pill,Told What to Do About Side Effects,0.764147757,SNIR8AFL.DTA,Senegal,2019
+IUD,Told What to Do About Side Effects,0.874214141,SNIR8AFL.DTA,Senegal,2019
+Injections,Told What to Do About Side Effects,0.783364442,SNIR8AFL.DTA,Senegal,2019
+Female Sterilization,Told What to Do About Side Effects,0.743065729,SNIR8AFL.DTA,Senegal,2019
+Implant,Told What to Do About Side Effects,0.783015297,SNIR8AFL.DTA,Senegal,2019
+Total,Method Information Index,0.756489917,SNIR8AFL.DTA,Senegal,2019
+Total,Told About Other Methods,0.897725976,SNIR8AFL.DTA,Senegal,2019
+Total,Told About Side Effects,0.825309223,SNIR8AFL.DTA,Senegal,2019
+Total,Told What to Do About Side Effects,0.786266662,SNIR8AFL.DTA,Senegal,2019
+Pill,Method Information Index,0.740986307,SNIR80FL.DTA,Senegal,2018
+IUD,Method Information Index,0.74736706,SNIR80FL.DTA,Senegal,2018
+Injections,Method Information Index,0.742317602,SNIR80FL.DTA,Senegal,2018
+Female Sterilization,Method Information Index,0.665894838,SNIR80FL.DTA,Senegal,2018
+Implant,Method Information Index,0.727447023,SNIR80FL.DTA,Senegal,2018
+Pill,Told About Other Methods,0.876201376,SNIR80FL.DTA,Senegal,2018
+IUD,Told About Other Methods,0.89789014,SNIR80FL.DTA,Senegal,2018
+Injections,Told About Other Methods,0.879598804,SNIR80FL.DTA,Senegal,2018
+Female Sterilization,Told About Other Methods,0.717343749,SNIR80FL.DTA,Senegal,2018
+Implant,Told About Other Methods,0.862006181,SNIR80FL.DTA,Senegal,2018
+Pill,Told About Side Effects,0.775601198,SNIR80FL.DTA,Senegal,2018
+IUD,Told About Side Effects,0.799940936,SNIR80FL.DTA,Senegal,2018
+Injections,Told About Side Effects,0.801730066,SNIR80FL.DTA,Senegal,2018
+Female Sterilization,Told About Side Effects,0.727947689,SNIR80FL.DTA,Senegal,2018
+Implant,Told About Side Effects,0.787740851,SNIR80FL.DTA,Senegal,2018
+Pill,Told What to Do About Side Effects,0.748011761,SNIR80FL.DTA,Senegal,2018
+IUD,Told What to Do About Side Effects,0.786672083,SNIR80FL.DTA,Senegal,2018
+Injections,Told What to Do About Side Effects,0.779878946,SNIR80FL.DTA,Senegal,2018
+Female Sterilization,Told What to Do About Side Effects,0.727947689,SNIR80FL.DTA,Senegal,2018
+Implant,Told What to Do About Side Effects,0.773011366,SNIR80FL.DTA,Senegal,2018
+Total,Method Information Index,0.736110755,SNIR80FL.DTA,Senegal,2018
+Total,Told About Other Methods,0.864798951,SNIR80FL.DTA,Senegal,2018
+Total,Told About Side Effects,0.791368633,SNIR80FL.DTA,Senegal,2018
+Total,Told What to Do About Side Effects,0.77235382,SNIR80FL.DTA,Senegal,2018
+Pill,Method Information Index,0.646418179,SNIR7ZFL.DTA,Senegal,2017
+IUD,Method Information Index,0.820178437,SNIR7ZFL.DTA,Senegal,2017
+Injections,Method Information Index,0.766284009,SNIR7ZFL.DTA,Senegal,2017
+Female Sterilization,Method Information Index,0.129793067,SNIR7ZFL.DTA,Senegal,2017
+Implant,Method Information Index,0.718184149,SNIR7ZFL.DTA,Senegal,2017
+Pill,Told About Other Methods,0.871134691,SNIR7ZFL.DTA,Senegal,2017
+IUD,Told About Other Methods,0.940194737,SNIR7ZFL.DTA,Senegal,2017
+Injections,Told About Other Methods,0.872084859,SNIR7ZFL.DTA,Senegal,2017
+Female Sterilization,Told About Other Methods,0.180368468,SNIR7ZFL.DTA,Senegal,2017
+Implant,Told About Other Methods,0.854894746,SNIR7ZFL.DTA,Senegal,2017
+Pill,Told About Side Effects,0.696387317,SNIR7ZFL.DTA,Senegal,2017
+IUD,Told About Side Effects,0.846956462,SNIR7ZFL.DTA,Senegal,2017
+Injections,Told About Side Effects,0.83605796,SNIR7ZFL.DTA,Senegal,2017
+Female Sterilization,Told About Side Effects,0.685854242,SNIR7ZFL.DTA,Senegal,2017
+Implant,Told About Side Effects,0.802723823,SNIR7ZFL.DTA,Senegal,2017
+Pill,Told What to Do About Side Effects,0.673157801,SNIR7ZFL.DTA,Senegal,2017
+IUD,Told What to Do About Side Effects,0.837435828,SNIR7ZFL.DTA,Senegal,2017
+Injections,Told What to Do About Side Effects,0.814464018,SNIR7ZFL.DTA,Senegal,2017
+Female Sterilization,Told What to Do About Side Effects,0.647309951,SNIR7ZFL.DTA,Senegal,2017
+Implant,Told What to Do About Side Effects,0.782508113,SNIR7ZFL.DTA,Senegal,2017
+Total,Method Information Index,0.727420347,SNIR7ZFL.DTA,Senegal,2017
+Total,Told About Other Methods,0.86266193,SNIR7ZFL.DTA,Senegal,2017
+Total,Told About Side Effects,0.80144249,SNIR7ZFL.DTA,Senegal,2017
+Total,Told What to Do About Side Effects,0.780852041,SNIR7ZFL.DTA,Senegal,2017
+Pill,Method Information Index,0.585991309,SNIR7QFL.DTA,Senegal,2016
+IUD,Method Information Index,0.702179157,SNIR7QFL.DTA,Senegal,2016
+Injections,Method Information Index,0.674423886,SNIR7QFL.DTA,Senegal,2016
+Female Sterilization,Method Information Index,0.533660011,SNIR7QFL.DTA,Senegal,2016
+Implant,Method Information Index,0.693959623,SNIR7QFL.DTA,Senegal,2016
+Pill,Told About Other Methods,0.823483854,SNIR7QFL.DTA,Senegal,2016
+IUD,Told About Other Methods,0.892509694,SNIR7QFL.DTA,Senegal,2016
+Injections,Told About Other Methods,0.890592753,SNIR7QFL.DTA,Senegal,2016
+Female Sterilization,Told About Other Methods,0.559848594,SNIR7QFL.DTA,Senegal,2016
+Implant,Told About Other Methods,0.842752742,SNIR7QFL.DTA,Senegal,2016
+Pill,Told About Side Effects,0.669936202,SNIR7QFL.DTA,Senegal,2016
+IUD,Told About Side Effects,0.828406815,SNIR7QFL.DTA,Senegal,2016
+Injections,Told About Side Effects,0.754529624,SNIR7QFL.DTA,Senegal,2016
+Female Sterilization,Told About Side Effects,0.550118398,SNIR7QFL.DTA,Senegal,2016
+Implant,Told About Side Effects,0.78150351,SNIR7QFL.DTA,Senegal,2016
+Pill,Told What to Do About Side Effects,0.599346153,SNIR7QFL.DTA,Senegal,2016
+IUD,Told What to Do About Side Effects,0.702179157,SNIR7QFL.DTA,Senegal,2016
+Injections,Told What to Do About Side Effects,0.689593549,SNIR7QFL.DTA,Senegal,2016
+Female Sterilization,Told What to Do About Side Effects,0.533660011,SNIR7QFL.DTA,Senegal,2016
+Implant,Told What to Do About Side Effects,0.733096141,SNIR7QFL.DTA,Senegal,2016
+Total,Method Information Index,0.662562736,SNIR7QFL.DTA,Senegal,2016
+Total,Told About Other Methods,0.854456472,SNIR7QFL.DTA,Senegal,2016
+Total,Told About Side Effects,0.747763717,SNIR7QFL.DTA,Senegal,2016
+Total,Told What to Do About Side Effects,0.684218744,SNIR7QFL.DTA,Senegal,2016
+Pill,Method Information Index,0.637970357,SNIR7HFL.DTA,Senegal,2015
+IUD,Method Information Index,0.656362663,SNIR7HFL.DTA,Senegal,2015
+Injections,Method Information Index,0.71124007,SNIR7HFL.DTA,Senegal,2015
+Female Sterilization,Method Information Index,0.340021444,SNIR7HFL.DTA,Senegal,2015
+Implant,Method Information Index,0.636128734,SNIR7HFL.DTA,Senegal,2015
+Pill,Told About Other Methods,0.841638723,SNIR7HFL.DTA,Senegal,2015
+IUD,Told About Other Methods,0.861625903,SNIR7HFL.DTA,Senegal,2015
+Injections,Told About Other Methods,0.866454828,SNIR7HFL.DTA,Senegal,2015
+Female Sterilization,Told About Other Methods,0.378308503,SNIR7HFL.DTA,Senegal,2015
+Implant,Told About Other Methods,0.792322654,SNIR7HFL.DTA,Senegal,2015
+Pill,Told About Side Effects,0.717611394,SNIR7HFL.DTA,Senegal,2015
+IUD,Told About Side Effects,0.716581799,SNIR7HFL.DTA,Senegal,2015
+Injections,Told About Side Effects,0.797710313,SNIR7HFL.DTA,Senegal,2015
+Female Sterilization,Told About Side Effects,0.441567414,SNIR7HFL.DTA,Senegal,2015
+Implant,Told About Side Effects,0.751169498,SNIR7HFL.DTA,Senegal,2015
+Pill,Told What to Do About Side Effects,0.68204345,SNIR7HFL.DTA,Senegal,2015
+IUD,Told What to Do About Side Effects,0.716581799,SNIR7HFL.DTA,Senegal,2015
+Injections,Told What to Do About Side Effects,0.767255102,SNIR7HFL.DTA,Senegal,2015
+Female Sterilization,Told What to Do About Side Effects,0.441567414,SNIR7HFL.DTA,Senegal,2015
+Implant,Told What to Do About Side Effects,0.698715096,SNIR7HFL.DTA,Senegal,2015
+Total,Method Information Index,0.666945219,SNIR7HFL.DTA,Senegal,2015
+Total,Told About Other Methods,0.835441239,SNIR7HFL.DTA,Senegal,2015
+Total,Told About Side Effects,0.758446255,SNIR7HFL.DTA,Senegal,2015
+Total,Told What to Do About Side Effects,0.722622421,SNIR7HFL.DTA,Senegal,2015
+Pill,Method Information Index,0.632534814,SNIR70FL.DTA,Senegal,2014
+IUD,Method Information Index,0.724075488,SNIR70FL.DTA,Senegal,2014
+Injections,Method Information Index,0.742304885,SNIR70FL.DTA,Senegal,2014
+Female Sterilization,Method Information Index,0.062598631,SNIR70FL.DTA,Senegal,2014
+Implant,Method Information Index,0.544201573,SNIR70FL.DTA,Senegal,2014
+Pill,Told About Other Methods,0.88832041,SNIR70FL.DTA,Senegal,2014
+IUD,Told About Other Methods,0.909947343,SNIR70FL.DTA,Senegal,2014
+Injections,Told About Other Methods,0.879943302,SNIR70FL.DTA,Senegal,2014
+Female Sterilization,Told About Other Methods,0.198372613,SNIR70FL.DTA,Senegal,2014
+Implant,Told About Other Methods,0.783577778,SNIR70FL.DTA,Senegal,2014
+Pill,Told About Side Effects,0.668569598,SNIR70FL.DTA,Senegal,2014
+IUD,Told About Side Effects,0.737204001,SNIR70FL.DTA,Senegal,2014
+Injections,Told About Side Effects,0.821440437,SNIR70FL.DTA,Senegal,2014
+Female Sterilization,Told About Side Effects,0.062598631,SNIR70FL.DTA,Senegal,2014
+Implant,Told About Side Effects,0.681453262,SNIR70FL.DTA,Senegal,2014
+Pill,Told What to Do About Side Effects,0.641655177,SNIR70FL.DTA,Senegal,2014
+IUD,Told What to Do About Side Effects,0.724075488,SNIR70FL.DTA,Senegal,2014
+Injections,Told What to Do About Side Effects,0.790555252,SNIR70FL.DTA,Senegal,2014
+Female Sterilization,Told What to Do About Side Effects,0.062598631,SNIR70FL.DTA,Senegal,2014
+Implant,Told What to Do About Side Effects,0.63210987,SNIR70FL.DTA,Senegal,2014
+Total,Method Information Index,0.647821049,SNIR70FL.DTA,Senegal,2014
+Total,Told About Other Methods,0.84509433,SNIR70FL.DTA,Senegal,2014
+Total,Told About Side Effects,0.726505219,SNIR70FL.DTA,Senegal,2014
+Total,Told What to Do About Side Effects,0.693169738,SNIR70FL.DTA,Senegal,2014
+Pill,Method Information Index,0.465864036,SNIR6DFL.DTA,Senegal,2012
+IUD,Method Information Index,0.640843517,SNIR6DFL.DTA,Senegal,2012
+Injections,Method Information Index,0.567556065,SNIR6DFL.DTA,Senegal,2012
+Female Sterilization,Method Information Index,0.295427342,SNIR6DFL.DTA,Senegal,2012
+Implant,Method Information Index,0.495456397,SNIR6DFL.DTA,Senegal,2012
+Pill,Told About Other Methods,0.735003473,SNIR6DFL.DTA,Senegal,2012
+IUD,Told About Other Methods,0.789138887,SNIR6DFL.DTA,Senegal,2012
+Injections,Told About Other Methods,0.801910486,SNIR6DFL.DTA,Senegal,2012
+Female Sterilization,Told About Other Methods,0.412511901,SNIR6DFL.DTA,Senegal,2012
+Implant,Told About Other Methods,0.823724193,SNIR6DFL.DTA,Senegal,2012
+Pill,Told About Side Effects,0.565975876,SNIR6DFL.DTA,Senegal,2012
+IUD,Told About Side Effects,0.674539424,SNIR6DFL.DTA,Senegal,2012
+Injections,Told About Side Effects,0.690451681,SNIR6DFL.DTA,Senegal,2012
+Female Sterilization,Told About Side Effects,0.295427342,SNIR6DFL.DTA,Senegal,2012
+Implant,Told About Side Effects,0.585710014,SNIR6DFL.DTA,Senegal,2012
+Pill,Told What to Do About Side Effects,0.51610105,SNIR6DFL.DTA,Senegal,2012
+IUD,Told What to Do About Side Effects,0.640843517,SNIR6DFL.DTA,Senegal,2012
+Injections,Told What to Do About Side Effects,0.647872729,SNIR6DFL.DTA,Senegal,2012
+Female Sterilization,Told What to Do About Side Effects,0.295427342,SNIR6DFL.DTA,Senegal,2012
+Implant,Told What to Do About Side Effects,0.523307865,SNIR6DFL.DTA,Senegal,2012
+Total,Method Information Index,0.518050218,SNIR6DFL.DTA,Senegal,2012
+Total,Told About Other Methods,0.77288457,SNIR6DFL.DTA,Senegal,2012
+Total,Told About Side Effects,0.619104918,SNIR6DFL.DTA,Senegal,2012
+Total,Told What to Do About Side Effects,0.572174304,SNIR6DFL.DTA,Senegal,2012
+Pill,Method Information Index,0.344209019,SNIR61FL.DTA,Senegal,2010
+IUD,Method Information Index,0.481052296,SNIR61FL.DTA,Senegal,2010
+Injections,Method Information Index,0.445423214,SNIR61FL.DTA,Senegal,2010
+Female Sterilization,Method Information Index,0.308381864,SNIR61FL.DTA,Senegal,2010
+Implant,Method Information Index,0.507962598,SNIR61FL.DTA,Senegal,2010
+Pill,Told About Other Methods,0.714673839,SNIR61FL.DTA,Senegal,2010
+IUD,Told About Other Methods,0.607149047,SNIR61FL.DTA,Senegal,2010
+Injections,Told About Other Methods,0.807333797,SNIR61FL.DTA,Senegal,2010
+Female Sterilization,Told About Other Methods,0.694169359,SNIR61FL.DTA,Senegal,2010
+Implant,Told About Other Methods,0.873456905,SNIR61FL.DTA,Senegal,2010
+Pill,Told About Side Effects,0.519003471,SNIR61FL.DTA,Senegal,2010
+IUD,Told About Side Effects,0.685781392,SNIR61FL.DTA,Senegal,2010
+Injections,Told About Side Effects,0.568352947,SNIR61FL.DTA,Senegal,2010
+Female Sterilization,Told About Side Effects,0.702983131,SNIR61FL.DTA,Senegal,2010
+Implant,Told About Side Effects,0.580169056,SNIR61FL.DTA,Senegal,2010
+Pill,Told What to Do About Side Effects,0.407787244,SNIR61FL.DTA,Senegal,2010
+IUD,Told What to Do About Side Effects,0.685781392,SNIR61FL.DTA,Senegal,2010
+Injections,Told What to Do About Side Effects,0.496206664,SNIR61FL.DTA,Senegal,2010
+Female Sterilization,Told What to Do About Side Effects,0.402335145,SNIR61FL.DTA,Senegal,2010
+Implant,Told What to Do About Side Effects,0.553505969,SNIR61FL.DTA,Senegal,2010
+Total,Method Information Index,0.415637239,SNIR61FL.DTA,Senegal,2010
+Total,Told About Other Methods,0.770900595,SNIR61FL.DTA,Senegal,2010
+Total,Told About Side Effects,0.559613316,SNIR61FL.DTA,Senegal,2010
+Total,Told What to Do About Side Effects,0.477972796,SNIR61FL.DTA,Senegal,2010
+Pill,Method Information Index,0.529791764,SLIR7AFL.DTA,Sierra Leone,2019
+IUD,Method Information Index,0.891838872,SLIR7AFL.DTA,Sierra Leone,2019
+Injections,Method Information Index,0.673137125,SLIR7AFL.DTA,Sierra Leone,2019
+Female Sterilization,Method Information Index,0.563370384,SLIR7AFL.DTA,Sierra Leone,2019
+Implant,Method Information Index,0.732384479,SLIR7AFL.DTA,Sierra Leone,2019
+Pill,Told About Other Methods,0.702465315,SLIR7AFL.DTA,Sierra Leone,2019
+IUD,Told About Other Methods,0.955360744,SLIR7AFL.DTA,Sierra Leone,2019
+Injections,Told About Other Methods,0.817716928,SLIR7AFL.DTA,Sierra Leone,2019
+Female Sterilization,Told About Other Methods,0.608144371,SLIR7AFL.DTA,Sierra Leone,2019
+Implant,Told About Other Methods,0.87178835,SLIR7AFL.DTA,Sierra Leone,2019
+Pill,Told About Side Effects,0.582995968,SLIR7AFL.DTA,Sierra Leone,2019
+IUD,Told About Side Effects,0.936478128,SLIR7AFL.DTA,Sierra Leone,2019
+Injections,Told About Side Effects,0.729353005,SLIR7AFL.DTA,Sierra Leone,2019
+Female Sterilization,Told About Side Effects,0.690005127,SLIR7AFL.DTA,Sierra Leone,2019
+Implant,Told About Side Effects,0.814706446,SLIR7AFL.DTA,Sierra Leone,2019
+Pill,Told What to Do About Side Effects,0.562852865,SLIR7AFL.DTA,Sierra Leone,2019
+IUD,Told What to Do About Side Effects,0.936478128,SLIR7AFL.DTA,Sierra Leone,2019
+Injections,Told What to Do About Side Effects,0.703094508,SLIR7AFL.DTA,Sierra Leone,2019
+Female Sterilization,Told What to Do About Side Effects,0.581512409,SLIR7AFL.DTA,Sierra Leone,2019
+Implant,Told What to Do About Side Effects,0.78078151,SLIR7AFL.DTA,Sierra Leone,2019
+Total,Method Information Index,0.671946399,SLIR7AFL.DTA,Sierra Leone,2019
+Total,Told About Other Methods,0.816884724,SLIR7AFL.DTA,Sierra Leone,2019
+Total,Told About Side Effects,0.737289512,SLIR7AFL.DTA,Sierra Leone,2019
+Total,Told What to Do About Side Effects,0.709364126,SLIR7AFL.DTA,Sierra Leone,2019
+Pill,Method Information Index,0.614387565,SLIR61FL.DTA,Sierra Leone,2013
+IUD,Method Information Index,0.817554212,SLIR61FL.DTA,Sierra Leone,2013
+Injections,Method Information Index,0.739370014,SLIR61FL.DTA,Sierra Leone,2013
+Female Sterilization,Method Information Index,0.547704626,SLIR61FL.DTA,Sierra Leone,2013
+Implant,Method Information Index,0.80737082,SLIR61FL.DTA,Sierra Leone,2013
+Pill,Told About Other Methods,0.791246289,SLIR61FL.DTA,Sierra Leone,2013
+IUD,Told About Other Methods,0.907857618,SLIR61FL.DTA,Sierra Leone,2013
+Injections,Told About Other Methods,0.86537945,SLIR61FL.DTA,Sierra Leone,2013
+Female Sterilization,Told About Other Methods,0.754133107,SLIR61FL.DTA,Sierra Leone,2013
+Implant,Told About Other Methods,0.898538101,SLIR61FL.DTA,Sierra Leone,2013
+Pill,Told About Side Effects,0.670329107,SLIR61FL.DTA,Sierra Leone,2013
+IUD,Told About Side Effects,0.841838099,SLIR61FL.DTA,Sierra Leone,2013
+Injections,Told About Side Effects,0.805164414,SLIR61FL.DTA,Sierra Leone,2013
+Female Sterilization,Told About Side Effects,0.62187175,SLIR61FL.DTA,Sierra Leone,2013
+Implant,Told About Side Effects,0.85299485,SLIR61FL.DTA,Sierra Leone,2013
+Pill,Told What to Do About Side Effects,0.631393263,SLIR61FL.DTA,Sierra Leone,2013
+IUD,Told What to Do About Side Effects,0.836329609,SLIR61FL.DTA,Sierra Leone,2013
+Injections,Told What to Do About Side Effects,0.764822383,SLIR61FL.DTA,Sierra Leone,2013
+Female Sterilization,Told What to Do About Side Effects,0.579383509,SLIR61FL.DTA,Sierra Leone,2013
+Implant,Told What to Do About Side Effects,0.832779853,SLIR61FL.DTA,Sierra Leone,2013
+Total,Method Information Index,0.718462379,SLIR61FL.DTA,Sierra Leone,2013
+Total,Told About Other Methods,0.851389252,SLIR61FL.DTA,Sierra Leone,2013
+Total,Told About Side Effects,0.777178009,SLIR61FL.DTA,Sierra Leone,2013
+Total,Told What to Do About Side Effects,0.741625178,SLIR61FL.DTA,Sierra Leone,2013
+Pill,Method Information Index,0.438352931,ZAIR71FL.DTA,South Africa,2016
+IUD,Method Information Index,0.779547309,ZAIR71FL.DTA,South Africa,2016
+Injections,Method Information Index,0.368560081,ZAIR71FL.DTA,South Africa,2016
+Female Sterilization,Method Information Index,0.449292267,ZAIR71FL.DTA,South Africa,2016
+Implant,Method Information Index,0.496063936,ZAIR71FL.DTA,South Africa,2016
+Pill,Told About Other Methods,0.546874188,ZAIR71FL.DTA,South Africa,2016
+IUD,Told About Other Methods,0.859727854,ZAIR71FL.DTA,South Africa,2016
+Injections,Told About Other Methods,0.567692034,ZAIR71FL.DTA,South Africa,2016
+Female Sterilization,Told About Other Methods,0.619790203,ZAIR71FL.DTA,South Africa,2016
+Implant,Told About Other Methods,0.665522993,ZAIR71FL.DTA,South Africa,2016
+Pill,Told About Side Effects,0.574478349,ZAIR71FL.DTA,South Africa,2016
+IUD,Told About Side Effects,0.857071462,ZAIR71FL.DTA,South Africa,2016
+Injections,Told About Side Effects,0.49254451,ZAIR71FL.DTA,South Africa,2016
+Female Sterilization,Told About Side Effects,0.595945989,ZAIR71FL.DTA,South Africa,2016
+Implant,Told About Side Effects,0.671087927,ZAIR71FL.DTA,South Africa,2016
+Pill,Told What to Do About Side Effects,0.507478967,ZAIR71FL.DTA,South Africa,2016
+IUD,Told What to Do About Side Effects,0.840241879,ZAIR71FL.DTA,South Africa,2016
+Injections,Told What to Do About Side Effects,0.431449228,ZAIR71FL.DTA,South Africa,2016
+Female Sterilization,Told What to Do About Side Effects,0.555647576,ZAIR71FL.DTA,South Africa,2016
+Implant,Told What to Do About Side Effects,0.608061368,ZAIR71FL.DTA,South Africa,2016
+Total,Method Information Index,0.403499452,ZAIR71FL.DTA,South Africa,2016
+Total,Told About Other Methods,0.580090315,ZAIR71FL.DTA,South Africa,2016
+Total,Told About Side Effects,0.535300797,ZAIR71FL.DTA,South Africa,2016
+Total,Told What to Do About Side Effects,0.474760358,ZAIR71FL.DTA,South Africa,2016
+Pill,Method Information Index,0.638410387,TJIR71FL.DTA,Tajikistan,2017
+IUD,Method Information Index,0.694803663,TJIR71FL.DTA,Tajikistan,2017
+Injections,Method Information Index,0.655628144,TJIR71FL.DTA,Tajikistan,2017
+Female Sterilization,Method Information Index,0.487197747,TJIR71FL.DTA,Tajikistan,2017
+Implant,Method Information Index,0.550302174,TJIR71FL.DTA,Tajikistan,2017
+Pill,Told About Other Methods,0.777388128,TJIR71FL.DTA,Tajikistan,2017
+IUD,Told About Other Methods,0.761213666,TJIR71FL.DTA,Tajikistan,2017
+Injections,Told About Other Methods,0.82393437,TJIR71FL.DTA,Tajikistan,2017
+Female Sterilization,Told About Other Methods,0.653105312,TJIR71FL.DTA,Tajikistan,2017
+Implant,Told About Other Methods,0.768462251,TJIR71FL.DTA,Tajikistan,2017
+Pill,Told About Side Effects,0.750030593,TJIR71FL.DTA,Tajikistan,2017
+IUD,Told About Side Effects,0.841409698,TJIR71FL.DTA,Tajikistan,2017
+Injections,Told About Side Effects,0.762335555,TJIR71FL.DTA,Tajikistan,2017
+Female Sterilization,Told About Side Effects,0.585527061,TJIR71FL.DTA,Tajikistan,2017
+Implant,Told About Side Effects,0.871341493,TJIR71FL.DTA,Tajikistan,2017
+Pill,Told What to Do About Side Effects,0.665099745,TJIR71FL.DTA,Tajikistan,2017
+IUD,Told What to Do About Side Effects,0.803010854,TJIR71FL.DTA,Tajikistan,2017
+Injections,Told What to Do About Side Effects,0.724774912,TJIR71FL.DTA,Tajikistan,2017
+Female Sterilization,Told What to Do About Side Effects,0.528413301,TJIR71FL.DTA,Tajikistan,2017
+Implant,Told What to Do About Side Effects,0.781839923,TJIR71FL.DTA,Tajikistan,2017
+Total,Method Information Index,0.678816054,TJIR71FL.DTA,Tajikistan,2017
+Total,Told About Other Methods,0.764197449,TJIR71FL.DTA,Tajikistan,2017
+Total,Told About Side Effects,0.818795412,TJIR71FL.DTA,Tajikistan,2017
+Total,Told What to Do About Side Effects,0.774614882,TJIR71FL.DTA,Tajikistan,2017
+Pill,Method Information Index,0.643942482,TJIR61FL.DTA,Tajikistan,2012
+IUD,Method Information Index,0.627611213,TJIR61FL.DTA,Tajikistan,2012
+Injections,Method Information Index,0.74944153,TJIR61FL.DTA,Tajikistan,2012
+Female Sterilization,Method Information Index,0.408364646,TJIR61FL.DTA,Tajikistan,2012
+Implant,Method Information Index,0.495652245,TJIR61FL.DTA,Tajikistan,2012
+Pill,Told About Other Methods,0.752607482,TJIR61FL.DTA,Tajikistan,2012
+IUD,Told About Other Methods,0.714531766,TJIR61FL.DTA,Tajikistan,2012
+Injections,Told About Other Methods,0.85180108,TJIR61FL.DTA,Tajikistan,2012
+Female Sterilization,Told About Other Methods,0.602503237,TJIR61FL.DTA,Tajikistan,2012
+Implant,Told About Other Methods,0.495652245,TJIR61FL.DTA,Tajikistan,2012
+Pill,Told About Side Effects,0.789119812,TJIR61FL.DTA,Tajikistan,2012
+IUD,Told About Side Effects,0.825555528,TJIR61FL.DTA,Tajikistan,2012
+Injections,Told About Side Effects,0.838538922,TJIR61FL.DTA,Tajikistan,2012
+Female Sterilization,Told About Side Effects,0.887837927,TJIR61FL.DTA,Tajikistan,2012
+Implant,Told About Side Effects,0.495652245,TJIR61FL.DTA,Tajikistan,2012
+Pill,Told What to Do About Side Effects,0.728371221,TJIR61FL.DTA,Tajikistan,2012
+IUD,Told What to Do About Side Effects,0.761857547,TJIR61FL.DTA,Tajikistan,2012
+Injections,Told What to Do About Side Effects,0.79018737,TJIR61FL.DTA,Tajikistan,2012
+Female Sterilization,Told What to Do About Side Effects,0.662767488,TJIR61FL.DTA,Tajikistan,2012
+Implant,Told What to Do About Side Effects,0.495652245,TJIR61FL.DTA,Tajikistan,2012
+Total,Method Information Index,0.635970878,TJIR61FL.DTA,Tajikistan,2012
+Total,Told About Other Methods,0.729000933,TJIR61FL.DTA,Tajikistan,2012
+Total,Told About Side Effects,0.822691454,TJIR61FL.DTA,Tajikistan,2012
+Total,Told What to Do About Side Effects,0.75768203,TJIR61FL.DTA,Tajikistan,2012
+Pill,Method Information Index,0.411858809,TZIR7BFL.DTA,Tanzania,2015
+IUD,Method Information Index,0.679733703,TZIR7BFL.DTA,Tanzania,2015
+Injections,Method Information Index,0.396296804,TZIR7BFL.DTA,Tanzania,2015
+Female Sterilization,Method Information Index,0.366388023,TZIR7BFL.DTA,Tanzania,2015
+Implant,Method Information Index,0.611861504,TZIR7BFL.DTA,Tanzania,2015
+Pill,Told About Other Methods,0.687269095,TZIR7BFL.DTA,Tanzania,2015
+IUD,Told About Other Methods,0.831628082,TZIR7BFL.DTA,Tanzania,2015
+Injections,Told About Other Methods,0.728669319,TZIR7BFL.DTA,Tanzania,2015
+Female Sterilization,Told About Other Methods,0.593791595,TZIR7BFL.DTA,Tanzania,2015
+Implant,Told About Other Methods,0.82929274,TZIR7BFL.DTA,Tanzania,2015
+Pill,Told About Side Effects,0.512651519,TZIR7BFL.DTA,Tanzania,2015
+IUD,Told About Side Effects,0.806610282,TZIR7BFL.DTA,Tanzania,2015
+Injections,Told About Side Effects,0.48236028,TZIR7BFL.DTA,Tanzania,2015
+Female Sterilization,Told About Side Effects,0.534075796,TZIR7BFL.DTA,Tanzania,2015
+Implant,Told About Side Effects,0.691692453,TZIR7BFL.DTA,Tanzania,2015
+Pill,Told What to Do About Side Effects,0.45655476,TZIR7BFL.DTA,Tanzania,2015
+IUD,Told What to Do About Side Effects,0.725484839,TZIR7BFL.DTA,Tanzania,2015
+Injections,Told What to Do About Side Effects,0.434375,TZIR7BFL.DTA,Tanzania,2015
+Female Sterilization,Told What to Do About Side Effects,0.48900439,TZIR7BFL.DTA,Tanzania,2015
+Implant,Told What to Do About Side Effects,0.667054135,TZIR7BFL.DTA,Tanzania,2015
+Total,Method Information Index,0.462334941,TZIR7BFL.DTA,Tanzania,2015
+Total,Told About Other Methods,0.74071639,TZIR7BFL.DTA,Tanzania,2015
+Total,Told About Side Effects,0.556014826,TZIR7BFL.DTA,Tanzania,2015
+Total,Told What to Do About Side Effects,0.511930598,TZIR7BFL.DTA,Tanzania,2015
+Pill,Method Information Index,0.548009855,TLIR71FL.DTA,Timor-Leste,2016
+IUD,Method Information Index,0.502193793,TLIR71FL.DTA,Timor-Leste,2016
+Injections,Method Information Index,0.425701441,TLIR71FL.DTA,Timor-Leste,2016
+Female Sterilization,Method Information Index,0.412125482,TLIR71FL.DTA,Timor-Leste,2016
+Implant,Method Information Index,0.521041984,TLIR71FL.DTA,Timor-Leste,2016
+Pill,Told About Other Methods,0.759760495,TLIR71FL.DTA,Timor-Leste,2016
+IUD,Told About Other Methods,0.834529346,TLIR71FL.DTA,Timor-Leste,2016
+Injections,Told About Other Methods,0.682410758,TLIR71FL.DTA,Timor-Leste,2016
+Female Sterilization,Told About Other Methods,0.607665579,TLIR71FL.DTA,Timor-Leste,2016
+Implant,Told About Other Methods,0.742444827,TLIR71FL.DTA,Timor-Leste,2016
+Pill,Told About Side Effects,0.605348472,TLIR71FL.DTA,Timor-Leste,2016
+IUD,Told About Side Effects,0.579644082,TLIR71FL.DTA,Timor-Leste,2016
+Injections,Told About Side Effects,0.546526936,TLIR71FL.DTA,Timor-Leste,2016
+Female Sterilization,Told About Side Effects,0.744968901,TLIR71FL.DTA,Timor-Leste,2016
+Implant,Told About Side Effects,0.608392781,TLIR71FL.DTA,Timor-Leste,2016
+Pill,Told What to Do About Side Effects,0.573595505,TLIR71FL.DTA,Timor-Leste,2016
+IUD,Told What to Do About Side Effects,0.54194979,TLIR71FL.DTA,Timor-Leste,2016
+Injections,Told What to Do About Side Effects,0.497670457,TLIR71FL.DTA,Timor-Leste,2016
+Female Sterilization,Told What to Do About Side Effects,0.632270439,TLIR71FL.DTA,Timor-Leste,2016
+Implant,Told What to Do About Side Effects,0.558378805,TLIR71FL.DTA,Timor-Leste,2016
+Total,Method Information Index,0.469153166,TLIR71FL.DTA,Timor-Leste,2016
+Total,Told About Other Methods,0.715204048,TLIR71FL.DTA,Timor-Leste,2016
+Total,Told About Side Effects,0.581099526,TLIR71FL.DTA,Timor-Leste,2016
+Total,Told What to Do About Side Effects,0.531509905,TLIR71FL.DTA,Timor-Leste,2016
+Pill,Method Information Index,0.448417169,TGIR61FL.DTA,Togo,2013
+IUD,Method Information Index,0.71953164,TGIR61FL.DTA,Togo,2013
+Injections,Method Information Index,0.689819941,TGIR61FL.DTA,Togo,2013
+Female Sterilization,Method Information Index,0.275801244,TGIR61FL.DTA,Togo,2013
+Implant,Method Information Index,0.797889079,TGIR61FL.DTA,Togo,2013
+Pill,Told About Other Methods,0.654213124,TGIR61FL.DTA,Togo,2013
+IUD,Told About Other Methods,0.905666502,TGIR61FL.DTA,Togo,2013
+Injections,Told About Other Methods,0.845903295,TGIR61FL.DTA,Togo,2013
+Female Sterilization,Told About Other Methods,0.406036178,TGIR61FL.DTA,Togo,2013
+Implant,Told About Other Methods,0.908653743,TGIR61FL.DTA,Togo,2013
+Pill,Told About Side Effects,0.559440152,TGIR61FL.DTA,Togo,2013
+IUD,Told About Side Effects,0.776785629,TGIR61FL.DTA,Togo,2013
+Injections,Told About Side Effects,0.81367855,TGIR61FL.DTA,Togo,2013
+Female Sterilization,Told About Side Effects,0.440852621,TGIR61FL.DTA,Togo,2013
+Implant,Told About Side Effects,0.873516444,TGIR61FL.DTA,Togo,2013
+Pill,Told What to Do About Side Effects,0.508630055,TGIR61FL.DTA,Togo,2013
+IUD,Told What to Do About Side Effects,0.756216396,TGIR61FL.DTA,Togo,2013
+Injections,Told What to Do About Side Effects,0.744329497,TGIR61FL.DTA,Togo,2013
+Female Sterilization,Told What to Do About Side Effects,0.275801244,TGIR61FL.DTA,Togo,2013
+Implant,Told What to Do About Side Effects,0.847486994,TGIR61FL.DTA,Togo,2013
+Total,Method Information Index,0.676729146,TGIR61FL.DTA,Togo,2013
+Total,Told About Other Methods,0.828375013,TGIR61FL.DTA,Togo,2013
+Total,Told About Side Effects,0.780634683,TGIR61FL.DTA,Togo,2013
+Total,Told What to Do About Side Effects,0.728614375,TGIR61FL.DTA,Togo,2013
+Pill,Method Information Index,0.382652498,UGIR7BFL.DTA,Uganda,2016
+IUD,Method Information Index,0.5785173,UGIR7BFL.DTA,Uganda,2016
+Injections,Method Information Index,0.434270675,UGIR7BFL.DTA,Uganda,2016
+Female Sterilization,Method Information Index,0.413266893,UGIR7BFL.DTA,Uganda,2016
+Implant,Method Information Index,0.625166738,UGIR7BFL.DTA,Uganda,2016
+Pill,Told About Other Methods,0.57717197,UGIR7BFL.DTA,Uganda,2016
+IUD,Told About Other Methods,0.815750933,UGIR7BFL.DTA,Uganda,2016
+Injections,Told About Other Methods,0.636566225,UGIR7BFL.DTA,Uganda,2016
+Female Sterilization,Told About Other Methods,0.652589649,UGIR7BFL.DTA,Uganda,2016
+Implant,Told About Other Methods,0.807180243,UGIR7BFL.DTA,Uganda,2016
+Pill,Told About Side Effects,0.487585913,UGIR7BFL.DTA,Uganda,2016
+IUD,Told About Side Effects,0.717874954,UGIR7BFL.DTA,Uganda,2016
+Injections,Told About Side Effects,0.577473667,UGIR7BFL.DTA,Uganda,2016
+Female Sterilization,Told About Side Effects,0.594909029,UGIR7BFL.DTA,Uganda,2016
+Implant,Told About Side Effects,0.727529104,UGIR7BFL.DTA,Uganda,2016
+Pill,Told What to Do About Side Effects,0.419442143,UGIR7BFL.DTA,Uganda,2016
+IUD,Told What to Do About Side Effects,0.630104185,UGIR7BFL.DTA,Uganda,2016
+Injections,Told What to Do About Side Effects,0.49283176,UGIR7BFL.DTA,Uganda,2016
+Female Sterilization,Told What to Do About Side Effects,0.509264108,UGIR7BFL.DTA,Uganda,2016
+Implant,Told What to Do About Side Effects,0.675394015,UGIR7BFL.DTA,Uganda,2016
+Total,Method Information Index,0.477692128,UGIR7BFL.DTA,Uganda,2016
+Total,Told About Other Methods,0.679636821,UGIR7BFL.DTA,Uganda,2016
+Total,Told About Side Effects,0.611613576,UGIR7BFL.DTA,Uganda,2016
+Total,Told What to Do About Side Effects,0.534774913,UGIR7BFL.DTA,Uganda,2016
+Pill,Method Information Index,0.422765902,UGIR60FL.DTA,Uganda,2011
+IUD,Method Information Index,0.660344166,UGIR60FL.DTA,Uganda,2011
+Injections,Method Information Index,0.364291252,UGIR60FL.DTA,Uganda,2011
+Female Sterilization,Method Information Index,0.259097566,UGIR60FL.DTA,Uganda,2011
+Implant,Method Information Index,0.650822005,UGIR60FL.DTA,Uganda,2011
+Pill,Told About Other Methods,0.688314124,UGIR60FL.DTA,Uganda,2011
+IUD,Told About Other Methods,0.939075766,UGIR60FL.DTA,Uganda,2011
+Injections,Told About Other Methods,0.539248092,UGIR60FL.DTA,Uganda,2011
+Female Sterilization,Told About Other Methods,0.526597519,UGIR60FL.DTA,Uganda,2011
+Implant,Told About Other Methods,0.794653881,UGIR60FL.DTA,Uganda,2011
+Pill,Told About Side Effects,0.551834051,UGIR60FL.DTA,Uganda,2011
+IUD,Told About Side Effects,0.714526197,UGIR60FL.DTA,Uganda,2011
+Injections,Told About Side Effects,0.521178962,UGIR60FL.DTA,Uganda,2011
+Female Sterilization,Told About Side Effects,0.482038539,UGIR60FL.DTA,Uganda,2011
+Implant,Told About Side Effects,0.810888131,UGIR60FL.DTA,Uganda,2011
+Pill,Told What to Do About Side Effects,0.473670254,UGIR60FL.DTA,Uganda,2011
+IUD,Told What to Do About Side Effects,0.689422202,UGIR60FL.DTA,Uganda,2011
+Injections,Told What to Do About Side Effects,0.456419497,UGIR60FL.DTA,Uganda,2011
+Female Sterilization,Told What to Do About Side Effects,0.362102408,UGIR60FL.DTA,Uganda,2011
+Implant,Told What to Do About Side Effects,0.78426196,UGIR60FL.DTA,Uganda,2011
+Total,Method Information Index,0.404674014,UGIR60FL.DTA,Uganda,2011
+Total,Told About Other Methods,0.597566515,UGIR60FL.DTA,Uganda,2011
+Total,Told About Side Effects,0.56145083,UGIR60FL.DTA,Uganda,2011
+Total,Told What to Do About Side Effects,0.495985395,UGIR60FL.DTA,Uganda,2011
+Pill,Method Information Index,0.647852859,ZMIR71FL.DTA,Zambia,2018
+IUD,Method Information Index,0.715465621,ZMIR71FL.DTA,Zambia,2018
+Injections,Method Information Index,0.673977656,ZMIR71FL.DTA,Zambia,2018
+Female Sterilization,Method Information Index,0.616462315,ZMIR71FL.DTA,Zambia,2018
+Implant,Method Information Index,0.764238227,ZMIR71FL.DTA,Zambia,2018
+Pill,Told About Other Methods,0.764852695,ZMIR71FL.DTA,Zambia,2018
+IUD,Told About Other Methods,0.826613446,ZMIR71FL.DTA,Zambia,2018
+Injections,Told About Other Methods,0.800607341,ZMIR71FL.DTA,Zambia,2018
+Female Sterilization,Told About Other Methods,0.722527024,ZMIR71FL.DTA,Zambia,2018
+Implant,Told About Other Methods,0.857317,ZMIR71FL.DTA,Zambia,2018
+Pill,Told About Side Effects,0.721099074,ZMIR71FL.DTA,Zambia,2018
+IUD,Told About Side Effects,0.932574293,ZMIR71FL.DTA,Zambia,2018
+Injections,Told About Side Effects,0.763396281,ZMIR71FL.DTA,Zambia,2018
+Female Sterilization,Told About Side Effects,0.726562273,ZMIR71FL.DTA,Zambia,2018
+Implant,Told About Side Effects,0.856104856,ZMIR71FL.DTA,Zambia,2018
+Pill,Told What to Do About Side Effects,0.677349928,ZMIR71FL.DTA,Zambia,2018
+IUD,Told What to Do About Side Effects,0.747615612,ZMIR71FL.DTA,Zambia,2018
+Injections,Told What to Do About Side Effects,0.723954259,ZMIR71FL.DTA,Zambia,2018
+Female Sterilization,Told What to Do About Side Effects,0.684356714,ZMIR71FL.DTA,Zambia,2018
+Implant,Told What to Do About Side Effects,0.828696171,ZMIR71FL.DTA,Zambia,2018
+Total,Method Information Index,0.688061606,ZMIR71FL.DTA,Zambia,2018
+Total,Told About Other Methods,0.803242524,ZMIR71FL.DTA,Zambia,2018
+Total,Told About Side Effects,0.777331654,ZMIR71FL.DTA,Zambia,2018
+Total,Told What to Do About Side Effects,0.737929501,ZMIR71FL.DTA,Zambia,2018
+Pill,Method Information Index,0.623516445,ZMIR61FL.DTA,Zambia,2013
+IUD,Method Information Index,0.823183934,ZMIR61FL.DTA,Zambia,2013
+Injections,Method Information Index,0.738119758,ZMIR61FL.DTA,Zambia,2013
+Female Sterilization,Method Information Index,0.509132816,ZMIR61FL.DTA,Zambia,2013
+Implant,Method Information Index,0.839309276,ZMIR61FL.DTA,Zambia,2013
+Pill,Told About Other Methods,0.756708784,ZMIR61FL.DTA,Zambia,2013
+IUD,Told About Other Methods,0.976171354,ZMIR61FL.DTA,Zambia,2013
+Injections,Told About Other Methods,0.855318959,ZMIR61FL.DTA,Zambia,2013
+Female Sterilization,Told About Other Methods,0.62852341,ZMIR61FL.DTA,Zambia,2013
+Implant,Told About Other Methods,0.90328178,ZMIR61FL.DTA,Zambia,2013
+Pill,Told About Side Effects,0.696854206,ZMIR61FL.DTA,Zambia,2013
+IUD,Told About Side Effects,0.859187032,ZMIR61FL.DTA,Zambia,2013
+Injections,Told About Side Effects,0.814937676,ZMIR61FL.DTA,Zambia,2013
+Female Sterilization,Told About Side Effects,0.698040761,ZMIR61FL.DTA,Zambia,2013
+Implant,Told About Side Effects,0.924189086,ZMIR61FL.DTA,Zambia,2013
+Pill,Told What to Do About Side Effects,0.661530775,ZMIR61FL.DTA,Zambia,2013
+IUD,Told What to Do About Side Effects,0.835216586,ZMIR61FL.DTA,Zambia,2013
+Injections,Told What to Do About Side Effects,0.781181927,ZMIR61FL.DTA,Zambia,2013
+Female Sterilization,Told What to Do About Side Effects,0.638581973,ZMIR61FL.DTA,Zambia,2013
+Implant,Told What to Do About Side Effects,0.893670076,ZMIR61FL.DTA,Zambia,2013
+Total,Method Information Index,0.718964071,ZMIR61FL.DTA,Zambia,2013
+Total,Told About Other Methods,0.833571713,ZMIR61FL.DTA,Zambia,2013
+Total,Told About Side Effects,0.797296192,ZMIR61FL.DTA,Zambia,2013
+Total,Told What to Do About Side Effects,0.763312735,ZMIR61FL.DTA,Zambia,2013
+Pill,Method Information Index,0.381825236,ZWIR71FL.DTA,Zimbabwe,2015
+IUD,Method Information Index,0.735802256,ZWIR71FL.DTA,Zimbabwe,2015
+Injections,Method Information Index,0.429660761,ZWIR71FL.DTA,Zimbabwe,2015
+Female Sterilization,Method Information Index,0.333657227,ZWIR71FL.DTA,Zimbabwe,2015
+Implant,Method Information Index,0.63718585,ZWIR71FL.DTA,Zimbabwe,2015
+Pill,Told About Other Methods,0.646926637,ZWIR71FL.DTA,Zimbabwe,2015
+IUD,Told About Other Methods,0.906306519,ZWIR71FL.DTA,Zimbabwe,2015
+Injections,Told About Other Methods,0.688728121,ZWIR71FL.DTA,Zimbabwe,2015
+Female Sterilization,Told About Other Methods,0.606279316,ZWIR71FL.DTA,Zimbabwe,2015
+Implant,Told About Other Methods,0.756966365,ZWIR71FL.DTA,Zimbabwe,2015
+Pill,Told About Side Effects,0.50035856,ZWIR71FL.DTA,Zimbabwe,2015
+IUD,Told About Side Effects,0.809143911,ZWIR71FL.DTA,Zimbabwe,2015
+Injections,Told About Side Effects,0.57123841,ZWIR71FL.DTA,Zimbabwe,2015
+Female Sterilization,Told About Side Effects,0.460696491,ZWIR71FL.DTA,Zimbabwe,2015
+Implant,Told About Side Effects,0.836514576,ZWIR71FL.DTA,Zimbabwe,2015
+Pill,Told What to Do About Side Effects,0.431097395,ZWIR71FL.DTA,Zimbabwe,2015
+IUD,Told What to Do About Side Effects,0.735802256,ZWIR71FL.DTA,Zimbabwe,2015
+Injections,Told What to Do About Side Effects,0.490533268,ZWIR71FL.DTA,Zimbabwe,2015
+Female Sterilization,Told What to Do About Side Effects,0.427077548,ZWIR71FL.DTA,Zimbabwe,2015
+Implant,Told What to Do About Side Effects,0.766565212,ZWIR71FL.DTA,Zimbabwe,2015
+Total,Method Information Index,0.444858454,ZWIR71FL.DTA,Zimbabwe,2015
+Total,Told About Other Methods,0.67832873,ZWIR71FL.DTA,Zimbabwe,2015
+Total,Told About Side Effects,0.583235114,ZWIR71FL.DTA,Zimbabwe,2015
+Total,Told What to Do About Side Effects,0.512116324,ZWIR71FL.DTA,Zimbabwe,2015
+Pill,Method Information Index,0.338066195,ZWIR62FL.DTA,Zimbabwe,2010
+IUD,Method Information Index,0.394740788,ZWIR62FL.DTA,Zimbabwe,2010
+Injections,Method Information Index,0.405698498,ZWIR62FL.DTA,Zimbabwe,2010
+Female Sterilization,Method Information Index,0.395770766,ZWIR62FL.DTA,Zimbabwe,2010
+Implant,Method Information Index,0.627648934,ZWIR62FL.DTA,Zimbabwe,2010
+Pill,Told About Other Methods,0.584143413,ZWIR62FL.DTA,Zimbabwe,2010
+IUD,Told About Other Methods,0.52268179,ZWIR62FL.DTA,Zimbabwe,2010
+Injections,Told About Other Methods,0.653007736,ZWIR62FL.DTA,Zimbabwe,2010
+Female Sterilization,Told About Other Methods,0.740475816,ZWIR62FL.DTA,Zimbabwe,2010
+Implant,Told About Other Methods,0.818836885,ZWIR62FL.DTA,Zimbabwe,2010
+Pill,Told About Side Effects,0.496955394,ZWIR62FL.DTA,Zimbabwe,2010
+IUD,Told About Side Effects,0.514339638,ZWIR62FL.DTA,Zimbabwe,2010
+Injections,Told About Side Effects,0.601035513,ZWIR62FL.DTA,Zimbabwe,2010
+Female Sterilization,Told About Side Effects,0.582143233,ZWIR62FL.DTA,Zimbabwe,2010
+Implant,Told About Side Effects,0.795618862,ZWIR62FL.DTA,Zimbabwe,2010
+Pill,Told What to Do About Side Effects,0.408449036,ZWIR62FL.DTA,Zimbabwe,2010
+IUD,Told What to Do About Side Effects,0.469983793,ZWIR62FL.DTA,Zimbabwe,2010
+Injections,Told What to Do About Side Effects,0.477180338,ZWIR62FL.DTA,Zimbabwe,2010
+Female Sterilization,Told What to Do About Side Effects,0.440387668,ZWIR62FL.DTA,Zimbabwe,2010
+Implant,Told What to Do About Side Effects,0.725535059,ZWIR62FL.DTA,Zimbabwe,2010
+Total,Method Information Index,0.368065668,ZWIR62FL.DTA,Zimbabwe,2010
+Total,Told About Other Methods,0.611803334,ZWIR62FL.DTA,Zimbabwe,2010
+Total,Told About Side Effects,0.533804734,ZWIR62FL.DTA,Zimbabwe,2010
+Total,Told What to Do About Side Effects,0.440116476,ZWIR62FL.DTA,Zimbabwe,2010
+Pill,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+IUD,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+Injections,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+Female Sterilization,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+Implant,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+Pill,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+IUD,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+Injections,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+Female Sterilization,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+Implant,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+Pill,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+IUD,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Injections,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Female Sterilization,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Implant,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Pill,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+IUD,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Injections,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Female Sterilization,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Implant,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Total,Method Information Index,,TRIR61FL.DTA,Turkey,2013
+Total,Told About Other Methods,,TRIR61FL.DTA,Turkey,2013
+Total,Told About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Total,Told What to Do About Side Effects,,TRIR61FL.DTA,Turkey,2013
+Pill,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+IUD,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+Injections,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+Female Sterilization,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+Implant,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+Pill,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+IUD,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+Injections,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+Female Sterilization,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+Implant,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+Pill,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+IUD,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Injections,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Female Sterilization,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Implant,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Pill,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+IUD,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Injections,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Female Sterilization,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Implant,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Total,Method Information Index,,BDIR7RFL.DTA,Bangladesh,2017
+Total,Told About Other Methods,,BDIR7RFL.DTA,Bangladesh,2017
+Total,Told About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Total,Told What to Do About Side Effects,,BDIR7RFL.DTA,Bangladesh,2017
+Pill,Method Information Index,0.120524444,CDIR61FL.DTA,Congo Democratic Republic,2013
+IUD,Method Information Index,0.661729212,CDIR61FL.DTA,Congo Democratic Republic,2013
+Injections,Method Information Index,0.363147586,CDIR61FL.DTA,Congo Democratic Republic,2013
+Female Sterilization,Method Information Index,0.064418383,CDIR61FL.DTA,Congo Democratic Republic,2013
+Implant,Method Information Index,0.504289238,CDIR61FL.DTA,Congo Democratic Republic,2013
+Pill,Told About Other Methods,0.424045941,CDIR61FL.DTA,Congo Democratic Republic,2013
+IUD,Told About Other Methods,0.77342738,CDIR61FL.DTA,Congo Democratic Republic,2013
+Injections,Told About Other Methods,0.518219539,CDIR61FL.DTA,Congo Democratic Republic,2013
+Female Sterilization,Told About Other Methods,0.222827927,CDIR61FL.DTA,Congo Democratic Republic,2013
+Implant,Told About Other Methods,0.647906367,CDIR61FL.DTA,Congo Democratic Republic,2013
+Pill,Told About Side Effects,0.405961308,CDIR61FL.DTA,Congo Democratic Republic,2013
+IUD,Told About Side Effects,0.859743146,CDIR61FL.DTA,Congo Democratic Republic,2013
+Injections,Told About Side Effects,0.621851343,CDIR61FL.DTA,Congo Democratic Republic,2013
+Female Sterilization,Told About Side Effects,0.483159705,CDIR61FL.DTA,Congo Democratic Republic,2013
+Implant,Told About Side Effects,0.745856404,CDIR61FL.DTA,Congo Democratic Republic,2013
+Pill,Told What to Do About Side Effects,0.260545417,CDIR61FL.DTA,Congo Democratic Republic,2013
+IUD,Told What to Do About Side Effects,0.859743146,CDIR61FL.DTA,Congo Democratic Republic,2013
+Injections,Told What to Do About Side Effects,0.521777212,CDIR61FL.DTA,Congo Democratic Republic,2013
+Female Sterilization,Told What to Do About Side Effects,0.304808403,CDIR61FL.DTA,Congo Democratic Republic,2013
+Implant,Told What to Do About Side Effects,0.672674057,CDIR61FL.DTA,Congo Democratic Republic,2013
+Total,Method Information Index,0.285885198,CDIR61FL.DTA,Congo Democratic Republic,2013
+Total,Told About Other Methods,0.502042635,CDIR61FL.DTA,Congo Democratic Republic,2013
+Total,Told About Side Effects,0.57635268,CDIR61FL.DTA,Congo Democratic Republic,2013
+Total,Told What to Do About Side Effects,0.459571829,CDIR61FL.DTA,Congo Democratic Republic,2013
+Pill,Method Information Index,0.261434147,CIIR62FL.DTA,Cote d'Ivoire,2011
+IUD,Method Information Index,0.481997193,CIIR62FL.DTA,Cote d'Ivoire,2011
+Injections,Method Information Index,0.440036982,CIIR62FL.DTA,Cote d'Ivoire,2011
+Female Sterilization,Method Information Index,0,CIIR62FL.DTA,Cote d'Ivoire,2011
+Implant,Method Information Index,0.407054179,CIIR62FL.DTA,Cote d'Ivoire,2011
+Pill,Told About Other Methods,0.446959987,CIIR62FL.DTA,Cote d'Ivoire,2011
+IUD,Told About Other Methods,0.845721505,CIIR62FL.DTA,Cote d'Ivoire,2011
+Injections,Told About Other Methods,0.6263148,CIIR62FL.DTA,Cote d'Ivoire,2011
+Female Sterilization,Told About Other Methods,0.687287668,CIIR62FL.DTA,Cote d'Ivoire,2011
+Implant,Told About Other Methods,0.540053017,CIIR62FL.DTA,Cote d'Ivoire,2011
+Pill,Told About Side Effects,0.406016853,CIIR62FL.DTA,Cote d'Ivoire,2011
+IUD,Told About Side Effects,0.636275689,CIIR62FL.DTA,Cote d'Ivoire,2011
+Injections,Told About Side Effects,0.625673499,CIIR62FL.DTA,Cote d'Ivoire,2011
+Female Sterilization,Told About Side Effects,0.383911528,CIIR62FL.DTA,Cote d'Ivoire,2011
+Implant,Told About Side Effects,0.700749277,CIIR62FL.DTA,Cote d'Ivoire,2011
+Pill,Told What to Do About Side Effects,0.316490879,CIIR62FL.DTA,Cote d'Ivoire,2011
+IUD,Told What to Do About Side Effects,0.636275689,CIIR62FL.DTA,Cote d'Ivoire,2011
+Injections,Told What to Do About Side Effects,0.495441354,CIIR62FL.DTA,Cote d'Ivoire,2011
+Female Sterilization,Told What to Do About Side Effects,0.088829087,CIIR62FL.DTA,Cote d'Ivoire,2011
+Implant,Told What to Do About Side Effects,0.700749277,CIIR62FL.DTA,Cote d'Ivoire,2011
+Total,Method Information Index,0.305389418,CIIR62FL.DTA,Cote d'Ivoire,2011
+Total,Told About Other Methods,0.494161131,CIIR62FL.DTA,Cote d'Ivoire,2011
+Total,Told About Side Effects,0.464058977,CIIR62FL.DTA,Cote d'Ivoire,2011
+Total,Told What to Do About Side Effects,0.366098208,CIIR62FL.DTA,Cote d'Ivoire,2011
+Pill,Method Information Index,0.406856514,CMIR71FL.DTA,Cameroon,2018
+IUD,Method Information Index,0.644533599,CMIR71FL.DTA,Cameroon,2018
+Injections,Method Information Index,0.504466386,CMIR71FL.DTA,Cameroon,2018
+Female Sterilization,Method Information Index,0.297990987,CMIR71FL.DTA,Cameroon,2018
+Implant,Method Information Index,0.630184568,CMIR71FL.DTA,Cameroon,2018
+Pill,Told About Other Methods,0.629598528,CMIR71FL.DTA,Cameroon,2018
+IUD,Told About Other Methods,0.897606255,CMIR71FL.DTA,Cameroon,2018
+Injections,Told About Other Methods,0.743051766,CMIR71FL.DTA,Cameroon,2018
+Female Sterilization,Told About Other Methods,0.63219088,CMIR71FL.DTA,Cameroon,2018
+Implant,Told About Other Methods,0.816168883,CMIR71FL.DTA,Cameroon,2018
+Pill,Told About Side Effects,0.579678472,CMIR71FL.DTA,Cameroon,2018
+IUD,Told About Side Effects,0.741942397,CMIR71FL.DTA,Cameroon,2018
+Injections,Told About Side Effects,0.702866961,CMIR71FL.DTA,Cameroon,2018
+Female Sterilization,Told About Side Effects,0.560293247,CMIR71FL.DTA,Cameroon,2018
+Implant,Told About Side Effects,0.797046848,CMIR71FL.DTA,Cameroon,2018
+Pill,Told What to Do About Side Effects,0.441357218,CMIR71FL.DTA,Cameroon,2018
+IUD,Told What to Do About Side Effects,0.664795815,CMIR71FL.DTA,Cameroon,2018
+Injections,Told What to Do About Side Effects,0.572937731,CMIR71FL.DTA,Cameroon,2018
+Female Sterilization,Told What to Do About Side Effects,0.328319373,CMIR71FL.DTA,Cameroon,2018
+Implant,Told What to Do About Side Effects,0.691460596,CMIR71FL.DTA,Cameroon,2018
+Total,Method Information Index,0.535428235,CMIR71FL.DTA,Cameroon,2018
+Total,Told About Other Methods,0.738891724,CMIR71FL.DTA,Cameroon,2018
+Total,Told About Side Effects,0.712939166,CMIR71FL.DTA,Cameroon,2018
+Total,Told What to Do About Side Effects,0.591418561,CMIR71FL.DTA,Cameroon,2018

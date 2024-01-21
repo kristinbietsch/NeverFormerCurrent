@@ -1,0 +1,115 @@
+why discontinue
+method mix
+
+
+
+use_status
+use_age_status
+use_mar_status
+never_group
+never_intention
+never_has_intention
+former_group
+former_intention
+former_has_intention
+former_why_discontinue
+former_time_use_group
+mii
+current_group
+current_methodmix
+current_source
+current_timesince
+empowerment
+
+
+  use_age_status_Data = reactiveVal(use_age_status_clean %>% mutate(key = 1:nrow(use_age_status_clean )))
+  use_mar_status_Data = reactiveVal(use_mar_status_clean %>% mutate(key = 1:nrow(use_mar_status_clean )))
+  never_group_Data = reactiveVal(never_group_clean %>% mutate(key = 1:nrow(never_group_clean )))
+  never_intention_Data = reactiveVal(never_intention_clean %>% mutate(key = 1:nrow(never_intention_clean )))
+  never_has_intention_Data = reactiveVal(never_has_intention_clean %>% mutate(key = 1:nrow(never_has_intention_clean )))
+  former_group_Data = reactiveVal(former_group_clean %>% mutate(key = 1:nrow(former_group_clean )))
+  former_intention_Data = reactiveVal(former_intention_clean %>% mutate(key = 1:nrow(former_intention_clean )))
+  former_has_intention_Data = reactiveVal(former_has_intention_clean %>% mutate(key = 1:nrow(former_has_intention_clean )))
+former_why_discontinue_Data = reactiveVal(former_why_discontinue_clean %>% mutate(key = 1:nrow(former_why_discontinue_clean )))
+  former_time_use_group_Data = reactiveVal(former_time_use_group_clean %>% mutate(key = 1:nrow(former_time_use_group_clean )))
+  current_group_Data = reactiveVal(current_group_clean %>% mutate(key = 1:nrow(current_group_clean )))
+  current_methodmix_Data = reactiveVal(current_methodmix_clean %>% mutate(key = 1:nrow(current_methodmix_clean )))
+ mii_Data = reactiveVal(mii_clean %>% mutate(key = 1:nrow(mii_clean )))
+ current_source_Data = reactiveVal(current_source_clean %>% mutate(key = 1:nrow(current_source_clean )))
+  current_timesince_Data = reactiveVal(current_timesince_clean %>% mutate(key = 1:nrow(current_timesince_clean )))
+  empowerment_Data = reactiveVal(empowerment_clean %>% mutate(key = 1:nrow(empowerment_clean )))
+
+use_status_country	 <- reactive({	
+	use_status_sel <- use_status_Data()  %>% filter(Country %in% input$Country)    
+	use_status_sel	
+ })
+use_age_status_country	 <- reactive({	
+	use_age_status_sel <- use_age_status_Data()  %>% filter(Country %in% input$Country)   
+ 	use_age_status_sel	
+ })
+use_mar_status_country	 <- reactive({	
+	use_mar_status_sel <- use_mar_status_Data()  %>% filter(Country %in% input$Country)   
+ 	use_mar_status_sel	
+ })
+never_group_country	 <- reactive({	
+	never_group_sel <- never_group_Data()  %>% filter(Country %in% input$Country)    
+	never_group_sel	 
+})
+never_intention_country	 <- reactive({	
+	never_intention_sel <- never_intention_Data()  %>% filter(Country %in% input$Country)    
+	never_intention_sel	
+ })
+never_has_intention_country	 <- reactive({	
+	never_has_intention_sel <- never_has_intention_Data()  %>% filter(Country %in% input$Country)    	
+	never_has_intention_sel	
+ })
+former_group_country	 <- reactive({	
+	former_group_sel <- former_group_Data()  %>% filter(Country %in% input$Country)    	
+	former_group_sel	 
+})
+former_intention_country	 <- reactive({	
+	former_intention_sel <- former_intention_Data()  %>% filter(Country %in% input$Country)    	
+	former_intention_sel	 
+})
+former_has_intention_country	 <- reactive({	
+	former_has_intention_sel <- former_has_intention_Data()  %>% filter(Country %in% input$Country)    	
+	former_has_intention_sel	
+ })
+former_why_discontinue_country	 <- reactive({	
+	former_why_discontinue_sel <- former_why_discontinue_Data()  %>% filter(Country %in% input$Country)    	
+	former_why_discontinue_sel	 
+})
+former_time_use_group_country	 <- reactive({	
+	former_time_use_group_sel <- former_time_use_group_Data()  %>% filter(Country %in% input$Country)    	
+	former_time_use_group_sel	 
+})
+
+current_group_country	 <- reactive({	
+	current_group_sel <- current_group_Data()  %>% filter(Country %in% input$Country)    	
+	current_group_sel	 
+	})
+
+current_methodmix_country	 <- reactive({	
+	current_methodmix_sel <- current_methodmix_Data()  %>% filter(Country %in% input$Country)    	
+	current_methodmix_sel	 
+})
+
+
+mii_country	 <- reactive({	
+	mii_sel <- mii_Data()  %>% filter(Country %in% input$Country)    	
+	mii_sel	 
+})
+
+
+current_source_country	 <- reactive({	
+	current_source_sel <- current_source_Data()  %>% filter(Country %in% input$Country)    	
+	current_source_sel	 
+})
+current_timesince_country	 <- reactive({	
+	current_timesince_sel <- current_timesince_Data()  %>% filter(Country %in% input$Country)    	
+	current_timesince_sel	 
+})
+empowerment_country	 <- reactive({	
+	empowerment_sel <- empowerment_Data()  %>% filter(Country %in% input$Country)    	
+	empowerment_sel	 
+})

@@ -1,0 +1,561 @@
+Source,Freq,SurveyName,Country,StartYear
+Government Clinic/Pharmacy,0.477599191,AFIR70FL.DTA,Afghanistan,2015
+NGO,0.006619639,AFIR70FL.DTA,Afghanistan,2015
+Private Clinic/Delivery,0.157593755,AFIR70FL.DTA,Afghanistan,2015
+Pharmacy,0.313774286,AFIR70FL.DTA,Afghanistan,2015
+"Shop, Church, Friend",0.031081585,AFIR70FL.DTA,Afghanistan,2015
+Other,0.011565101,AFIR70FL.DTA,Afghanistan,2015
+Don't Know,0.001766444,AFIR70FL.DTA,Afghanistan,2015
+Government Clinic/Pharmacy,0.43203757,AOIR71FL.DTA,Angola,2015
+Government Home/Community Delivery,0.003815793,AOIR71FL.DTA,Angola,2015
+Private Clinic/Delivery,0.035625557,AOIR71FL.DTA,Angola,2015
+Pharmacy,0.504612051,AOIR71FL.DTA,Angola,2015
+"Shop, Church, Friend",0.01857651,AOIR71FL.DTA,Angola,2015
+Other,0.00469862,AOIR71FL.DTA,Angola,2015
+Don't Know,0.000633899,AOIR71FL.DTA,Angola,2015
+Government Clinic/Pharmacy,0.320209379,AMIR71FL.DTA,Armenia,2015
+Government Home/Community Delivery,0.030230326,AMIR71FL.DTA,Armenia,2015
+Private Clinic/Delivery,0.02433622,AMIR71FL.DTA,Armenia,2015
+Pharmacy,0.623439572,AMIR71FL.DTA,Armenia,2015
+"Shop, Church, Friend",0.001784503,AMIR71FL.DTA,Armenia,2015
+Government Clinic/Pharmacy,0.373221087,AMIR61FL.DTA,Armenia,2010
+Private Clinic/Delivery,0.018639612,AMIR61FL.DTA,Armenia,2010
+Pharmacy,0.588534553,AMIR61FL.DTA,Armenia,2010
+"Shop, Church, Friend",0.019077471,AMIR61FL.DTA,Armenia,2010
+Missing,0.000527277,AMIR61FL.DTA,Armenia,2010
+Government Clinic/Pharmacy,0.332220873,BDIR7RFL.DTA,Bangladesh,2017
+Government Home/Community Delivery,0.112291892,BDIR7RFL.DTA,Bangladesh,2017
+NGO,0.046373649,BDIR7RFL.DTA,Bangladesh,2017
+Private Clinic/Delivery,0.048296545,BDIR7RFL.DTA,Bangladesh,2017
+Pharmacy,0.445583088,BDIR7RFL.DTA,Bangladesh,2017
+"Shop, Church, Friend",0.011936306,BDIR7RFL.DTA,Bangladesh,2017
+Other,0.00163386,BDIR7RFL.DTA,Bangladesh,2017
+Don't Know,0.001663788,BDIR7RFL.DTA,Bangladesh,2017
+Government Clinic/Pharmacy,0.13508325,BDIR72FL.DTA,Bangladesh,2014
+Government Home/Community Delivery,0.352990092,BDIR72FL.DTA,Bangladesh,2014
+NGO,0.043833672,BDIR72FL.DTA,Bangladesh,2014
+Private Clinic/Delivery,0.430361088,BDIR72FL.DTA,Bangladesh,2014
+"Shop, Church, Friend",0.035374676,BDIR72FL.DTA,Bangladesh,2014
+Other,0.001267717,BDIR72FL.DTA,Bangladesh,2014
+Don't Know,0.001089506,BDIR72FL.DTA,Bangladesh,2014
+Government Clinic/Pharmacy,0.119530473,BDIR61FL.DTA,Bangladesh,2011
+Government Home/Community Delivery,0.401478079,BDIR61FL.DTA,Bangladesh,2011
+NGO,0.042874716,BDIR61FL.DTA,Bangladesh,2011
+Private Clinic/Delivery,0.383775854,BDIR61FL.DTA,Bangladesh,2011
+"Shop, Church, Friend",0.044450907,BDIR61FL.DTA,Bangladesh,2011
+Other,0.004392991,BDIR61FL.DTA,Bangladesh,2011
+Don't Know,0.001030935,BDIR61FL.DTA,Bangladesh,2011
+Missing,0.002466047,BDIR61FL.DTA,Bangladesh,2011
+Government Clinic/Pharmacy,0.610487955,BJIR71FL.DTA,Benin,2017
+Government Home/Community Delivery,0.013061916,BJIR71FL.DTA,Benin,2017
+NGO,0.025653481,BJIR71FL.DTA,Benin,2017
+Private Clinic/Delivery,0.092187653,BJIR71FL.DTA,Benin,2017
+Pharmacy,0.166220895,BJIR71FL.DTA,Benin,2017
+"Shop, Church, Friend",0.068008741,BJIR71FL.DTA,Benin,2017
+Other,0.024379358,BJIR71FL.DTA,Benin,2017
+Government Clinic/Pharmacy,0.387813075,BJIR61FL.DTA,Benin,2011
+Government Home/Community Delivery,0.037718312,BJIR61FL.DTA,Benin,2011
+Private Clinic/Delivery,0.076624794,BJIR61FL.DTA,Benin,2011
+Pharmacy,0.252972293,BJIR61FL.DTA,Benin,2011
+"Shop, Church, Friend",0.21098044,BJIR61FL.DTA,Benin,2011
+Other,0.01304041,BJIR61FL.DTA,Benin,2011
+Missing,0.020850677,BJIR61FL.DTA,Benin,2011
+Government Clinic/Pharmacy,0.734598906,BFIR62FL.DTA,Burkina Faso,2010
+Government Home/Community Delivery,0.002114809,BFIR62FL.DTA,Burkina Faso,2010
+Private Clinic/Delivery,0.011621724,BFIR62FL.DTA,Burkina Faso,2010
+Pharmacy,0.10226259,BFIR62FL.DTA,Burkina Faso,2010
+"Shop, Church, Friend",0.1263402,BFIR62FL.DTA,Burkina Faso,2010
+Other,0.00332279,BFIR62FL.DTA,Burkina Faso,2010
+Missing,0.019738981,BFIR62FL.DTA,Burkina Faso,2010
+Government Clinic/Pharmacy,0.805556483,BUIR70FL.DTA,Burundi,2016
+Government Home/Community Delivery,0.003170433,BUIR70FL.DTA,Burundi,2016
+NGO,0.072921228,BUIR70FL.DTA,Burundi,2016
+Private Clinic/Delivery,0.044193913,BUIR70FL.DTA,Burundi,2016
+Pharmacy,0.020766613,BUIR70FL.DTA,Burundi,2016
+"Shop, Church, Friend",0.029768604,BUIR70FL.DTA,Burundi,2016
+Other,0.023622726,BUIR70FL.DTA,Burundi,2016
+Government Clinic/Pharmacy,0.856994632,BUIR61FL.DTA,Burundi,2010
+Government Home/Community Delivery,0.015180027,BUIR61FL.DTA,Burundi,2010
+Private Clinic/Delivery,0.087824099,BUIR61FL.DTA,Burundi,2010
+Pharmacy,0.012127995,BUIR61FL.DTA,Burundi,2010
+"Shop, Church, Friend",0.01601799,BUIR61FL.DTA,Burundi,2010
+Other,0.003150427,BUIR61FL.DTA,Burundi,2010
+Missing,0.00870483,BUIR61FL.DTA,Burundi,2010
+Government Clinic/Pharmacy,0.479871279,KHIR73FL.DTA,Cambodia,2014
+Private Clinic/Delivery,0.395879283,KHIR73FL.DTA,Cambodia,2014
+"Shop, Church, Friend",0.122248267,KHIR73FL.DTA,Cambodia,2014
+Other,0.002001171,KHIR73FL.DTA,Cambodia,2014
+Government Clinic/Pharmacy,0.196966675,CMIR61FL.DTA,Cameroon,2011
+Government Home/Community Delivery,0.006868474,CMIR61FL.DTA,Cameroon,2011
+Private Clinic/Delivery,0.254526029,CMIR61FL.DTA,Cameroon,2011
+Pharmacy,0.018769234,CMIR61FL.DTA,Cameroon,2011
+"Shop, Church, Friend",0.507537315,CMIR61FL.DTA,Cameroon,2011
+Other,0.015017232,CMIR61FL.DTA,Cameroon,2011
+Don't Know,0.00031504,CMIR61FL.DTA,Cameroon,2011
+Government Clinic/Pharmacy,0.733776183,TDIR71FL.DTA,Chad,2014
+Private Clinic/Delivery,0.114519008,TDIR71FL.DTA,Chad,2014
+Pharmacy,0.021322765,TDIR71FL.DTA,Chad,2014
+"Shop, Church, Friend",0.110032232,TDIR71FL.DTA,Chad,2014
+Other,0.006128758,TDIR71FL.DTA,Chad,2014
+Don't Know,0.014221055,TDIR71FL.DTA,Chad,2014
+Government Clinic/Pharmacy,0.585533175,KMIR61FL.DTA,Comoros,2012
+Government Home/Community Delivery,0.286286659,KMIR61FL.DTA,Comoros,2012
+Private Clinic/Delivery,0.025710367,KMIR61FL.DTA,Comoros,2012
+Pharmacy,0.004216329,KMIR61FL.DTA,Comoros,2012
+"Shop, Church, Friend",0.025239389,KMIR61FL.DTA,Comoros,2012
+Other,0.056586748,KMIR61FL.DTA,Comoros,2012
+Missing,0.016427333,KMIR61FL.DTA,Comoros,2012
+Government Clinic/Pharmacy,0.194242032,CGIR60FL.DTA,Congo,2011
+Private Clinic/Delivery,0.042584325,CGIR60FL.DTA,Congo,2011
+Pharmacy,0.25564818,CGIR60FL.DTA,Congo,2011
+"Shop, Church, Friend",0.480932891,CGIR60FL.DTA,Congo,2011
+Other,0.015207752,CGIR60FL.DTA,Congo,2011
+Missing,0.011384819,CGIR60FL.DTA,Congo,2011
+Government Clinic/Pharmacy,0.527040209,DRIR61FL.DTA,Dominican Republic,2013
+NGO,0.001077373,DRIR61FL.DTA,Dominican Republic,2013
+Private Clinic/Delivery,0.251103062,DRIR61FL.DTA,Dominican Republic,2013
+Pharmacy,0.183736482,DRIR61FL.DTA,Dominican Republic,2013
+"Shop, Church, Friend",0.027399122,DRIR61FL.DTA,Dominican Republic,2013
+Other,0.009562646,DRIR61FL.DTA,Dominican Republic,2013
+Don't Know,8.11E-05,DRIR61FL.DTA,Dominican Republic,2013
+Government Clinic/Pharmacy,0.552067524,EGIR61FL.DTA,Egypt,2014
+Government Home/Community Delivery,0.015884422,EGIR61FL.DTA,Egypt,2014
+NGO,0.005680189,EGIR61FL.DTA,Egypt,2014
+Private Clinic/Delivery,0.216848291,EGIR61FL.DTA,Egypt,2014
+Pharmacy,0.204780273,EGIR61FL.DTA,Egypt,2014
+"Shop, Church, Friend",0.002729931,EGIR61FL.DTA,Egypt,2014
+Other,0.000573635,EGIR61FL.DTA,Egypt,2014
+Don't Know,0.001435735,EGIR61FL.DTA,Egypt,2014
+Government Clinic/Pharmacy,0.831553423,ETIR70FL.DTA,Ethiopia,2016
+Government Home/Community Delivery,0.001803281,ETIR70FL.DTA,Ethiopia,2016
+NGO,0.012720234,ETIR70FL.DTA,Ethiopia,2016
+Private Clinic/Delivery,0.12093632,ETIR70FL.DTA,Ethiopia,2016
+Pharmacy,0.027630857,ETIR70FL.DTA,Ethiopia,2016
+"Shop, Church, Friend",0.001004577,ETIR70FL.DTA,Ethiopia,2016
+Other,0.003870596,ETIR70FL.DTA,Ethiopia,2016
+Don't Know,0.000480712,ETIR70FL.DTA,Ethiopia,2016
+Government Clinic/Pharmacy,0.542671529,ETIR61FL.DTA,Ethiopia,2011
+Government Home/Community Delivery,0.276735325,ETIR61FL.DTA,Ethiopia,2011
+NGO,0.018150557,ETIR61FL.DTA,Ethiopia,2011
+Private Clinic/Delivery,0.097185592,ETIR61FL.DTA,Ethiopia,2011
+Pharmacy,0.018288664,ETIR61FL.DTA,Ethiopia,2011
+"Shop, Church, Friend",0.013988186,ETIR61FL.DTA,Ethiopia,2011
+Other,0.001287055,ETIR61FL.DTA,Ethiopia,2011
+Missing,0.031693092,ETIR61FL.DTA,Ethiopia,2011
+Government Clinic/Pharmacy,0.152857403,GAIR60FL.DTA,Gabon,2012
+NGO,0.005088515,GAIR60FL.DTA,Gabon,2012
+Private Clinic/Delivery,0.028065775,GAIR60FL.DTA,Gabon,2012
+Pharmacy,0.4930181,GAIR60FL.DTA,Gabon,2012
+"Shop, Church, Friend",0.243078927,GAIR60FL.DTA,Gabon,2012
+Other,0.030675587,GAIR60FL.DTA,Gabon,2012
+Missing,0.047215692,GAIR60FL.DTA,Gabon,2012
+Government Clinic/Pharmacy,0.740444444,GMIR81FL.DTA,Gambia,2019
+Government Home/Community Delivery,0.020077229,GMIR81FL.DTA,Gambia,2019
+Private Clinic/Delivery,0.076071148,GMIR81FL.DTA,Gambia,2019
+Pharmacy,0.151437416,GMIR81FL.DTA,Gambia,2019
+"Shop, Church, Friend",0.007362077,GMIR81FL.DTA,Gambia,2019
+Other,0.004607686,GMIR81FL.DTA,Gambia,2019
+Government Clinic/Pharmacy,0.600224827,GMIR60FL.DTA,Gambia,2013
+Government Home/Community Delivery,0.009410097,GMIR60FL.DTA,Gambia,2013
+NGO,0.068883004,GMIR60FL.DTA,Gambia,2013
+Private Clinic/Delivery,0.050983947,GMIR60FL.DTA,Gambia,2013
+Pharmacy,0.205790122,GMIR60FL.DTA,Gambia,2013
+"Shop, Church, Friend",0.039324938,GMIR60FL.DTA,Gambia,2013
+Other,0.006684483,GMIR60FL.DTA,Gambia,2013
+Missing,0.018698582,GMIR60FL.DTA,Gambia,2013
+Government Clinic/Pharmacy,0.630016745,GHIR72FL.DTA,Ghana,2014
+Government Home/Community Delivery,0.01385519,GHIR72FL.DTA,Ghana,2014
+Private Clinic/Delivery,0.044848155,GHIR72FL.DTA,Ghana,2014
+Pharmacy,0.293000823,GHIR72FL.DTA,Ghana,2014
+"Shop, Church, Friend",0.016229825,GHIR72FL.DTA,Ghana,2014
+Other,0.002049263,GHIR72FL.DTA,Ghana,2014
+Government Clinic/Pharmacy,0.398649475,GUIR71FL.DTA,Guatemala,2014
+Government Home/Community Delivery,0.115149718,GUIR71FL.DTA,Guatemala,2014
+Private Clinic/Delivery,0.306013906,GUIR71FL.DTA,Guatemala,2014
+Pharmacy,0.165732555,GUIR71FL.DTA,Guatemala,2014
+"Shop, Church, Friend",0.005957648,GUIR71FL.DTA,Guatemala,2014
+Other,0.008054043,GUIR71FL.DTA,Guatemala,2014
+Don't Know,0.000442655,GUIR71FL.DTA,Guatemala,2014
+Government Clinic/Pharmacy,0.636522776,GNIR71FL.DTA,Guinea,2018
+Private Clinic/Delivery,0.081646223,GNIR71FL.DTA,Guinea,2018
+Pharmacy,0.19507176,GNIR71FL.DTA,Guinea,2018
+"Shop, Church, Friend",0.084510095,GNIR71FL.DTA,Guinea,2018
+Other,0.002249146,GNIR71FL.DTA,Guinea,2018
+Government Clinic/Pharmacy,0.262717738,GNIR62FL.DTA,Guinea,2012
+Government Home/Community Delivery,0.042468151,GNIR62FL.DTA,Guinea,2012
+Private Clinic/Delivery,0.095250017,GNIR62FL.DTA,Guinea,2012
+Pharmacy,0.320410077,GNIR62FL.DTA,Guinea,2012
+"Shop, Church, Friend",0.276978025,GNIR62FL.DTA,Guinea,2012
+Other,0.002175992,GNIR62FL.DTA,Guinea,2012
+Government Clinic/Pharmacy,0.51128595,HNIR62FL.DTA,Honduras,2011
+NGO,0.001327196,HNIR62FL.DTA,Honduras,2011
+Private Clinic/Delivery,0.227280485,HNIR62FL.DTA,Honduras,2011
+Pharmacy,0.182535136,HNIR62FL.DTA,Honduras,2011
+"Shop, Church, Friend",0.021256861,HNIR62FL.DTA,Honduras,2011
+Other,0.015033535,HNIR62FL.DTA,Honduras,2011
+Don't Know,0.001283516,HNIR62FL.DTA,Honduras,2011
+Missing,0.03999732,HNIR62FL.DTA,Honduras,2011
+Government Clinic/Pharmacy,0.653715146,IAIR7DFL.DTA,India,2019
+Government Home/Community Delivery,0.026369576,IAIR7DFL.DTA,India,2019
+NGO,0.00279786,IAIR7DFL.DTA,India,2019
+Private Clinic/Delivery,0.173256688,IAIR7DFL.DTA,India,2019
+Pharmacy,0.073379088,IAIR7DFL.DTA,India,2019
+"Shop, Church, Friend",0.06842802,IAIR7DFL.DTA,India,2019
+Other,0.001955231,IAIR7DFL.DTA,India,2019
+Don't Know,9.84E-05,IAIR7DFL.DTA,India,2019
+Government Clinic/Pharmacy,0.634488502,IAIR73FL.DTA,India,2015
+Government Home/Community Delivery,0.060288603,IAIR73FL.DTA,India,2015
+NGO,0.003918587,IAIR73FL.DTA,India,2015
+Private Clinic/Delivery,0.177073097,IAIR73FL.DTA,India,2015
+Pharmacy,0.061689716,IAIR73FL.DTA,India,2015
+"Shop, Church, Friend",0.060517339,IAIR73FL.DTA,India,2015
+Other,0.001868445,IAIR73FL.DTA,India,2015
+Don't Know,0.000155711,IAIR73FL.DTA,India,2015
+Government Clinic/Pharmacy,0.307844532,IDIR71FL.DTA,Indonesia,2017
+Government Home/Community Delivery,0.033599581,IDIR71FL.DTA,Indonesia,2017
+Private Clinic/Delivery,0.476248434,IDIR71FL.DTA,Indonesia,2017
+Pharmacy,0.142895236,IDIR71FL.DTA,Indonesia,2017
+"Shop, Church, Friend",0.035189226,IDIR71FL.DTA,Indonesia,2017
+Other,0.004222991,IDIR71FL.DTA,Indonesia,2017
+Government Clinic/Pharmacy,0.178421244,IDIR63FL.DTA,Indonesia,2012
+Government Home/Community Delivery,0.054957989,IDIR63FL.DTA,Indonesia,2012
+Private Clinic/Delivery,0.611769198,IDIR63FL.DTA,Indonesia,2012
+Pharmacy,0.116385862,IDIR63FL.DTA,Indonesia,2012
+"Shop, Church, Friend",0.029411406,IDIR63FL.DTA,Indonesia,2012
+Other,0.009026217,IDIR63FL.DTA,Indonesia,2012
+Don't Know,2.81E-05,IDIR63FL.DTA,Indonesia,2012
+Government Clinic/Pharmacy,0.492085144,JOIR72FL.DTA,Jordan,2017
+NGO,0.144810149,JOIR72FL.DTA,Jordan,2017
+Private Clinic/Delivery,0.212227909,JOIR72FL.DTA,Jordan,2017
+Pharmacy,0.15073647,JOIR72FL.DTA,Jordan,2017
+"Shop, Church, Friend",5.40E-05,JOIR72FL.DTA,Jordan,2017
+Other,2.94E-05,JOIR72FL.DTA,Jordan,2017
+Don't Know,5.69E-05,JOIR72FL.DTA,Jordan,2017
+Government Clinic/Pharmacy,0.063136437,JOIR6CFL.DTA,Jordan,2012
+Government Home/Community Delivery,0.368839679,JOIR6CFL.DTA,Jordan,2012
+NGO,0.098516703,JOIR6CFL.DTA,Jordan,2012
+Private Clinic/Delivery,0.29847245,JOIR6CFL.DTA,Jordan,2012
+Pharmacy,0.145036778,JOIR6CFL.DTA,Jordan,2012
+"Shop, Church, Friend",0.019862084,JOIR6CFL.DTA,Jordan,2012
+Other,0.006039418,JOIR6CFL.DTA,Jordan,2012
+Don't Know,9.65E-05,JOIR6CFL.DTA,Jordan,2012
+Government Clinic/Pharmacy,0.602020152,KEIR72FL.DTA,Kenya,2014
+Government Home/Community Delivery,0.005369595,KEIR72FL.DTA,Kenya,2014
+NGO,0.022345669,KEIR72FL.DTA,Kenya,2014
+Private Clinic/Delivery,0.219915086,KEIR72FL.DTA,Kenya,2014
+Pharmacy,0.103721763,KEIR72FL.DTA,Kenya,2014
+"Shop, Church, Friend",0.040510794,KEIR72FL.DTA,Kenya,2014
+Other,0.006116941,KEIR72FL.DTA,Kenya,2014
+Government Clinic/Pharmacy,0.714579283,KYIR61FL.DTA,Kyrgyz Republic,2012
+Private Clinic/Delivery,0.033792296,KYIR61FL.DTA,Kyrgyz Republic,2012
+Pharmacy,0.23702626,KYIR61FL.DTA,Kyrgyz Republic,2012
+"Shop, Church, Friend",0.014260566,KYIR61FL.DTA,Kyrgyz Republic,2012
+Other,0.000341594,KYIR61FL.DTA,Kyrgyz Republic,2012
+Government Clinic/Pharmacy,0.555167922,LSIR71FL.DTA,Lesotho,2014
+NGO,0.066939964,LSIR71FL.DTA,Lesotho,2014
+Private Clinic/Delivery,0.125557749,LSIR71FL.DTA,Lesotho,2014
+Pharmacy,0.043926313,LSIR71FL.DTA,Lesotho,2014
+"Shop, Church, Friend",0.170814398,LSIR71FL.DTA,Lesotho,2014
+Other,0.037593654,LSIR71FL.DTA,Lesotho,2014
+Government Clinic/Pharmacy,0.54786564,LBIR7AFL.DTA,Liberia,2019
+Government Home/Community Delivery,0.017732905,LBIR7AFL.DTA,Liberia,2019
+Private Clinic/Delivery,0.150329427,LBIR7AFL.DTA,Liberia,2019
+Pharmacy,0.224128388,LBIR7AFL.DTA,Liberia,2019
+"Shop, Church, Friend",0.053482529,LBIR7AFL.DTA,Liberia,2019
+Other,0.006461112,LBIR7AFL.DTA,Liberia,2019
+Government Clinic/Pharmacy,0.629754437,LBIR6AFL.DTA,Liberia,2013
+Government Home/Community Delivery,0.01342225,LBIR6AFL.DTA,Liberia,2013
+Private Clinic/Delivery,0.199650369,LBIR6AFL.DTA,Liberia,2013
+Pharmacy,0.104679065,LBIR6AFL.DTA,Liberia,2013
+"Shop, Church, Friend",0.045145813,LBIR6AFL.DTA,Liberia,2013
+Other,0.004231532,LBIR6AFL.DTA,Liberia,2013
+Missing,0.003116535,LBIR6AFL.DTA,Liberia,2013
+Government Clinic/Pharmacy,0.666133249,MDIR81FL.DTA,Madagascar,2021
+Government Home/Community Delivery,0.13849987,MDIR81FL.DTA,Madagascar,2021
+Private Clinic/Delivery,0.142902047,MDIR81FL.DTA,Madagascar,2021
+Pharmacy,0.025780966,MDIR81FL.DTA,Madagascar,2021
+"Shop, Church, Friend",0.019250533,MDIR81FL.DTA,Madagascar,2021
+Other,0.007433336,MDIR81FL.DTA,Madagascar,2021
+Government Clinic/Pharmacy,0.726292273,MWIR7AFL.DTA,Malawi,2015
+Government Home/Community Delivery,0.067878218,MWIR7AFL.DTA,Malawi,2015
+NGO,0.120663715,MWIR7AFL.DTA,Malawi,2015
+Private Clinic/Delivery,0.058995535,MWIR7AFL.DTA,Malawi,2015
+Pharmacy,0.002014632,MWIR7AFL.DTA,Malawi,2015
+"Shop, Church, Friend",0.021423038,MWIR7AFL.DTA,Malawi,2015
+Other,0.002385677,MWIR7AFL.DTA,Malawi,2015
+Don't Know,0.000346912,MWIR7AFL.DTA,Malawi,2015
+Government Clinic/Pharmacy,0.492512832,MVIR71FL.DTA,Maldives,2016
+Private Clinic/Delivery,0.107653914,MVIR71FL.DTA,Maldives,2016
+Pharmacy,0.282283641,MVIR71FL.DTA,Maldives,2016
+"Shop, Church, Friend",0.051918043,MVIR71FL.DTA,Maldives,2016
+Other,0.06563157,MVIR71FL.DTA,Maldives,2016
+Government Clinic/Pharmacy,0.167381675,MLIR7HFL.DTA,Mali,2018
+Government Home/Community Delivery,0.604495013,MLIR7HFL.DTA,Mali,2018
+Private Clinic/Delivery,0.112138163,MLIR7HFL.DTA,Mali,2018
+Pharmacy,0.086522835,MLIR7HFL.DTA,Mali,2018
+"Shop, Church, Friend",0.025284507,MLIR7HFL.DTA,Mali,2018
+Other,0.004177808,MLIR7HFL.DTA,Mali,2018
+Government Clinic/Pharmacy,0.13810086,MLIR6AFL.DTA,Mali,2012
+Government Home/Community Delivery,0.577889685,MLIR6AFL.DTA,Mali,2012
+Private Clinic/Delivery,0.065053401,MLIR6AFL.DTA,Mali,2012
+Pharmacy,0.16357205,MLIR6AFL.DTA,Mali,2012
+"Shop, Church, Friend",0.055384004,MLIR6AFL.DTA,Mali,2012
+Government Clinic/Pharmacy,0.81710949,MRIR71FL.DTA,Mauritania,2019
+Government Home/Community Delivery,0.018705977,MRIR71FL.DTA,Mauritania,2019
+Private Clinic/Delivery,0.033849969,MRIR71FL.DTA,Mauritania,2019
+Pharmacy,0.127174207,MRIR71FL.DTA,Mauritania,2019
+"Shop, Church, Friend",0.002062389,MRIR71FL.DTA,Mauritania,2019
+Other,0.001097967,MRIR71FL.DTA,Mauritania,2019
+Government Clinic/Pharmacy,0.748352647,MZIR62FL.DTA,Mozambique,2011
+Government Home/Community Delivery,0.009088832,MZIR62FL.DTA,Mozambique,2011
+NGO,0.003400448,MZIR62FL.DTA,Mozambique,2011
+Private Clinic/Delivery,0.021871653,MZIR62FL.DTA,Mozambique,2011
+Pharmacy,0.072392013,MZIR62FL.DTA,Mozambique,2011
+"Shop, Church, Friend",0.136422337,MZIR62FL.DTA,Mozambique,2011
+Other,0.007877107,MZIR62FL.DTA,Mozambique,2011
+Missing,0.000594963,MZIR62FL.DTA,Mozambique,2011
+Government Clinic/Pharmacy,0.562140264,NPIR7HFL.DTA,Nepal,2016
+Government Home/Community Delivery,0.131956142,NPIR7HFL.DTA,Nepal,2016
+NGO,0.061178712,NPIR7HFL.DTA,Nepal,2016
+Private Clinic/Delivery,0.103896213,NPIR7HFL.DTA,Nepal,2016
+Pharmacy,0.087392814,NPIR7HFL.DTA,Nepal,2016
+"Shop, Church, Friend",0.005985937,NPIR7HFL.DTA,Nepal,2016
+Other,0.041817932,NPIR7HFL.DTA,Nepal,2016
+Don't Know,0.005631985,NPIR7HFL.DTA,Nepal,2016
+Government Clinic/Pharmacy,0.540188781,NPIR60FL.DTA,Nepal,2011
+Government Home/Community Delivery,0.149590799,NPIR60FL.DTA,Nepal,2011
+NGO,0.084825738,NPIR60FL.DTA,Nepal,2011
+Private Clinic/Delivery,0.089855042,NPIR60FL.DTA,Nepal,2011
+Pharmacy,0.108270577,NPIR60FL.DTA,Nepal,2011
+"Shop, Church, Friend",0.008479311,NPIR60FL.DTA,Nepal,2011
+Other,0.00417888,NPIR60FL.DTA,Nepal,2011
+Don't Know,0.003911414,NPIR60FL.DTA,Nepal,2011
+Missing,0.01069946,NPIR60FL.DTA,Nepal,2011
+Government Clinic/Pharmacy,0.06093196,NIIR61FL.DTA,Niger,2012
+Government Home/Community Delivery,0.570396591,NIIR61FL.DTA,Niger,2012
+Private Clinic/Delivery,0.016429045,NIIR61FL.DTA,Niger,2012
+Pharmacy,0.021507532,NIIR61FL.DTA,Niger,2012
+"Shop, Church, Friend",0.18444355,NIIR61FL.DTA,Niger,2012
+Other,0.126386962,NIIR61FL.DTA,Niger,2012
+Missing,0.019904359,NIIR61FL.DTA,Niger,2012
+Government Clinic/Pharmacy,0.528219866,NGIR7AFL.DTA,Nigeria,2018
+Government Home/Community Delivery,0.011808963,NGIR7AFL.DTA,Nigeria,2018
+NGO,0.001661266,NGIR7AFL.DTA,Nigeria,2018
+Private Clinic/Delivery,0.283980445,NGIR7AFL.DTA,Nigeria,2018
+Pharmacy,0.123918008,NGIR7AFL.DTA,Nigeria,2018
+"Shop, Church, Friend",0.042394682,NGIR7AFL.DTA,Nigeria,2018
+Other,0.00801677,NGIR7AFL.DTA,Nigeria,2018
+Government Clinic/Pharmacy,0.283927001,NGIR6AFL.DTA,Nigeria,2013
+Government Home/Community Delivery,0.004734971,NGIR6AFL.DTA,Nigeria,2013
+NGO,0.001213599,NGIR6AFL.DTA,Nigeria,2013
+Private Clinic/Delivery,0.116250245,NGIR6AFL.DTA,Nigeria,2013
+Pharmacy,0.481985715,NGIR6AFL.DTA,Nigeria,2013
+"Shop, Church, Friend",0.089696096,NGIR6AFL.DTA,Nigeria,2013
+Other,0.002600852,NGIR6AFL.DTA,Nigeria,2013
+Missing,0.019591521,NGIR6AFL.DTA,Nigeria,2013
+Government Clinic/Pharmacy,0.334558882,PKIR71FL.DTA,Pakistan,2017
+Government Home/Community Delivery,0.103070872,PKIR71FL.DTA,Pakistan,2017
+Private Clinic/Delivery,0.226626634,PKIR71FL.DTA,Pakistan,2017
+Pharmacy,0.202756335,PKIR71FL.DTA,Pakistan,2017
+"Shop, Church, Friend",0.128887634,PKIR71FL.DTA,Pakistan,2017
+Other,0.002607049,PKIR71FL.DTA,Pakistan,2017
+Don't Know,0.001492594,PKIR71FL.DTA,Pakistan,2017
+Government Clinic/Pharmacy,0.465235479,PHIR61FL.DTA,Philippines,2013
+Government Home/Community Delivery,0.009794928,PHIR61FL.DTA,Philippines,2013
+NGO,0.001625985,PHIR61FL.DTA,Philippines,2013
+Private Clinic/Delivery,0.089292288,PHIR61FL.DTA,Philippines,2013
+Pharmacy,0.381635823,PHIR61FL.DTA,Philippines,2013
+"Shop, Church, Friend",0.046210285,PHIR61FL.DTA,Philippines,2013
+Other,0.001557858,PHIR61FL.DTA,Philippines,2013
+Missing,0.004647354,PHIR61FL.DTA,Philippines,2013
+Government Clinic/Pharmacy,0.752997566,RWIR81FL.DTA,Rwanda,2019
+Government Home/Community Delivery,0.017526478,RWIR81FL.DTA,Rwanda,2019
+Private Clinic/Delivery,0.041283085,RWIR81FL.DTA,Rwanda,2019
+Pharmacy,0.022029128,RWIR81FL.DTA,Rwanda,2019
+"Shop, Church, Friend",0.164439879,RWIR81FL.DTA,Rwanda,2019
+Other,0.001330515,RWIR81FL.DTA,Rwanda,2019
+Don't Know,0.000393349,RWIR81FL.DTA,Rwanda,2019
+Government Clinic/Pharmacy,0.598991258,RWIR70FL.DTA,Rwanda,2014
+Government Home/Community Delivery,0.329373765,RWIR70FL.DTA,Rwanda,2014
+Private Clinic/Delivery,0.030428631,RWIR70FL.DTA,Rwanda,2014
+Pharmacy,0.013664901,RWIR70FL.DTA,Rwanda,2014
+"Shop, Church, Friend",0.024831882,RWIR70FL.DTA,Rwanda,2014
+Other,0.002004123,RWIR70FL.DTA,Rwanda,2014
+Don't Know,0.000705441,RWIR70FL.DTA,Rwanda,2014
+Government Clinic/Pharmacy,0.814059836,RWIR61FL.DTA,Rwanda,2010
+Government Home/Community Delivery,0.100241401,RWIR61FL.DTA,Rwanda,2010
+Private Clinic/Delivery,0.03152889,RWIR61FL.DTA,Rwanda,2010
+Pharmacy,0.011933828,RWIR61FL.DTA,Rwanda,2010
+"Shop, Church, Friend",0.026076548,RWIR61FL.DTA,Rwanda,2010
+Other,0.008596689,RWIR61FL.DTA,Rwanda,2010
+Don't Know,0.001357787,RWIR61FL.DTA,Rwanda,2010
+Missing,0.006205021,RWIR61FL.DTA,Rwanda,2010
+Government Clinic/Pharmacy,0.880326815,SNIR8AFL.DTA,Senegal,2019
+Government Home/Community Delivery,0.015508756,SNIR8AFL.DTA,Senegal,2019
+Private Clinic/Delivery,0.047564738,SNIR8AFL.DTA,Senegal,2019
+Pharmacy,0.042205313,SNIR8AFL.DTA,Senegal,2019
+"Shop, Church, Friend",0.009037177,SNIR8AFL.DTA,Senegal,2019
+Other,0.0049146,SNIR8AFL.DTA,Senegal,2019
+Don't Know,0.0004426,SNIR8AFL.DTA,Senegal,2019
+Government Clinic/Pharmacy,0.866219316,SNIR80FL.DTA,Senegal,2018
+Government Home/Community Delivery,0.022770095,SNIR80FL.DTA,Senegal,2018
+Private Clinic/Delivery,0.035985792,SNIR80FL.DTA,Senegal,2018
+Pharmacy,0.05586649,SNIR80FL.DTA,Senegal,2018
+"Shop, Church, Friend",0.011909222,SNIR80FL.DTA,Senegal,2018
+Other,0.007249085,SNIR80FL.DTA,Senegal,2018
+Government Clinic/Pharmacy,0.851510954,SNIR7ZFL.DTA,Senegal,2017
+Government Home/Community Delivery,0.012720217,SNIR7ZFL.DTA,Senegal,2017
+Private Clinic/Delivery,0.048334003,SNIR7ZFL.DTA,Senegal,2017
+Pharmacy,0.075509726,SNIR7ZFL.DTA,Senegal,2017
+"Shop, Church, Friend",0.00782193,SNIR7ZFL.DTA,Senegal,2017
+Other,0.004103171,SNIR7ZFL.DTA,Senegal,2017
+Government Clinic/Pharmacy,0.884554469,SNIR7QFL.DTA,Senegal,2016
+Government Home/Community Delivery,0.028321719,SNIR7QFL.DTA,Senegal,2016
+Private Clinic/Delivery,0.024699041,SNIR7QFL.DTA,Senegal,2016
+Pharmacy,0.051047321,SNIR7QFL.DTA,Senegal,2016
+"Shop, Church, Friend",0.01137745,SNIR7QFL.DTA,Senegal,2016
+Government Clinic/Pharmacy,0.826376936,SNIR7HFL.DTA,Senegal,2015
+Government Home/Community Delivery,0.023618282,SNIR7HFL.DTA,Senegal,2015
+Private Clinic/Delivery,0.029944245,SNIR7HFL.DTA,Senegal,2015
+Pharmacy,0.086509031,SNIR7HFL.DTA,Senegal,2015
+"Shop, Church, Friend",0.00778017,SNIR7HFL.DTA,Senegal,2015
+Other,0.011000267,SNIR7HFL.DTA,Senegal,2015
+Don't Know,0.014771069,SNIR7HFL.DTA,Senegal,2015
+Government Clinic/Pharmacy,0.810522038,SNIR70FL.DTA,Senegal,2014
+Government Home/Community Delivery,0.01297477,SNIR70FL.DTA,Senegal,2014
+Private Clinic/Delivery,0.039223108,SNIR70FL.DTA,Senegal,2014
+Pharmacy,0.110177934,SNIR70FL.DTA,Senegal,2014
+"Shop, Church, Friend",0.021584019,SNIR70FL.DTA,Senegal,2014
+Other,0.005518131,SNIR70FL.DTA,Senegal,2014
+Government Clinic/Pharmacy,0.825365292,SNIR6DFL.DTA,Senegal,2012
+Government Home/Community Delivery,0.011608599,SNIR6DFL.DTA,Senegal,2012
+Private Clinic/Delivery,0.040707484,SNIR6DFL.DTA,Senegal,2012
+Pharmacy,0.09274975,SNIR6DFL.DTA,Senegal,2012
+"Shop, Church, Friend",0.015150441,SNIR6DFL.DTA,Senegal,2012
+Other,0.014418434,SNIR6DFL.DTA,Senegal,2012
+Government Clinic/Pharmacy,0.827798767,SNIR61FL.DTA,Senegal,2010
+Government Home/Community Delivery,0.008461323,SNIR61FL.DTA,Senegal,2010
+Private Clinic/Delivery,0.036411246,SNIR61FL.DTA,Senegal,2010
+Pharmacy,0.078655614,SNIR61FL.DTA,Senegal,2010
+"Shop, Church, Friend",0.019818354,SNIR61FL.DTA,Senegal,2010
+Other,0.012493003,SNIR61FL.DTA,Senegal,2010
+Missing,0.016361693,SNIR61FL.DTA,Senegal,2010
+Government Clinic/Pharmacy,0.766377198,SLIR7AFL.DTA,Sierra Leone,2019
+Government Home/Community Delivery,0.037842556,SLIR7AFL.DTA,Sierra Leone,2019
+Private Clinic/Delivery,0.060073752,SLIR7AFL.DTA,Sierra Leone,2019
+Pharmacy,0.120538921,SLIR7AFL.DTA,Sierra Leone,2019
+"Shop, Church, Friend",0.011563968,SLIR7AFL.DTA,Sierra Leone,2019
+Other,0.003603604,SLIR7AFL.DTA,Sierra Leone,2019
+Government Clinic/Pharmacy,0.62130228,SLIR61FL.DTA,Sierra Leone,2013
+Government Home/Community Delivery,0.063127049,SLIR61FL.DTA,Sierra Leone,2013
+Private Clinic/Delivery,0.141601429,SLIR61FL.DTA,Sierra Leone,2013
+Pharmacy,0.137797979,SLIR61FL.DTA,Sierra Leone,2013
+"Shop, Church, Friend",0.011500117,SLIR61FL.DTA,Sierra Leone,2013
+Other,0.009925538,SLIR61FL.DTA,Sierra Leone,2013
+Don't Know,0.001148575,SLIR61FL.DTA,Sierra Leone,2013
+Missing,0.013597033,SLIR61FL.DTA,Sierra Leone,2013
+Government Clinic/Pharmacy,0.783960138,ZAIR71FL.DTA,South Africa,2016
+Government Home/Community Delivery,0.020341918,ZAIR71FL.DTA,South Africa,2016
+Private Clinic/Delivery,0.059881921,ZAIR71FL.DTA,South Africa,2016
+Pharmacy,0.054347967,ZAIR71FL.DTA,South Africa,2016
+"Shop, Church, Friend",0.075532224,ZAIR71FL.DTA,South Africa,2016
+Other,0.005935833,ZAIR71FL.DTA,South Africa,2016
+Government Clinic/Pharmacy,0.87898764,TJIR71FL.DTA,Tajikistan,2017
+Government Home/Community Delivery,0.007263384,TJIR71FL.DTA,Tajikistan,2017
+Private Clinic/Delivery,0.004385635,TJIR71FL.DTA,Tajikistan,2017
+Pharmacy,0.103919932,TJIR71FL.DTA,Tajikistan,2017
+"Shop, Church, Friend",0.0006541,TJIR71FL.DTA,Tajikistan,2017
+Other,0.002072683,TJIR71FL.DTA,Tajikistan,2017
+Don't Know,0.002716625,TJIR71FL.DTA,Tajikistan,2017
+Government Clinic/Pharmacy,0.901573538,TJIR61FL.DTA,Tajikistan,2012
+Private Clinic/Delivery,0.001945681,TJIR61FL.DTA,Tajikistan,2012
+Pharmacy,0.094624044,TJIR61FL.DTA,Tajikistan,2012
+"Shop, Church, Friend",0.000299228,TJIR61FL.DTA,Tajikistan,2012
+Other,0.001557509,TJIR61FL.DTA,Tajikistan,2012
+Government Clinic/Pharmacy,0.606944604,TZIR7BFL.DTA,Tanzania,2015
+Government Home/Community Delivery,0.00206829,TZIR7BFL.DTA,Tanzania,2015
+NGO,0.000204471,TZIR7BFL.DTA,Tanzania,2015
+Private Clinic/Delivery,0.122297272,TZIR7BFL.DTA,Tanzania,2015
+Pharmacy,0.109792227,TZIR7BFL.DTA,Tanzania,2015
+"Shop, Church, Friend",0.152824222,TZIR7BFL.DTA,Tanzania,2015
+Other,0.005868915,TZIR7BFL.DTA,Tanzania,2015
+Government Clinic/Pharmacy,0.471625582,TLIR71FL.DTA,Timor-Leste,2016
+Government Home/Community Delivery,0.447892473,TLIR71FL.DTA,Timor-Leste,2016
+NGO,0.04162868,TLIR71FL.DTA,Timor-Leste,2016
+Private Clinic/Delivery,0.029524835,TLIR71FL.DTA,Timor-Leste,2016
+Pharmacy,0.00289487,TLIR71FL.DTA,Timor-Leste,2016
+"Shop, Church, Friend",0.006240713,TLIR71FL.DTA,Timor-Leste,2016
+Other,0.000192847,TLIR71FL.DTA,Timor-Leste,2016
+Government Clinic/Pharmacy,0.502540604,TGIR61FL.DTA,Togo,2013
+Government Home/Community Delivery,0.029197445,TGIR61FL.DTA,Togo,2013
+Private Clinic/Delivery,0.073277209,TGIR61FL.DTA,Togo,2013
+Pharmacy,0.134846722,TGIR61FL.DTA,Togo,2013
+"Shop, Church, Friend",0.25574867,TGIR61FL.DTA,Togo,2013
+Other,0.00438935,TGIR61FL.DTA,Togo,2013
+Government Clinic/Pharmacy,0.481994085,TRIR61FL.DTA,Turkey,2013
+Government Home/Community Delivery,0.078619955,TRIR61FL.DTA,Turkey,2013
+Private Clinic/Delivery,0.138650743,TRIR61FL.DTA,Turkey,2013
+Pharmacy,0.232820099,TRIR61FL.DTA,Turkey,2013
+"Shop, Church, Friend",0.06588426,TRIR61FL.DTA,Turkey,2013
+Other,0.002030858,TRIR61FL.DTA,Turkey,2013
+Government Clinic/Pharmacy,0.559651107,UGIR7BFL.DTA,Uganda,2016
+Government Home/Community Delivery,0.025579049,UGIR7BFL.DTA,Uganda,2016
+Private Clinic/Delivery,0.324869158,UGIR7BFL.DTA,Uganda,2016
+Pharmacy,0.062988662,UGIR7BFL.DTA,Uganda,2016
+"Shop, Church, Friend",0.016986286,UGIR7BFL.DTA,Uganda,2016
+Other,0.009925737,UGIR7BFL.DTA,Uganda,2016
+Government Clinic/Pharmacy,0.449977744,UGIR60FL.DTA,Uganda,2011
+Government Home/Community Delivery,0.016073668,UGIR60FL.DTA,Uganda,2011
+Private Clinic/Delivery,0.422746137,UGIR60FL.DTA,Uganda,2011
+Pharmacy,0.030860723,UGIR60FL.DTA,Uganda,2011
+"Shop, Church, Friend",0.070371838,UGIR60FL.DTA,Uganda,2011
+Other,0.006228692,UGIR60FL.DTA,Uganda,2011
+Don't Know,0.00200271,UGIR60FL.DTA,Uganda,2011
+Missing,0.001738489,UGIR60FL.DTA,Uganda,2011
+Government Clinic/Pharmacy,0.874661247,ZMIR71FL.DTA,Zambia,2018
+Government Home/Community Delivery,0.013326819,ZMIR71FL.DTA,Zambia,2018
+Private Clinic/Delivery,0.050104092,ZMIR71FL.DTA,Zambia,2018
+Pharmacy,0.040102052,ZMIR71FL.DTA,Zambia,2018
+"Shop, Church, Friend",0.019083377,ZMIR71FL.DTA,Zambia,2018
+Other,0.002516022,ZMIR71FL.DTA,Zambia,2018
+Don't Know,0.000206392,ZMIR71FL.DTA,Zambia,2018
+Government Clinic/Pharmacy,0.800461306,ZMIR61FL.DTA,Zambia,2013
+Government Home/Community Delivery,0.017906473,ZMIR61FL.DTA,Zambia,2013
+Private Clinic/Delivery,0.052792847,ZMIR61FL.DTA,Zambia,2013
+Pharmacy,0.040328555,ZMIR61FL.DTA,Zambia,2013
+"Shop, Church, Friend",0.087718672,ZMIR61FL.DTA,Zambia,2013
+Other,0.000624821,ZMIR61FL.DTA,Zambia,2013
+Don't Know,0.000167326,ZMIR61FL.DTA,Zambia,2013
+Government Clinic/Pharmacy,0.672437701,ZWIR71FL.DTA,Zimbabwe,2015
+Government Home/Community Delivery,0.057747864,ZWIR71FL.DTA,Zimbabwe,2015
+Private Clinic/Delivery,0.088090387,ZWIR71FL.DTA,Zimbabwe,2015
+Pharmacy,0.135163027,ZWIR71FL.DTA,Zimbabwe,2015
+"Shop, Church, Friend",0.044535496,ZWIR71FL.DTA,Zimbabwe,2015
+Other,0.002025524,ZWIR71FL.DTA,Zimbabwe,2015
+Government Clinic/Pharmacy,0.697562922,ZWIR62FL.DTA,Zimbabwe,2010
+Government Home/Community Delivery,0.034103468,ZWIR62FL.DTA,Zimbabwe,2010
+NGO,0.040859876,ZWIR62FL.DTA,Zimbabwe,2010
+Private Clinic/Delivery,0.045423439,ZWIR62FL.DTA,Zimbabwe,2010
+Pharmacy,0.095557423,ZWIR62FL.DTA,Zimbabwe,2010
+"Shop, Church, Friend",0.062547043,ZWIR62FL.DTA,Zimbabwe,2010
+Other,0.014418543,ZWIR62FL.DTA,Zimbabwe,2010
+Missing,0.009527286,ZWIR62FL.DTA,Zimbabwe,2010
+Government Clinic/Pharmacy,0.312895084,CDIR61FL.DTA,Congo Democratic Republic,2013
+Government Home/Community Delivery,0.003425633,CDIR61FL.DTA,Congo Democratic Republic,2013
+NGO,0.025340675,CDIR61FL.DTA,Congo Democratic Republic,2013
+Private Clinic/Delivery,0.106499003,CDIR61FL.DTA,Congo Democratic Republic,2013
+Pharmacy,0.445593261,CDIR61FL.DTA,Congo Democratic Republic,2013
+"Shop, Church, Friend",0.101261464,CDIR61FL.DTA,Congo Democratic Republic,2013
+Other,0.004984881,CDIR61FL.DTA,Congo Democratic Republic,2013
+Government Clinic/Pharmacy,0.259537361,CIIR62FL.DTA,Cote d'Ivoire,2011
+Government Home/Community Delivery,0.01298,CIIR62FL.DTA,Cote d'Ivoire,2011
+Private Clinic/Delivery,0.031061475,CIIR62FL.DTA,Cote d'Ivoire,2011
+Pharmacy,0.442497212,CIIR62FL.DTA,Cote d'Ivoire,2011
+"Shop, Church, Friend",0.158201172,CIIR62FL.DTA,Cote d'Ivoire,2011
+Other,0.095722781,CIIR62FL.DTA,Cote d'Ivoire,2011
+Government Clinic/Pharmacy,0.331959783,CMIR71FL.DTA,Cameroon,2018
+Government Home/Community Delivery,0.002024036,CMIR71FL.DTA,Cameroon,2018
+Private Clinic/Delivery,0.134265397,CMIR71FL.DTA,Cameroon,2018
+Pharmacy,0.137542946,CMIR71FL.DTA,Cameroon,2018
+"Shop, Church, Friend",0.38240905,CMIR71FL.DTA,Cameroon,2018
+Other,0.011798788,CMIR71FL.DTA,Cameroon,2018

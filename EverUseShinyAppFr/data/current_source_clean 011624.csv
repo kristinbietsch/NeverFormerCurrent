@@ -1,0 +1,609 @@
+"Source","Freq","SurveyName","Country","StartYear"
+"Government Clinic/Pharmacy",0.477599190888834,"AFIR70FL.DTA","Afghanistan",2015
+"NGO",0.00661963867458208,"AFIR70FL.DTA","Afghanistan",2015
+"Private Clinic/Delivery",0.157593754786128,"AFIR70FL.DTA","Afghanistan",2015
+"Pharmacy",0.313774285822183,"AFIR70FL.DTA","Afghanistan",2015
+"Shop, Church, Friend",0.0310815847853108,"AFIR70FL.DTA","Afghanistan",2015
+"Other",0.0115651008420413,"AFIR70FL.DTA","Afghanistan",2015
+"Don't Know",0.00176644420092053,"AFIR70FL.DTA","Afghanistan",2015
+"Government Clinic/Pharmacy",0.432037569904886,"AOIR71FL.DTA","Angola",2015
+"Government Home/Community Delivery",0.00381579329744322,"AOIR71FL.DTA","Angola",2015
+"Private Clinic/Delivery",0.0356255569235951,"AOIR71FL.DTA","Angola",2015
+"Pharmacy",0.504612050748281,"AOIR71FL.DTA","Angola",2015
+"Shop, Church, Friend",0.0185765099180601,"AOIR71FL.DTA","Angola",2015
+"Other",0.00469862038142892,"AOIR71FL.DTA","Angola",2015
+"Don't Know",0.000633898826304946,"AOIR71FL.DTA","Angola",2015
+"Government Clinic/Pharmacy",0.373221087237915,"AMIR61FL.DTA","Armenia",2010
+"Private Clinic/Delivery",0.0186396116015678,"AMIR61FL.DTA","Armenia",2010
+"Pharmacy",0.588534553435888,"AMIR61FL.DTA","Armenia",2010
+"Shop, Church, Friend",0.0190774706022019,"AMIR61FL.DTA","Armenia",2010
+"Missing",0.000527277122427312,"AMIR61FL.DTA","Armenia",2010
+"Government Clinic/Pharmacy",0.320209379458757,"AMIR71FL.DTA","Armenia",2015
+"Government Home/Community Delivery",0.0302303259425581,"AMIR71FL.DTA","Armenia",2015
+"Private Clinic/Delivery",0.0243362195304574,"AMIR71FL.DTA","Armenia",2015
+"Pharmacy",0.623439571947422,"AMIR71FL.DTA","Armenia",2015
+"Shop, Church, Friend",0.00178450312080451,"AMIR71FL.DTA","Armenia",2015
+"Government Clinic/Pharmacy",0.119530472514234,"BDIR61FL.DTA","Bangladesh",2011
+"Government Home/Community Delivery",0.401478078557675,"BDIR61FL.DTA","Bangladesh",2011
+"NGO",0.0428747158244404,"BDIR61FL.DTA","Bangladesh",2011
+"Private Clinic/Delivery",0.383775853717872,"BDIR61FL.DTA","Bangladesh",2011
+"Shop, Church, Friend",0.0444509067667561,"BDIR61FL.DTA","Bangladesh",2011
+"Other",0.00439299095069797,"BDIR61FL.DTA","Bangladesh",2011
+"Don't Know",0.00103093512462828,"BDIR61FL.DTA","Bangladesh",2011
+"Missing",0.00246604654369671,"BDIR61FL.DTA","Bangladesh",2011
+"Government Clinic/Pharmacy",0.135083249872081,"BDIR72FL.DTA","Bangladesh",2014
+"Government Home/Community Delivery",0.352990091727518,"BDIR72FL.DTA","Bangladesh",2014
+"NGO",0.0438336715992083,"BDIR72FL.DTA","Bangladesh",2014
+"Private Clinic/Delivery",0.430361088044881,"BDIR72FL.DTA","Bangladesh",2014
+"Shop, Church, Friend",0.0353746761423163,"BDIR72FL.DTA","Bangladesh",2014
+"Other",0.00126771704011045,"BDIR72FL.DTA","Bangladesh",2014
+"Don't Know",0.00108950557388495,"BDIR72FL.DTA","Bangladesh",2014
+"Government Clinic/Pharmacy",0.332220872754927,"BDIR7RFL.DTA","Bangladesh",2017
+"Government Home/Community Delivery",0.112291891547728,"BDIR7RFL.DTA","Bangladesh",2017
+"NGO",0.0463736488194909,"BDIR7RFL.DTA","Bangladesh",2017
+"Private Clinic/Delivery",0.0482965445208283,"BDIR7RFL.DTA","Bangladesh",2017
+"Pharmacy",0.445583087971916,"BDIR7RFL.DTA","Bangladesh",2017
+"Shop, Church, Friend",0.0119363063028341,"BDIR7RFL.DTA","Bangladesh",2017
+"Other",0.00163386026786948,"BDIR7RFL.DTA","Bangladesh",2017
+"Don't Know",0.0016637878144062,"BDIR7RFL.DTA","Bangladesh",2017
+"Government Clinic/Pharmacy",0.387813075093495,"BJIR61FL.DTA","Benin",2011
+"Government Home/Community Delivery",0.0377183115612185,"BJIR61FL.DTA","Benin",2011
+"Private Clinic/Delivery",0.0766247938764411,"BJIR61FL.DTA","Benin",2011
+"Pharmacy",0.252972292514896,"BJIR61FL.DTA","Benin",2011
+"Shop, Church, Friend",0.210980439740429,"BJIR61FL.DTA","Benin",2011
+"Other",0.0130404103806,"BJIR61FL.DTA","Benin",2011
+"Missing",0.0208506768329208,"BJIR61FL.DTA","Benin",2011
+"Government Clinic/Pharmacy",0.610487955172524,"BJIR71FL.DTA","Benin",2017
+"Government Home/Community Delivery",0.0130619163034766,"BJIR71FL.DTA","Benin",2017
+"NGO",0.0256534808531362,"BJIR71FL.DTA","Benin",2017
+"Private Clinic/Delivery",0.0921876530483139,"BJIR71FL.DTA","Benin",2017
+"Pharmacy",0.166220895404777,"BJIR71FL.DTA","Benin",2017
+"Shop, Church, Friend",0.0680087410730691,"BJIR71FL.DTA","Benin",2017
+"Other",0.0243793581447032,"BJIR71FL.DTA","Benin",2017
+"Government Clinic/Pharmacy",0.734598905786597,"BFIR62FL.DTA","Burkina Faso",2010
+"Government Home/Community Delivery",0.00211480859993901,"BFIR62FL.DTA","Burkina Faso",2010
+"Private Clinic/Delivery",0.0116217240047092,"BFIR62FL.DTA","Burkina Faso",2010
+"Pharmacy",0.10226259012908,"BFIR62FL.DTA","Burkina Faso",2010
+"Shop, Church, Friend",0.126340200211518,"BFIR62FL.DTA","Burkina Faso",2010
+"Other",0.00332279037707109,"BFIR62FL.DTA","Burkina Faso",2010
+"Missing",0.0197389808910861,"BFIR62FL.DTA","Burkina Faso",2010
+"Government Clinic/Pharmacy",0.845446257225116,"BFIR81FL.DTA","Burkina Faso",2021
+"NGO",0.00605368939859,"BFIR81FL.DTA","Burkina Faso",2021
+"Private Clinic/Delivery",0.0211185754862586,"BFIR81FL.DTA","Burkina Faso",2021
+"Shop, Church, Friend",0.104088690082183,"BFIR81FL.DTA","Burkina Faso",2021
+"Other",0.023292787807852,"BFIR81FL.DTA","Burkina Faso",2021
+"Government Clinic/Pharmacy",0.85699463201872,"BUIR61FL.DTA","Burundi",2010
+"Government Home/Community Delivery",0.0151800273470234,"BUIR61FL.DTA","Burundi",2010
+"Private Clinic/Delivery",0.0878240986802762,"BUIR61FL.DTA","Burundi",2010
+"Pharmacy",0.0121279950267256,"BUIR61FL.DTA","Burundi",2010
+"Shop, Church, Friend",0.0160179896235513,"BUIR61FL.DTA","Burundi",2010
+"Other",0.0031504270122029,"BUIR61FL.DTA","Burundi",2010
+"Missing",0.00870483029150105,"BUIR61FL.DTA","Burundi",2010
+"Government Clinic/Pharmacy",0.805556483246271,"BUIR70FL.DTA","Burundi",2016
+"Government Home/Community Delivery",0.00317043283701432,"BUIR70FL.DTA","Burundi",2016
+"NGO",0.0729212282179578,"BUIR70FL.DTA","Burundi",2016
+"Private Clinic/Delivery",0.0441939129890029,"BUIR70FL.DTA","Burundi",2016
+"Pharmacy",0.0207666129261188,"BUIR70FL.DTA","Burundi",2016
+"Shop, Church, Friend",0.0297686035317859,"BUIR70FL.DTA","Burundi",2016
+"Other",0.0236227262518492,"BUIR70FL.DTA","Burundi",2016
+"Government Clinic/Pharmacy",0.47987127906337,"KHIR73FL.DTA","Cambodia",2014
+"Private Clinic/Delivery",0.395879283193451,"KHIR73FL.DTA","Cambodia",2014
+"Shop, Church, Friend",0.12224826652138,"KHIR73FL.DTA","Cambodia",2014
+"Other",0.00200117122179925,"KHIR73FL.DTA","Cambodia",2014
+"Government Clinic/Pharmacy",0.435088125052609,"KHIR81FL.DTA","Cambodia",2021
+"Government Home/Community Delivery",0.0280183225323483,"KHIR81FL.DTA","Cambodia",2021
+"NGO",0.02498391126354,"KHIR81FL.DTA","Cambodia",2021
+"Private Clinic/Delivery",0.356932203762488,"KHIR81FL.DTA","Cambodia",2021
+"Pharmacy",0.14249212364118,"KHIR81FL.DTA","Cambodia",2021
+"Other",0.0103362679625752,"KHIR81FL.DTA","Cambodia",2021
+"Don't Know",0.00214904578526044,"KHIR81FL.DTA","Cambodia",2021
+"Government Clinic/Pharmacy",0.196966675433223,"CMIR61FL.DTA","Cameroon",2011
+"Government Home/Community Delivery",0.00686847371714916,"CMIR61FL.DTA","Cameroon",2011
+"Private Clinic/Delivery",0.254526029443248,"CMIR61FL.DTA","Cameroon",2011
+"Pharmacy",0.0187692335669287,"CMIR61FL.DTA","Cameroon",2011
+"Shop, Church, Friend",0.507537315454836,"CMIR61FL.DTA","Cameroon",2011
+"Other",0.0150172323978502,"CMIR61FL.DTA","Cameroon",2011
+"Don't Know",0.000315039986765071,"CMIR61FL.DTA","Cameroon",2011
+"Government Clinic/Pharmacy",0.331959782825596,"CMIR71FL.DTA","Cameroon",2018
+"Government Home/Community Delivery",0.00202403600846511,"CMIR71FL.DTA","Cameroon",2018
+"Private Clinic/Delivery",0.134265397274199,"CMIR71FL.DTA","Cameroon",2018
+"Pharmacy",0.13754294602932,"CMIR71FL.DTA","Cameroon",2018
+"Shop, Church, Friend",0.382409049741878,"CMIR71FL.DTA","Cameroon",2018
+"Other",0.0117987881205426,"CMIR71FL.DTA","Cameroon",2018
+"Government Clinic/Pharmacy",0.733776182993473,"TDIR71FL.DTA","Chad",2014
+"Private Clinic/Delivery",0.11451900771454,"TDIR71FL.DTA","Chad",2014
+"Pharmacy",0.0213227646590674,"TDIR71FL.DTA","Chad",2014
+"Shop, Church, Friend",0.11003223206701,"TDIR71FL.DTA","Chad",2014
+"Other",0.00612875771539994,"TDIR71FL.DTA","Chad",2014
+"Don't Know",0.0142210548505101,"TDIR71FL.DTA","Chad",2014
+"Government Clinic/Pharmacy",0.585533175419458,"KMIR61FL.DTA","Comoros",2012
+"Government Home/Community Delivery",0.286286658648669,"KMIR61FL.DTA","Comoros",2012
+"Private Clinic/Delivery",0.025710366925334,"KMIR61FL.DTA","Comoros",2012
+"Pharmacy",0.00421632938343801,"KMIR61FL.DTA","Comoros",2012
+"Shop, Church, Friend",0.0252393886958919,"KMIR61FL.DTA","Comoros",2012
+"Other",0.0565867475613284,"KMIR61FL.DTA","Comoros",2012
+"Missing",0.0164273333658809,"KMIR61FL.DTA","Comoros",2012
+"Government Clinic/Pharmacy",0.194242031725407,"CGIR60FL.DTA","Congo",2011
+"Private Clinic/Delivery",0.0425843252673265,"CGIR60FL.DTA","Congo",2011
+"Pharmacy",0.255648180134769,"CGIR60FL.DTA","Congo",2011
+"Shop, Church, Friend",0.480932891299089,"CGIR60FL.DTA","Congo",2011
+"Other",0.0152077524770424,"CGIR60FL.DTA","Congo",2011
+"Missing",0.0113848190963669,"CGIR60FL.DTA","Congo",2011
+"Government Clinic/Pharmacy",0.312895083586429,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Government Home/Community Delivery",0.00342563274298103,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"NGO",0.0253406748870544,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Private Clinic/Delivery",0.10649900325989,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Pharmacy",0.445593260700877,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Shop, Church, Friend",0.101261463898956,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Other",0.00498488092381347,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Government Clinic/Pharmacy",0.259537360589976,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Government Home/Community Delivery",0.0129799996090755,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Private Clinic/Delivery",0.0310614747717456,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Pharmacy",0.442497211956795,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Shop, Church, Friend",0.158201171734234,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Other",0.0957227813381742,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Government Clinic/Pharmacy",0.385484345069134,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Government Home/Community Delivery",0.122532200315279,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"NGO",0.0057502457246731,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Private Clinic/Delivery",0.0337672472542503,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Pharmacy",0.33560169865699,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Shop, Church, Friend",0.104357207982503,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Other",0.0125070549971709,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Government Clinic/Pharmacy",0.527040208753292,"DRIR61FL.DTA","Dominican Republic",2013
+"NGO",0.00107737300486674,"DRIR61FL.DTA","Dominican Republic",2013
+"Private Clinic/Delivery",0.251103062211734,"DRIR61FL.DTA","Dominican Republic",2013
+"Pharmacy",0.183736481868537,"DRIR61FL.DTA","Dominican Republic",2013
+"Shop, Church, Friend",0.0273991219066177,"DRIR61FL.DTA","Dominican Republic",2013
+"Other",0.00956264555434245,"DRIR61FL.DTA","Dominican Republic",2013
+"Don't Know",0.0000811067006100703,"DRIR61FL.DTA","Dominican Republic",2013
+"Government Clinic/Pharmacy",0.552067524340838,"EGIR61FL.DTA","Egypt",2014
+"Government Home/Community Delivery",0.0158844221289911,"EGIR61FL.DTA","Egypt",2014
+"NGO",0.00568018878402114,"EGIR61FL.DTA","Egypt",2014
+"Private Clinic/Delivery",0.216848291356372,"EGIR61FL.DTA","Egypt",2014
+"Pharmacy",0.204780272524387,"EGIR61FL.DTA","Egypt",2014
+"Shop, Church, Friend",0.00272993059843486,"EGIR61FL.DTA","Egypt",2014
+"Other",0.000573635094068508,"EGIR61FL.DTA","Egypt",2014
+"Don't Know",0.00143573517288764,"EGIR61FL.DTA","Egypt",2014
+"Government Clinic/Pharmacy",0.542671529444552,"ETIR61FL.DTA","Ethiopia",2011
+"Government Home/Community Delivery",0.276735325125368,"ETIR61FL.DTA","Ethiopia",2011
+"NGO",0.0181505569621618,"ETIR61FL.DTA","Ethiopia",2011
+"Private Clinic/Delivery",0.0971855917641909,"ETIR61FL.DTA","Ethiopia",2011
+"Pharmacy",0.0182886637142265,"ETIR61FL.DTA","Ethiopia",2011
+"Shop, Church, Friend",0.0139881862560964,"ETIR61FL.DTA","Ethiopia",2011
+"Other",0.00128705485113519,"ETIR61FL.DTA","Ethiopia",2011
+"Missing",0.0316930918822694,"ETIR61FL.DTA","Ethiopia",2011
+"Government Clinic/Pharmacy",0.83155342296975,"ETIR70FL.DTA","Ethiopia",2016
+"Government Home/Community Delivery",0.00180328072491887,"ETIR70FL.DTA","Ethiopia",2016
+"NGO",0.0127202338797098,"ETIR70FL.DTA","Ethiopia",2016
+"Private Clinic/Delivery",0.120936320283624,"ETIR70FL.DTA","Ethiopia",2016
+"Pharmacy",0.0276308570381555,"ETIR70FL.DTA","Ethiopia",2016
+"Shop, Church, Friend",0.00100457746382329,"ETIR70FL.DTA","Ethiopia",2016
+"Other",0.00387059586659261,"ETIR70FL.DTA","Ethiopia",2016
+"Don't Know",0.000480711773425819,"ETIR70FL.DTA","Ethiopia",2016
+"Government Clinic/Pharmacy",0.152857403207433,"GAIR60FL.DTA","Gabon",2012
+"NGO",0.00508851491561522,"GAIR60FL.DTA","Gabon",2012
+"Private Clinic/Delivery",0.0280657751324305,"GAIR60FL.DTA","Gabon",2012
+"Pharmacy",0.493018100131227,"GAIR60FL.DTA","Gabon",2012
+"Shop, Church, Friend",0.243078927450287,"GAIR60FL.DTA","Gabon",2012
+"Other",0.0306755873016582,"GAIR60FL.DTA","Gabon",2012
+"Missing",0.0472156918613486,"GAIR60FL.DTA","Gabon",2012
+"Government Clinic/Pharmacy",0.600224826915367,"GMIR60FL.DTA","Gambia",2013
+"Government Home/Community Delivery",0.00941009680010357,"GMIR60FL.DTA","Gambia",2013
+"NGO",0.0688830038058671,"GMIR60FL.DTA","Gambia",2013
+"Private Clinic/Delivery",0.0509839470385131,"GMIR60FL.DTA","Gambia",2013
+"Pharmacy",0.205790121537878,"GMIR60FL.DTA","Gambia",2013
+"Shop, Church, Friend",0.0393249381401281,"GMIR60FL.DTA","Gambia",2013
+"Other",0.00668448333288595,"GMIR60FL.DTA","Gambia",2013
+"Missing",0.0186985824292572,"GMIR60FL.DTA","Gambia",2013
+"Government Clinic/Pharmacy",0.740444443943211,"GMIR81FL.DTA","Gambia",2019
+"Government Home/Community Delivery",0.0200772289394345,"GMIR81FL.DTA","Gambia",2019
+"Private Clinic/Delivery",0.0760711479255124,"GMIR81FL.DTA","Gambia",2019
+"Pharmacy",0.15143741624234,"GMIR81FL.DTA","Gambia",2019
+"Shop, Church, Friend",0.00736207722143294,"GMIR81FL.DTA","Gambia",2019
+"Other",0.00460768572806915,"GMIR81FL.DTA","Gambia",2019
+"Government Clinic/Pharmacy",0.630016744891222,"GHIR72FL.DTA","Ghana",2014
+"Government Home/Community Delivery",0.0138551896726287,"GHIR72FL.DTA","Ghana",2014
+"Private Clinic/Delivery",0.0448481547446224,"GHIR72FL.DTA","Ghana",2014
+"Pharmacy",0.293000822995376,"GHIR72FL.DTA","Ghana",2014
+"Shop, Church, Friend",0.0162298248218566,"GHIR72FL.DTA","Ghana",2014
+"Other",0.00204926287429507,"GHIR72FL.DTA","Ghana",2014
+"Government Clinic/Pharmacy",0.398649475321009,"GUIR71FL.DTA","Guatemala",2014
+"Government Home/Community Delivery",0.115149717630463,"GUIR71FL.DTA","Guatemala",2014
+"Private Clinic/Delivery",0.306013906283729,"GUIR71FL.DTA","Guatemala",2014
+"Pharmacy",0.165732554985231,"GUIR71FL.DTA","Guatemala",2014
+"Shop, Church, Friend",0.00595764769744816,"GUIR71FL.DTA","Guatemala",2014
+"Other",0.00805404339392138,"GUIR71FL.DTA","Guatemala",2014
+"Don't Know",0.000442654688197917,"GUIR71FL.DTA","Guatemala",2014
+"Government Clinic/Pharmacy",0.262717738399395,"GNIR62FL.DTA","Guinea",2012
+"Government Home/Community Delivery",0.0424681506485712,"GNIR62FL.DTA","Guinea",2012
+"Private Clinic/Delivery",0.0952500166079424,"GNIR62FL.DTA","Guinea",2012
+"Pharmacy",0.320410077472844,"GNIR62FL.DTA","Guinea",2012
+"Shop, Church, Friend",0.276978025161336,"GNIR62FL.DTA","Guinea",2012
+"Other",0.00217599170991175,"GNIR62FL.DTA","Guinea",2012
+"Government Clinic/Pharmacy",0.636522776116278,"GNIR71FL.DTA","Guinea",2018
+"Private Clinic/Delivery",0.0816462230138823,"GNIR71FL.DTA","Guinea",2018
+"Pharmacy",0.195071760236667,"GNIR71FL.DTA","Guinea",2018
+"Shop, Church, Friend",0.0845100948912785,"GNIR71FL.DTA","Guinea",2018
+"Other",0.00224914574189408,"GNIR71FL.DTA","Guinea",2018
+"Government Clinic/Pharmacy",0.511285950025831,"HNIR62FL.DTA","Honduras",2011
+"NGO",0.00132719614230754,"HNIR62FL.DTA","Honduras",2011
+"Private Clinic/Delivery",0.227280484961873,"HNIR62FL.DTA","Honduras",2011
+"Pharmacy",0.182535135955721,"HNIR62FL.DTA","Honduras",2011
+"Shop, Church, Friend",0.0212568607822397,"HNIR62FL.DTA","Honduras",2011
+"Other",0.0150335353685545,"HNIR62FL.DTA","Honduras",2011
+"Don't Know",0.00128351640227616,"HNIR62FL.DTA","Honduras",2011
+"Missing",0.0399973203611968,"HNIR62FL.DTA","Honduras",2011
+"Government Clinic/Pharmacy",0.634488502490742,"IAIR73FL.DTA","India",2015
+"Government Home/Community Delivery",0.0602886030626753,"IAIR73FL.DTA","India",2015
+"NGO",0.00391858674513902,"IAIR73FL.DTA","India",2015
+"Private Clinic/Delivery",0.177073096761773,"IAIR73FL.DTA","India",2015
+"Pharmacy",0.0616897157249196,"IAIR73FL.DTA","India",2015
+"Shop, Church, Friend",0.0605173387494196,"IAIR73FL.DTA","India",2015
+"Other",0.0018684450986445,"IAIR73FL.DTA","India",2015
+"Don't Know",0.000155711366687075,"IAIR73FL.DTA","India",2015
+"Government Clinic/Pharmacy",0.653715145551157,"IAIR7DFL.DTA","India",2019
+"Government Home/Community Delivery",0.026369576390966,"IAIR7DFL.DTA","India",2019
+"NGO",0.00279786008577755,"IAIR7DFL.DTA","India",2019
+"Private Clinic/Delivery",0.173256687642523,"IAIR7DFL.DTA","India",2019
+"Pharmacy",0.0733790876843929,"IAIR7DFL.DTA","India",2019
+"Shop, Church, Friend",0.0684280197700363,"IAIR7DFL.DTA","India",2019
+"Other",0.00195523058129367,"IAIR7DFL.DTA","India",2019
+"Don't Know",0.0000983922938532575,"IAIR7DFL.DTA","India",2019
+"Government Clinic/Pharmacy",0.178421244083656,"IDIR63FL.DTA","Indonesia",2012
+"Government Home/Community Delivery",0.0549579893398468,"IDIR63FL.DTA","Indonesia",2012
+"Private Clinic/Delivery",0.611769197866728,"IDIR63FL.DTA","Indonesia",2012
+"Pharmacy",0.116385862255202,"IDIR63FL.DTA","Indonesia",2012
+"Shop, Church, Friend",0.0294114062941367,"IDIR63FL.DTA","Indonesia",2012
+"Other",0.00902621738942418,"IDIR63FL.DTA","Indonesia",2012
+"Don't Know",0.0000280827710068442,"IDIR63FL.DTA","Indonesia",2012
+"Government Clinic/Pharmacy",0.307844531800408,"IDIR71FL.DTA","Indonesia",2017
+"Government Home/Community Delivery",0.0335995814531812,"IDIR71FL.DTA","Indonesia",2017
+"Private Clinic/Delivery",0.476248433520461,"IDIR71FL.DTA","Indonesia",2017
+"Pharmacy",0.142895236422663,"IDIR71FL.DTA","Indonesia",2017
+"Shop, Church, Friend",0.0351892257120477,"IDIR71FL.DTA","Indonesia",2017
+"Other",0.00422299109123922,"IDIR71FL.DTA","Indonesia",2017
+"Government Clinic/Pharmacy",0.0631364367608862,"JOIR6CFL.DTA","Jordan",2012
+"Government Home/Community Delivery",0.368839679451722,"JOIR6CFL.DTA","Jordan",2012
+"NGO",0.0985167029168206,"JOIR6CFL.DTA","Jordan",2012
+"Private Clinic/Delivery",0.298472450337037,"JOIR6CFL.DTA","Jordan",2012
+"Pharmacy",0.145036778230156,"JOIR6CFL.DTA","Jordan",2012
+"Shop, Church, Friend",0.0198620836241121,"JOIR6CFL.DTA","Jordan",2012
+"Other",0.00603941841337996,"JOIR6CFL.DTA","Jordan",2012
+"Don't Know",0.0000964502658856359,"JOIR6CFL.DTA","Jordan",2012
+"Government Clinic/Pharmacy",0.492085144098349,"JOIR72FL.DTA","Jordan",2017
+"NGO",0.144810148565225,"JOIR72FL.DTA","Jordan",2017
+"Private Clinic/Delivery",0.212227908916884,"JOIR72FL.DTA","Jordan",2017
+"Pharmacy",0.150736470312309,"JOIR72FL.DTA","Jordan",2017
+"Shop, Church, Friend",0.0000540368271986767,"JOIR72FL.DTA","Jordan",2017
+"Other",0.0000293921881047675,"JOIR72FL.DTA","Jordan",2017
+"Don't Know",0.0000568990919313081,"JOIR72FL.DTA","Jordan",2017
+"Government Clinic/Pharmacy",0.60202015206297,"KEIR72FL.DTA","Kenya",2014
+"Government Home/Community Delivery",0.00536959514234257,"KEIR72FL.DTA","Kenya",2014
+"NGO",0.0223456688651401,"KEIR72FL.DTA","Kenya",2014
+"Private Clinic/Delivery",0.219915085900201,"KEIR72FL.DTA","Kenya",2014
+"Pharmacy",0.103721763342266,"KEIR72FL.DTA","Kenya",2014
+"Shop, Church, Friend",0.0405107935993597,"KEIR72FL.DTA","Kenya",2014
+"Other",0.00611694108772026,"KEIR72FL.DTA","Kenya",2014
+"Government Clinic/Pharmacy",0.615467398098962,"KEIR8BFL.DTA","Kenya",2022
+"Government Home/Community Delivery",0.00590552551713514,"KEIR8BFL.DTA","Kenya",2022
+"NGO",0.0118563248791604,"KEIR8BFL.DTA","Kenya",2022
+"Private Clinic/Delivery",0.170583848034559,"KEIR8BFL.DTA","Kenya",2022
+"Pharmacy",0.154285878926424,"KEIR8BFL.DTA","Kenya",2022
+"Shop, Church, Friend",0.0327390234082632,"KEIR8BFL.DTA","Kenya",2022
+"Other",0.00246933247077462,"KEIR8BFL.DTA","Kenya",2022
+"Don't Know",0.00669266866472222,"KEIR8BFL.DTA","Kenya",2022
+"Government Clinic/Pharmacy",0.71457928349172,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Private Clinic/Delivery",0.0337922964838584,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Pharmacy",0.237026260382168,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Shop, Church, Friend",0.0142605659021239,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Other",0.000341593740129532,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Government Clinic/Pharmacy",0.55516792209707,"LSIR71FL.DTA","Lesotho",2014
+"NGO",0.0669399644516913,"LSIR71FL.DTA","Lesotho",2014
+"Private Clinic/Delivery",0.125557748732822,"LSIR71FL.DTA","Lesotho",2014
+"Pharmacy",0.0439263125028306,"LSIR71FL.DTA","Lesotho",2014
+"Shop, Church, Friend",0.170814398438339,"LSIR71FL.DTA","Lesotho",2014
+"Other",0.0375936537772468,"LSIR71FL.DTA","Lesotho",2014
+"Government Clinic/Pharmacy",0.629754436627889,"LBIR6AFL.DTA","Liberia",2013
+"Government Home/Community Delivery",0.0134222497606294,"LBIR6AFL.DTA","Liberia",2013
+"Private Clinic/Delivery",0.199650368722938,"LBIR6AFL.DTA","Liberia",2013
+"Pharmacy",0.104679064820152,"LBIR6AFL.DTA","Liberia",2013
+"Shop, Church, Friend",0.0451458130759026,"LBIR6AFL.DTA","Liberia",2013
+"Other",0.00423153177328009,"LBIR6AFL.DTA","Liberia",2013
+"Missing",0.00311653521920866,"LBIR6AFL.DTA","Liberia",2013
+"Government Clinic/Pharmacy",0.54786564021114,"LBIR7AFL.DTA","Liberia",2019
+"Government Home/Community Delivery",0.0177329053449378,"LBIR7AFL.DTA","Liberia",2019
+"Private Clinic/Delivery",0.150329426540776,"LBIR7AFL.DTA","Liberia",2019
+"Pharmacy",0.224128387710371,"LBIR7AFL.DTA","Liberia",2019
+"Shop, Church, Friend",0.0534825286047294,"LBIR7AFL.DTA","Liberia",2019
+"Other",0.00646111158804642,"LBIR7AFL.DTA","Liberia",2019
+"Government Clinic/Pharmacy",0.666133249431953,"MDIR81FL.DTA","Madagascar",2021
+"Government Home/Community Delivery",0.138499869539958,"MDIR81FL.DTA","Madagascar",2021
+"Private Clinic/Delivery",0.142902046820413,"MDIR81FL.DTA","Madagascar",2021
+"Pharmacy",0.0257809657279381,"MDIR81FL.DTA","Madagascar",2021
+"Shop, Church, Friend",0.0192505328150257,"MDIR81FL.DTA","Madagascar",2021
+"Other",0.00743333566471342,"MDIR81FL.DTA","Madagascar",2021
+"Government Clinic/Pharmacy",0.72629227325322,"MWIR7AFL.DTA","Malawi",2015
+"Government Home/Community Delivery",0.0678782181172307,"MWIR7AFL.DTA","Malawi",2015
+"NGO",0.120663715165361,"MWIR7AFL.DTA","Malawi",2015
+"Private Clinic/Delivery",0.0589955346530905,"MWIR7AFL.DTA","Malawi",2015
+"Pharmacy",0.00201463167258262,"MWIR7AFL.DTA","Malawi",2015
+"Shop, Church, Friend",0.0214230376630636,"MWIR7AFL.DTA","Malawi",2015
+"Other",0.00238567698012945,"MWIR7AFL.DTA","Malawi",2015
+"Don't Know",0.000346912495321825,"MWIR7AFL.DTA","Malawi",2015
+"Government Clinic/Pharmacy",0.492512832112222,"MVIR71FL.DTA","Maldives",2016
+"Private Clinic/Delivery",0.1076539142342,"MVIR71FL.DTA","Maldives",2016
+"Pharmacy",0.282283640649771,"MVIR71FL.DTA","Maldives",2016
+"Shop, Church, Friend",0.051918042586742,"MVIR71FL.DTA","Maldives",2016
+"Other",0.0656315704170652,"MVIR71FL.DTA","Maldives",2016
+"Government Clinic/Pharmacy",0.138100859529655,"MLIR6AFL.DTA","Mali",2012
+"Government Home/Community Delivery",0.577889684943507,"MLIR6AFL.DTA","Mali",2012
+"Private Clinic/Delivery",0.0650534006917926,"MLIR6AFL.DTA","Mali",2012
+"Pharmacy",0.163572050443843,"MLIR6AFL.DTA","Mali",2012
+"Shop, Church, Friend",0.0553840043912019,"MLIR6AFL.DTA","Mali",2012
+"Government Clinic/Pharmacy",0.167381674607079,"MLIR7HFL.DTA","Mali",2018
+"Government Home/Community Delivery",0.604495013056824,"MLIR7HFL.DTA","Mali",2018
+"Private Clinic/Delivery",0.112138162731354,"MLIR7HFL.DTA","Mali",2018
+"Pharmacy",0.0865228352841286,"MLIR7HFL.DTA","Mali",2018
+"Shop, Church, Friend",0.0252845067280519,"MLIR7HFL.DTA","Mali",2018
+"Other",0.00417780759256352,"MLIR7HFL.DTA","Mali",2018
+"Government Clinic/Pharmacy",0.8171094896839,"MRIR71FL.DTA","Mauritania",2019
+"Government Home/Community Delivery",0.0187059771992645,"MRIR71FL.DTA","Mauritania",2019
+"Private Clinic/Delivery",0.0338499693346103,"MRIR71FL.DTA","Mauritania",2019
+"Pharmacy",0.127174207144638,"MRIR71FL.DTA","Mauritania",2019
+"Shop, Church, Friend",0.00206238920899903,"MRIR71FL.DTA","Mauritania",2019
+"Other",0.0010979674285876,"MRIR71FL.DTA","Mauritania",2019
+"Government Clinic/Pharmacy",0.748352646819743,"MZIR62FL.DTA","Mozambique",2011
+"Government Home/Community Delivery",0.00908883177930445,"MZIR62FL.DTA","Mozambique",2011
+"NGO",0.00340044822413806,"MZIR62FL.DTA","Mozambique",2011
+"Private Clinic/Delivery",0.0218716527210431,"MZIR62FL.DTA","Mozambique",2011
+"Pharmacy",0.0723920130749183,"MZIR62FL.DTA","Mozambique",2011
+"Shop, Church, Friend",0.136422337143725,"MZIR62FL.DTA","Mozambique",2011
+"Other",0.00787710682603021,"MZIR62FL.DTA","Mozambique",2011
+"Missing",0.000594963411097733,"MZIR62FL.DTA","Mozambique",2011
+"Government Clinic/Pharmacy",0.540188780656929,"NPIR60FL.DTA","Nepal",2011
+"Government Home/Community Delivery",0.149590798527348,"NPIR60FL.DTA","Nepal",2011
+"NGO",0.0848257375097254,"NPIR60FL.DTA","Nepal",2011
+"Private Clinic/Delivery",0.0898550421394552,"NPIR60FL.DTA","Nepal",2011
+"Pharmacy",0.108270576703286,"NPIR60FL.DTA","Nepal",2011
+"Shop, Church, Friend",0.00847931111206123,"NPIR60FL.DTA","Nepal",2011
+"Other",0.00417887963474549,"NPIR60FL.DTA","Nepal",2011
+"Don't Know",0.00391141385052936,"NPIR60FL.DTA","Nepal",2011
+"Missing",0.0106994598659204,"NPIR60FL.DTA","Nepal",2011
+"Government Clinic/Pharmacy",0.562140263798667,"NPIR7HFL.DTA","Nepal",2016
+"Government Home/Community Delivery",0.131956142494818,"NPIR7HFL.DTA","Nepal",2016
+"NGO",0.0611787117667293,"NPIR7HFL.DTA","Nepal",2016
+"Private Clinic/Delivery",0.103896212773837,"NPIR7HFL.DTA","Nepal",2016
+"Pharmacy",0.0873928144917121,"NPIR7HFL.DTA","Nepal",2016
+"Shop, Church, Friend",0.00598593689242831,"NPIR7HFL.DTA","Nepal",2016
+"Other",0.0418179324331617,"NPIR7HFL.DTA","Nepal",2016
+"Don't Know",0.00563198534864633,"NPIR7HFL.DTA","Nepal",2016
+"Government Clinic/Pharmacy",0.576150659116275,"NPIR81FL.DTA","Nepal",2022
+"Government Home/Community Delivery",0.115499282987039,"NPIR81FL.DTA","Nepal",2022
+"NGO",0.0474593725270801,"NPIR81FL.DTA","Nepal",2022
+"Private Clinic/Delivery",0.121244176466428,"NPIR81FL.DTA","Nepal",2022
+"Pharmacy",0.11165471910779,"NPIR81FL.DTA","Nepal",2022
+"Shop, Church, Friend",0.00563372154540427,"NPIR81FL.DTA","Nepal",2022
+"Other",0.0203070992381743,"NPIR81FL.DTA","Nepal",2022
+"Don't Know",0.00205096901180892,"NPIR81FL.DTA","Nepal",2022
+"Government Clinic/Pharmacy",0.0609319597945582,"NIIR61FL.DTA","Niger",2012
+"Government Home/Community Delivery",0.570396591111558,"NIIR61FL.DTA","Niger",2012
+"Private Clinic/Delivery",0.0164290450756479,"NIIR61FL.DTA","Niger",2012
+"Pharmacy",0.0215075324502148,"NIIR61FL.DTA","Niger",2012
+"Shop, Church, Friend",0.184443549947328,"NIIR61FL.DTA","Niger",2012
+"Other",0.126386962217261,"NIIR61FL.DTA","Niger",2012
+"Missing",0.0199043594034327,"NIIR61FL.DTA","Niger",2012
+"Government Clinic/Pharmacy",0.283927001278858,"NGIR6AFL.DTA","Nigeria",2013
+"Government Home/Community Delivery",0.00473497099616164,"NGIR6AFL.DTA","Nigeria",2013
+"NGO",0.00121359915035005,"NGIR6AFL.DTA","Nigeria",2013
+"Private Clinic/Delivery",0.116250244698274,"NGIR6AFL.DTA","Nigeria",2013
+"Pharmacy",0.481985715092008,"NGIR6AFL.DTA","Nigeria",2013
+"Shop, Church, Friend",0.0896960955185446,"NGIR6AFL.DTA","Nigeria",2013
+"Other",0.00260085219463327,"NGIR6AFL.DTA","Nigeria",2013
+"Missing",0.0195915210711705,"NGIR6AFL.DTA","Nigeria",2013
+"Government Clinic/Pharmacy",0.52821986638272,"NGIR7AFL.DTA","Nigeria",2018
+"Government Home/Community Delivery",0.0118089627740486,"NGIR7AFL.DTA","Nigeria",2018
+"NGO",0.00166126588327679,"NGIR7AFL.DTA","Nigeria",2018
+"Private Clinic/Delivery",0.283980444710519,"NGIR7AFL.DTA","Nigeria",2018
+"Pharmacy",0.123918008053753,"NGIR7AFL.DTA","Nigeria",2018
+"Shop, Church, Friend",0.0423946821488909,"NGIR7AFL.DTA","Nigeria",2018
+"Other",0.00801677004679177,"NGIR7AFL.DTA","Nigeria",2018
+"Government Clinic/Pharmacy",0.33455888223963,"PKIR71FL.DTA","Pakistan",2017
+"Government Home/Community Delivery",0.103070872331289,"PKIR71FL.DTA","Pakistan",2017
+"Private Clinic/Delivery",0.226626634136415,"PKIR71FL.DTA","Pakistan",2017
+"Pharmacy",0.202756334519443,"PKIR71FL.DTA","Pakistan",2017
+"Shop, Church, Friend",0.128887633520948,"PKIR71FL.DTA","Pakistan",2017
+"Other",0.00260704877209953,"PKIR71FL.DTA","Pakistan",2017
+"Don't Know",0.00149259448017626,"PKIR71FL.DTA","Pakistan",2017
+"Government Clinic/Pharmacy",0.465235478924048,"PHIR61FL.DTA","Philippines",2013
+"Government Home/Community Delivery",0.00979492816094051,"PHIR61FL.DTA","Philippines",2013
+"NGO",0.0016259851088385,"PHIR61FL.DTA","Philippines",2013
+"Private Clinic/Delivery",0.0892922876836906,"PHIR61FL.DTA","Philippines",2013
+"Pharmacy",0.381635822510404,"PHIR61FL.DTA","Philippines",2013
+"Shop, Church, Friend",0.0462102853331242,"PHIR61FL.DTA","Philippines",2013
+"Other",0.00155785799529415,"PHIR61FL.DTA","Philippines",2013
+"Missing",0.00464735428365986,"PHIR61FL.DTA","Philippines",2013
+"Government Clinic/Pharmacy",0.487361821164829,"PHIR81FL.DTA","Philippines",2022
+"Government Home/Community Delivery",0.0133146142210608,"PHIR81FL.DTA","Philippines",2022
+"Private Clinic/Delivery",0.0873663503172812,"PHIR81FL.DTA","Philippines",2022
+"Pharmacy",0.376196749614298,"PHIR81FL.DTA","Philippines",2022
+"Shop, Church, Friend",0.0347787634264106,"PHIR81FL.DTA","Philippines",2022
+"Other",0.00098170125612009,"PHIR81FL.DTA","Philippines",2022
+"Government Clinic/Pharmacy",0.814059835760445,"RWIR61FL.DTA","Rwanda",2010
+"Government Home/Community Delivery",0.100241401151004,"RWIR61FL.DTA","Rwanda",2010
+"Private Clinic/Delivery",0.0315288897038129,"RWIR61FL.DTA","Rwanda",2010
+"Pharmacy",0.0119338280853819,"RWIR61FL.DTA","Rwanda",2010
+"Shop, Church, Friend",0.0260765484791368,"RWIR61FL.DTA","Rwanda",2010
+"Other",0.00859668870950885,"RWIR61FL.DTA","Rwanda",2010
+"Don't Know",0.00135778724402694,"RWIR61FL.DTA","Rwanda",2010
+"Missing",0.00620502086668437,"RWIR61FL.DTA","Rwanda",2010
+"Government Clinic/Pharmacy",0.598991257674117,"RWIR70FL.DTA","Rwanda",2014
+"Government Home/Community Delivery",0.32937376481117,"RWIR70FL.DTA","Rwanda",2014
+"Private Clinic/Delivery",0.0304286312681663,"RWIR70FL.DTA","Rwanda",2014
+"Pharmacy",0.0136649007993408,"RWIR70FL.DTA","Rwanda",2014
+"Shop, Church, Friend",0.0248318817761533,"RWIR70FL.DTA","Rwanda",2014
+"Other",0.00200412283814715,"RWIR70FL.DTA","Rwanda",2014
+"Don't Know",0.000705440832905128,"RWIR70FL.DTA","Rwanda",2014
+"Government Clinic/Pharmacy",0.752997566011785,"RWIR81FL.DTA","Rwanda",2019
+"Government Home/Community Delivery",0.0175264781450466,"RWIR81FL.DTA","Rwanda",2019
+"Private Clinic/Delivery",0.0412830845635685,"RWIR81FL.DTA","Rwanda",2019
+"Pharmacy",0.0220291275551151,"RWIR81FL.DTA","Rwanda",2019
+"Shop, Church, Friend",0.164439879033988,"RWIR81FL.DTA","Rwanda",2019
+"Other",0.00133051544247993,"RWIR81FL.DTA","Rwanda",2019
+"Don't Know",0.000393349248017102,"RWIR81FL.DTA","Rwanda",2019
+"Government Clinic/Pharmacy",0.827798767378097,"SNIR61FL.DTA","Senegal",2010
+"Government Home/Community Delivery",0.00846132250461926,"SNIR61FL.DTA","Senegal",2010
+"Private Clinic/Delivery",0.0364112458744747,"SNIR61FL.DTA","Senegal",2010
+"Pharmacy",0.0786556144881113,"SNIR61FL.DTA","Senegal",2010
+"Shop, Church, Friend",0.0198183537812151,"SNIR61FL.DTA","Senegal",2010
+"Other",0.0124930032696473,"SNIR61FL.DTA","Senegal",2010
+"Missing",0.0163616927038353,"SNIR61FL.DTA","Senegal",2010
+"Government Clinic/Pharmacy",0.825365291771286,"SNIR6DFL.DTA","Senegal",2012
+"Government Home/Community Delivery",0.0116085993248051,"SNIR6DFL.DTA","Senegal",2012
+"Private Clinic/Delivery",0.0407074840350396,"SNIR6DFL.DTA","Senegal",2012
+"Pharmacy",0.0927497500971037,"SNIR6DFL.DTA","Senegal",2012
+"Shop, Church, Friend",0.0151504410424298,"SNIR6DFL.DTA","Senegal",2012
+"Other",0.0144184337293357,"SNIR6DFL.DTA","Senegal",2012
+"Government Clinic/Pharmacy",0.810522037500841,"SNIR70FL.DTA","Senegal",2014
+"Government Home/Community Delivery",0.012974769842485,"SNIR70FL.DTA","Senegal",2014
+"Private Clinic/Delivery",0.0392231082659676,"SNIR70FL.DTA","Senegal",2014
+"Pharmacy",0.110177934482828,"SNIR70FL.DTA","Senegal",2014
+"Shop, Church, Friend",0.0215840187746919,"SNIR70FL.DTA","Senegal",2014
+"Other",0.00551813113318637,"SNIR70FL.DTA","Senegal",2014
+"Government Clinic/Pharmacy",0.826376935719338,"SNIR7HFL.DTA","Senegal",2015
+"Government Home/Community Delivery",0.0236182817829404,"SNIR7HFL.DTA","Senegal",2015
+"Private Clinic/Delivery",0.029944245231304,"SNIR7HFL.DTA","Senegal",2015
+"Pharmacy",0.0865090308340193,"SNIR7HFL.DTA","Senegal",2015
+"Shop, Church, Friend",0.0077801702657591,"SNIR7HFL.DTA","Senegal",2015
+"Other",0.0110002674787854,"SNIR7HFL.DTA","Senegal",2015
+"Don't Know",0.0147710686878541,"SNIR7HFL.DTA","Senegal",2015
+"Government Clinic/Pharmacy",0.884554468597491,"SNIR7QFL.DTA","Senegal",2016
+"Government Home/Community Delivery",0.0283217189141315,"SNIR7QFL.DTA","Senegal",2016
+"Private Clinic/Delivery",0.0246990414829008,"SNIR7QFL.DTA","Senegal",2016
+"Pharmacy",0.0510473205372759,"SNIR7QFL.DTA","Senegal",2016
+"Shop, Church, Friend",0.0113774504682005,"SNIR7QFL.DTA","Senegal",2016
+"Government Clinic/Pharmacy",0.851510953588405,"SNIR7ZFL.DTA","Senegal",2017
+"Government Home/Community Delivery",0.0127202166582913,"SNIR7ZFL.DTA","Senegal",2017
+"Private Clinic/Delivery",0.0483340025581293,"SNIR7ZFL.DTA","Senegal",2017
+"Pharmacy",0.0755097261756401,"SNIR7ZFL.DTA","Senegal",2017
+"Shop, Church, Friend",0.00782192961739058,"SNIR7ZFL.DTA","Senegal",2017
+"Other",0.00410317140214368,"SNIR7ZFL.DTA","Senegal",2017
+"Government Clinic/Pharmacy",0.866219316188678,"SNIR80FL.DTA","Senegal",2018
+"Government Home/Community Delivery",0.0227700947739283,"SNIR80FL.DTA","Senegal",2018
+"Private Clinic/Delivery",0.0359857915213267,"SNIR80FL.DTA","Senegal",2018
+"Pharmacy",0.0558664898484837,"SNIR80FL.DTA","Senegal",2018
+"Shop, Church, Friend",0.0119092224710135,"SNIR80FL.DTA","Senegal",2018
+"Other",0.00724908519657013,"SNIR80FL.DTA","Senegal",2018
+"Government Clinic/Pharmacy",0.88032681546618,"SNIR8AFL.DTA","Senegal",2019
+"Government Home/Community Delivery",0.0155087562513632,"SNIR8AFL.DTA","Senegal",2019
+"Private Clinic/Delivery",0.0475647383372951,"SNIR8AFL.DTA","Senegal",2019
+"Pharmacy",0.042205313248392,"SNIR8AFL.DTA","Senegal",2019
+"Shop, Church, Friend",0.00903717701109625,"SNIR8AFL.DTA","Senegal",2019
+"Other",0.00491459975355692,"SNIR8AFL.DTA","Senegal",2019
+"Don't Know",0.000442599932116605,"SNIR8AFL.DTA","Senegal",2019
+"Government Clinic/Pharmacy",0.621302280113395,"SLIR61FL.DTA","Sierra Leone",2013
+"Government Home/Community Delivery",0.0631270490665378,"SLIR61FL.DTA","Sierra Leone",2013
+"Private Clinic/Delivery",0.14160142860584,"SLIR61FL.DTA","Sierra Leone",2013
+"Pharmacy",0.137797979269254,"SLIR61FL.DTA","Sierra Leone",2013
+"Shop, Church, Friend",0.0115001165024643,"SLIR61FL.DTA","Sierra Leone",2013
+"Other",0.00992553797489915,"SLIR61FL.DTA","Sierra Leone",2013
+"Don't Know",0.00114857520340411,"SLIR61FL.DTA","Sierra Leone",2013
+"Missing",0.0135970332642058,"SLIR61FL.DTA","Sierra Leone",2013
+"Government Clinic/Pharmacy",0.766377198243582,"SLIR7AFL.DTA","Sierra Leone",2019
+"Government Home/Community Delivery",0.0378425561079096,"SLIR7AFL.DTA","Sierra Leone",2019
+"Private Clinic/Delivery",0.0600737521758105,"SLIR7AFL.DTA","Sierra Leone",2019
+"Pharmacy",0.120538920962389,"SLIR7AFL.DTA","Sierra Leone",2019
+"Shop, Church, Friend",0.0115639684003635,"SLIR7AFL.DTA","Sierra Leone",2019
+"Other",0.00360360410994563,"SLIR7AFL.DTA","Sierra Leone",2019
+"Government Clinic/Pharmacy",0.7839601381826,"ZAIR71FL.DTA","South Africa",2016
+"Government Home/Community Delivery",0.0203419178429203,"ZAIR71FL.DTA","South Africa",2016
+"Private Clinic/Delivery",0.059881921173121,"ZAIR71FL.DTA","South Africa",2016
+"Pharmacy",0.0543479665768066,"ZAIR71FL.DTA","South Africa",2016
+"Shop, Church, Friend",0.0755322235644364,"ZAIR71FL.DTA","South Africa",2016
+"Other",0.00593583266011625,"ZAIR71FL.DTA","South Africa",2016
+"Government Clinic/Pharmacy",0.901573537611297,"TJIR61FL.DTA","Tajikistan",2012
+"Private Clinic/Delivery",0.00194568130261412,"TJIR61FL.DTA","Tajikistan",2012
+"Pharmacy",0.0946240439109838,"TJIR61FL.DTA","Tajikistan",2012
+"Shop, Church, Friend",0.000299228396669987,"TJIR61FL.DTA","Tajikistan",2012
+"Other",0.00155750877843524,"TJIR61FL.DTA","Tajikistan",2012
+"Government Clinic/Pharmacy",0.878987640485514,"TJIR71FL.DTA","Tajikistan",2017
+"Government Home/Community Delivery",0.0072633836265734,"TJIR71FL.DTA","Tajikistan",2017
+"Private Clinic/Delivery",0.00438563523001346,"TJIR71FL.DTA","Tajikistan",2017
+"Pharmacy",0.103919932358066,"TJIR71FL.DTA","Tajikistan",2017
+"Shop, Church, Friend",0.00065410014330946,"TJIR71FL.DTA","Tajikistan",2017
+"Other",0.0020726828691382,"TJIR71FL.DTA","Tajikistan",2017
+"Don't Know",0.00271662528738574,"TJIR71FL.DTA","Tajikistan",2017
+"Government Clinic/Pharmacy",0.606944603940182,"TZIR7BFL.DTA","Tanzania",2015
+"Government Home/Community Delivery",0.00206829001791798,"TZIR7BFL.DTA","Tanzania",2015
+"NGO",0.000204470608932699,"TZIR7BFL.DTA","Tanzania",2015
+"Private Clinic/Delivery",0.122297271812227,"TZIR7BFL.DTA","Tanzania",2015
+"Pharmacy",0.109792226591164,"TZIR7BFL.DTA","Tanzania",2015
+"Shop, Church, Friend",0.152824222060998,"TZIR7BFL.DTA","Tanzania",2015
+"Other",0.00586891496857879,"TZIR7BFL.DTA","Tanzania",2015
+"Government Clinic/Pharmacy",0.783264832015684,"TZIR82FL.DTA","Tanzania",2022
+"Government Home/Community Delivery",0.000431399524100689,"TZIR82FL.DTA","Tanzania",2022
+"NGO",0.0520429699803197,"TZIR82FL.DTA","Tanzania",2022
+"Private Clinic/Delivery",0.024261566009543,"TZIR82FL.DTA","Tanzania",2022
+"Pharmacy",0.108766961787259,"TZIR82FL.DTA","Tanzania",2022
+"Shop, Church, Friend",0.0289467408105932,"TZIR82FL.DTA","Tanzania",2022
+"Other",0.00228552987250051,"TZIR82FL.DTA","Tanzania",2022
+"Government Clinic/Pharmacy",0.471625582273912,"TLIR71FL.DTA","Timor-Leste",2016
+"Government Home/Community Delivery",0.447892473100123,"TLIR71FL.DTA","Timor-Leste",2016
+"NGO",0.0416286796870329,"TLIR71FL.DTA","Timor-Leste",2016
+"Private Clinic/Delivery",0.0295248346013749,"TLIR71FL.DTA","Timor-Leste",2016
+"Pharmacy",0.00289487012176202,"TLIR71FL.DTA","Timor-Leste",2016
+"Shop, Church, Friend",0.00624071322179018,"TLIR71FL.DTA","Timor-Leste",2016
+"Other",0.000192846994005472,"TLIR71FL.DTA","Timor-Leste",2016
+"Government Clinic/Pharmacy",0.502540604274213,"TGIR61FL.DTA","Togo",2013
+"Government Home/Community Delivery",0.0291974446457407,"TGIR61FL.DTA","Togo",2013
+"Private Clinic/Delivery",0.0732772088371783,"TGIR61FL.DTA","Togo",2013
+"Pharmacy",0.134846722104174,"TGIR61FL.DTA","Togo",2013
+"Shop, Church, Friend",0.25574866979124,"TGIR61FL.DTA","Togo",2013
+"Other",0.00438935034745476,"TGIR61FL.DTA","Togo",2013
+"Government Clinic/Pharmacy",0.481994085482645,"TRIR61FL.DTA","Turkey",2013
+"Government Home/Community Delivery",0.0786199552416146,"TRIR61FL.DTA","Turkey",2013
+"Private Clinic/Delivery",0.138650742876445,"TRIR61FL.DTA","Turkey",2013
+"Pharmacy",0.232820098911611,"TRIR61FL.DTA","Turkey",2013
+"Shop, Church, Friend",0.0658842598438444,"TRIR61FL.DTA","Turkey",2013
+"Other",0.0020308576438406,"TRIR61FL.DTA","Turkey",2013
+"Government Clinic/Pharmacy",0.449977744128405,"UGIR60FL.DTA","Uganda",2011
+"Government Home/Community Delivery",0.0160736684631276,"UGIR60FL.DTA","Uganda",2011
+"Private Clinic/Delivery",0.422746136652595,"UGIR60FL.DTA","Uganda",2011
+"Pharmacy",0.0308607227483251,"UGIR60FL.DTA","Uganda",2011
+"Shop, Church, Friend",0.0703718382466308,"UGIR60FL.DTA","Uganda",2011
+"Other",0.0062286915129385,"UGIR60FL.DTA","Uganda",2011
+"Don't Know",0.00200270957662525,"UGIR60FL.DTA","Uganda",2011
+"Missing",0.00173848867135278,"UGIR60FL.DTA","Uganda",2011
+"Government Clinic/Pharmacy",0.559651107437455,"UGIR7BFL.DTA","Uganda",2016
+"Government Home/Community Delivery",0.025579048723847,"UGIR7BFL.DTA","Uganda",2016
+"Private Clinic/Delivery",0.324869158488406,"UGIR7BFL.DTA","Uganda",2016
+"Pharmacy",0.0629886617869797,"UGIR7BFL.DTA","Uganda",2016
+"Shop, Church, Friend",0.0169862860871048,"UGIR7BFL.DTA","Uganda",2016
+"Other",0.00992573747620818,"UGIR7BFL.DTA","Uganda",2016
+"Government Clinic/Pharmacy",0.800461305916699,"ZMIR61FL.DTA","Zambia",2013
+"Government Home/Community Delivery",0.0179064734266709,"ZMIR61FL.DTA","Zambia",2013
+"Private Clinic/Delivery",0.0527928466758519,"ZMIR61FL.DTA","Zambia",2013
+"Pharmacy",0.0403285552907736,"ZMIR61FL.DTA","Zambia",2013
+"Shop, Church, Friend",0.0877186716630001,"ZMIR61FL.DTA","Zambia",2013
+"Other",0.000624820763225585,"ZMIR61FL.DTA","Zambia",2013
+"Don't Know",0.000167326263778848,"ZMIR61FL.DTA","Zambia",2013
+"Government Clinic/Pharmacy",0.874661246644102,"ZMIR71FL.DTA","Zambia",2018
+"Government Home/Community Delivery",0.013326818846771,"ZMIR71FL.DTA","Zambia",2018
+"Private Clinic/Delivery",0.0501040917856538,"ZMIR71FL.DTA","Zambia",2018
+"Pharmacy",0.0401020520518214,"ZMIR71FL.DTA","Zambia",2018
+"Shop, Church, Friend",0.0190833770090401,"ZMIR71FL.DTA","Zambia",2018
+"Other",0.00251602168703184,"ZMIR71FL.DTA","Zambia",2018
+"Don't Know",0.000206391975579409,"ZMIR71FL.DTA","Zambia",2018
+"Government Clinic/Pharmacy",0.697562922028585,"ZWIR62FL.DTA","Zimbabwe",2010
+"Government Home/Community Delivery",0.0341034680190034,"ZWIR62FL.DTA","Zimbabwe",2010
+"NGO",0.0408598761573735,"ZWIR62FL.DTA","Zimbabwe",2010
+"Private Clinic/Delivery",0.0454234389847585,"ZWIR62FL.DTA","Zimbabwe",2010
+"Pharmacy",0.0955574229711251,"ZWIR62FL.DTA","Zimbabwe",2010
+"Shop, Church, Friend",0.0625470434036534,"ZWIR62FL.DTA","Zimbabwe",2010
+"Other",0.0144185425963038,"ZWIR62FL.DTA","Zimbabwe",2010
+"Missing",0.00952728583919697,"ZWIR62FL.DTA","Zimbabwe",2010
+"Government Clinic/Pharmacy",0.672437701479829,"ZWIR71FL.DTA","Zimbabwe",2015
+"Government Home/Community Delivery",0.0577478640075209,"ZWIR71FL.DTA","Zimbabwe",2015
+"Private Clinic/Delivery",0.0880903866800429,"ZWIR71FL.DTA","Zimbabwe",2015
+"Pharmacy",0.13516302749812,"ZWIR71FL.DTA","Zimbabwe",2015
+"Shop, Church, Friend",0.0445354960926657,"ZWIR71FL.DTA","Zimbabwe",2015
+"Other",0.00202552424182189,"ZWIR71FL.DTA","Zimbabwe",2015

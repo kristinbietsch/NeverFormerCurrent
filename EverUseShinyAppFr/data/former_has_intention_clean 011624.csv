@@ -1,0 +1,427 @@
+"Group","Freq","SurveyName","Country","StartYear"
+"Infecund, Menopausal",0.00897756971804264,"AFIR70FL.DTA","Afghanistan",2015
+"Married, Does Not Want Child within 2 Years",0.906233715224718,"AFIR70FL.DTA","Afghanistan",2015
+"Married, Wants Child within 2 Years",0.0847887150572395,"AFIR70FL.DTA","Afghanistan",2015
+"Infecund, Menopausal",0.0571417484738582,"AOIR71FL.DTA","Angola",2015
+"Married, Does Not Want Child within 2 Years",0.48937623056214,"AOIR71FL.DTA","Angola",2015
+"Married, Wants Child within 2 Years",0.0783799658532734,"AOIR71FL.DTA","Angola",2015
+"Not Married, Not Sexually Active",0.165089494633267,"AOIR71FL.DTA","Angola",2015
+"Not Married, Sexually Active",0.210012560477461,"AOIR71FL.DTA","Angola",2015
+"Married, Does Not Want Child within 2 Years",0.807784944649275,"AMIR61FL.DTA","Armenia",2010
+"Married, Wants Child within 2 Years",0.107418556734559,"AMIR61FL.DTA","Armenia",2010
+"Not Married, Not Sexually Active",0.0847964986161659,"AMIR61FL.DTA","Armenia",2010
+"Infecund, Menopausal",0.00230474648250147,"AMIR71FL.DTA","Armenia",2015
+"Married, Does Not Want Child within 2 Years",0.696426510080476,"AMIR71FL.DTA","Armenia",2015
+"Married, Wants Child within 2 Years",0.185180014612122,"AMIR71FL.DTA","Armenia",2015
+"Not Married, Not Sexually Active",0.116088728824901,"AMIR71FL.DTA","Armenia",2015
+"Infecund, Menopausal",0.0267215892293017,"BDIR61FL.DTA","Bangladesh",2011
+"Married, Does Not Want Child within 2 Years",0.754361878081012,"BDIR61FL.DTA","Bangladesh",2011
+"Married, Wants Child within 2 Years",0.218916532689686,"BDIR61FL.DTA","Bangladesh",2011
+"Infecund, Menopausal",0.0252653928888203,"BDIR72FL.DTA","Bangladesh",2014
+"Married, Does Not Want Child within 2 Years",0.752594172547667,"BDIR72FL.DTA","Bangladesh",2014
+"Married, Wants Child within 2 Years",0.222140434563513,"BDIR72FL.DTA","Bangladesh",2014
+"Infecund, Menopausal",0.0236516847162054,"BDIR7RFL.DTA","Bangladesh",2017
+"Married, Does Not Want Child within 2 Years",0.713779518710294,"BDIR7RFL.DTA","Bangladesh",2017
+"Married, Wants Child within 2 Years",0.262568796573501,"BDIR7RFL.DTA","Bangladesh",2017
+"Infecund, Menopausal",0.0242053969628676,"BJIR61FL.DTA","Benin",2011
+"Married, Does Not Want Child within 2 Years",0.499193832631709,"BJIR61FL.DTA","Benin",2011
+"Married, Wants Child within 2 Years",0.16179381562101,"BJIR61FL.DTA","Benin",2011
+"Not Married, Not Sexually Active",0.206266244765114,"BJIR61FL.DTA","Benin",2011
+"Not Married, Sexually Active",0.108540710019299,"BJIR61FL.DTA","Benin",2011
+"Infecund, Menopausal",0.0119893828854138,"BJIR71FL.DTA","Benin",2017
+"Married, Does Not Want Child within 2 Years",0.617538719432359,"BJIR71FL.DTA","Benin",2017
+"Married, Wants Child within 2 Years",0.242121214162699,"BJIR71FL.DTA","Benin",2017
+"Not Married, Not Sexually Active",0.0660267522403339,"BJIR71FL.DTA","Benin",2017
+"Not Married, Sexually Active",0.062323931279194,"BJIR71FL.DTA","Benin",2017
+"Infecund, Menopausal",0.00994175806445259,"BFIR62FL.DTA","Burkina Faso",2010
+"Married, Does Not Want Child within 2 Years",0.747352443613837,"BFIR62FL.DTA","Burkina Faso",2010
+"Married, Wants Child within 2 Years",0.156291679692329,"BFIR62FL.DTA","Burkina Faso",2010
+"Not Married, Not Sexually Active",0.0727244823001406,"BFIR62FL.DTA","Burkina Faso",2010
+"Not Married, Sexually Active",0.0136896363292404,"BFIR62FL.DTA","Burkina Faso",2010
+"Infecund, Menopausal",0.00719402372330219,"BFIR81FL.DTA","Burkina Faso",2021
+"Married, Does Not Want Child within 2 Years",0.589247235468926,"BFIR81FL.DTA","Burkina Faso",2021
+"Married, Wants Child within 2 Years",0.297970489532993,"BFIR81FL.DTA","Burkina Faso",2021
+"Not Married, Not Sexually Active",0.0674009124011789,"BFIR81FL.DTA","Burkina Faso",2021
+"Not Married, Sexually Active",0.0381873388735996,"BFIR81FL.DTA","Burkina Faso",2021
+"Infecund, Menopausal",0.0493251277617148,"BUIR61FL.DTA","Burundi",2010
+"Married, Does Not Want Child within 2 Years",0.71173536723359,"BUIR61FL.DTA","Burundi",2010
+"Married, Wants Child within 2 Years",0.150474914480875,"BUIR61FL.DTA","Burundi",2010
+"Not Married, Not Sexually Active",0.0610658116424541,"BUIR61FL.DTA","Burundi",2010
+"Not Married, Sexually Active",0.0273987788813669,"BUIR61FL.DTA","Burundi",2010
+"Infecund, Menopausal",0.0195976987922766,"BUIR70FL.DTA","Burundi",2016
+"Married, Does Not Want Child within 2 Years",0.734998829313745,"BUIR70FL.DTA","Burundi",2016
+"Married, Wants Child within 2 Years",0.110787163972366,"BUIR70FL.DTA","Burundi",2016
+"Not Married, Not Sexually Active",0.0951352847520109,"BUIR70FL.DTA","Burundi",2016
+"Not Married, Sexually Active",0.0394810231696013,"BUIR70FL.DTA","Burundi",2016
+"Infecund, Menopausal",0.0361730954755281,"KHIR73FL.DTA","Cambodia",2014
+"Married, Does Not Want Child within 2 Years",0.683342396895766,"KHIR73FL.DTA","Cambodia",2014
+"Married, Wants Child within 2 Years",0.185416804538509,"KHIR73FL.DTA","Cambodia",2014
+"Not Married, Not Sexually Active",0.0850093244408971,"KHIR73FL.DTA","Cambodia",2014
+"Not Married, Sexually Active",0.0100583786492993,"KHIR73FL.DTA","Cambodia",2014
+"Infecund, Menopausal",0.0230147334530291,"KHIR81FL.DTA","Cambodia",2021
+"Married, Does Not Want Child within 2 Years",0.682602624348014,"KHIR81FL.DTA","Cambodia",2021
+"Married, Wants Child within 2 Years",0.162984706600207,"KHIR81FL.DTA","Cambodia",2021
+"Not Married, Not Sexually Active",0.119941442638523,"KHIR81FL.DTA","Cambodia",2021
+"Not Married, Sexually Active",0.0114564929602275,"KHIR81FL.DTA","Cambodia",2021
+"Infecund, Menopausal",0.0139141804272841,"CMIR61FL.DTA","Cameroon",2011
+"Married, Does Not Want Child within 2 Years",0.54784520406955,"CMIR61FL.DTA","Cameroon",2011
+"Married, Wants Child within 2 Years",0.175255119160706,"CMIR61FL.DTA","Cameroon",2011
+"Not Married, Not Sexually Active",0.164537267538674,"CMIR61FL.DTA","Cameroon",2011
+"Not Married, Sexually Active",0.0984482288037863,"CMIR61FL.DTA","Cameroon",2011
+"Infecund, Menopausal",0.0100198283988964,"CMIR71FL.DTA","Cameroon",2018
+"Married, Does Not Want Child within 2 Years",0.431510714110475,"CMIR71FL.DTA","Cameroon",2018
+"Married, Wants Child within 2 Years",0.150416796110678,"CMIR71FL.DTA","Cameroon",2018
+"Not Married, Not Sexually Active",0.178840246712514,"CMIR71FL.DTA","Cameroon",2018
+"Not Married, Sexually Active",0.229212414667437,"CMIR71FL.DTA","Cameroon",2018
+"Infecund, Menopausal",0.0115680854501209,"TDIR71FL.DTA","Chad",2014
+"Married, Does Not Want Child within 2 Years",0.683091953382877,"TDIR71FL.DTA","Chad",2014
+"Married, Wants Child within 2 Years",0.134127807402807,"TDIR71FL.DTA","Chad",2014
+"Not Married, Not Sexually Active",0.110152580011254,"TDIR71FL.DTA","Chad",2014
+"Not Married, Sexually Active",0.0610595737529419,"TDIR71FL.DTA","Chad",2014
+"Infecund, Menopausal",0.0183153740552014,"KMIR61FL.DTA","Comoros",2012
+"Married, Does Not Want Child within 2 Years",0.777637260357172,"KMIR61FL.DTA","Comoros",2012
+"Married, Wants Child within 2 Years",0.0774686770104418,"KMIR61FL.DTA","Comoros",2012
+"Not Married, Not Sexually Active",0.0885569372658979,"KMIR61FL.DTA","Comoros",2012
+"Not Married, Sexually Active",0.0380217513112864,"KMIR61FL.DTA","Comoros",2012
+"Infecund, Menopausal",0.0152709222424909,"CGIR60FL.DTA","Congo",2011
+"Married, Does Not Want Child within 2 Years",0.605098158332725,"CGIR60FL.DTA","Congo",2011
+"Married, Wants Child within 2 Years",0.0898247201634559,"CGIR60FL.DTA","Congo",2011
+"Not Married, Not Sexually Active",0.132275124122861,"CGIR60FL.DTA","Congo",2011
+"Not Married, Sexually Active",0.157531075138467,"CGIR60FL.DTA","Congo",2011
+"Infecund, Menopausal",0.00525038699547075,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Married, Does Not Want Child within 2 Years",0.63401717841922,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Married, Wants Child within 2 Years",0.108117862914277,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Not Married, Not Sexually Active",0.149977612093325,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Not Married, Sexually Active",0.102636959577708,"CDIR61FL.DTA","Congo Democratic Republic",2013
+"Infecund, Menopausal",0.0109259729999284,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Married, Does Not Want Child within 2 Years",0.519457634202294,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Married, Wants Child within 2 Years",0.136145011025837,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Not Married, Not Sexually Active",0.174427886958741,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Not Married, Sexually Active",0.159043494813199,"CIIR62FL.DTA","Cote d'Ivoire",2011
+"Infecund, Menopausal",0.00613167522988264,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Married, Does Not Want Child within 2 Years",0.45972639691589,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Married, Wants Child within 2 Years",0.212400586646606,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Not Married, Not Sexually Active",0.151620246693128,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Not Married, Sexually Active",0.170121094514493,"CIIR81FL.DTA","Cote d'Ivoire",2021
+"Infecund, Menopausal",0.0177391294896864,"DRIR61FL.DTA","Dominican Republic",2013
+"Married, Does Not Want Child within 2 Years",0.349675598696621,"DRIR61FL.DTA","Dominican Republic",2013
+"Married, Wants Child within 2 Years",0.119354836177277,"DRIR61FL.DTA","Dominican Republic",2013
+"Not Married, Not Sexually Active",0.361190494418948,"DRIR61FL.DTA","Dominican Republic",2013
+"Not Married, Sexually Active",0.152039941217468,"DRIR61FL.DTA","Dominican Republic",2013
+"Infecund, Menopausal",0.0254852568551743,"EGIR61FL.DTA","Egypt",2014
+"Married, Does Not Want Child within 2 Years",0.733953434411932,"EGIR61FL.DTA","Egypt",2014
+"Married, Wants Child within 2 Years",0.240561308732894,"EGIR61FL.DTA","Egypt",2014
+"Infecund, Menopausal",0.0268224615737915,"ETIR61FL.DTA","Ethiopia",2011
+"Married, Does Not Want Child within 2 Years",0.674378061952599,"ETIR61FL.DTA","Ethiopia",2011
+"Married, Wants Child within 2 Years",0.105612704076249,"ETIR61FL.DTA","Ethiopia",2011
+"Not Married, Not Sexually Active",0.147328271791727,"ETIR61FL.DTA","Ethiopia",2011
+"Not Married, Sexually Active",0.0458585006056338,"ETIR61FL.DTA","Ethiopia",2011
+"Infecund, Menopausal",0.0308281625937164,"ETIR70FL.DTA","Ethiopia",2016
+"Married, Does Not Want Child within 2 Years",0.707410939536459,"ETIR70FL.DTA","Ethiopia",2016
+"Married, Wants Child within 2 Years",0.119226125153663,"ETIR70FL.DTA","Ethiopia",2016
+"Not Married, Not Sexually Active",0.118434698615894,"ETIR70FL.DTA","Ethiopia",2016
+"Not Married, Sexually Active",0.0241000741002679,"ETIR70FL.DTA","Ethiopia",2016
+"Infecund, Menopausal",0.00268164996221888,"GAIR60FL.DTA","Gabon",2012
+"Married, Does Not Want Child within 2 Years",0.484392843997423,"GAIR60FL.DTA","Gabon",2012
+"Married, Wants Child within 2 Years",0.106364561925373,"GAIR60FL.DTA","Gabon",2012
+"Not Married, Not Sexually Active",0.17442780377717,"GAIR60FL.DTA","Gabon",2012
+"Not Married, Sexually Active",0.232133140337816,"GAIR60FL.DTA","Gabon",2012
+"Infecund, Menopausal",0.0116846085550325,"GMIR60FL.DTA","Gambia",2013
+"Married, Does Not Want Child within 2 Years",0.670835491589869,"GMIR60FL.DTA","Gambia",2013
+"Married, Wants Child within 2 Years",0.20440136927259,"GMIR60FL.DTA","Gambia",2013
+"Not Married, Not Sexually Active",0.104831535073047,"GMIR60FL.DTA","Gambia",2013
+"Not Married, Sexually Active",0.00824699550946108,"GMIR60FL.DTA","Gambia",2013
+"Infecund, Menopausal",0.010618198471912,"GMIR81FL.DTA","Gambia",2019
+"Married, Does Not Want Child within 2 Years",0.63933020806999,"GMIR81FL.DTA","Gambia",2019
+"Married, Wants Child within 2 Years",0.228316889060449,"GMIR81FL.DTA","Gambia",2019
+"Not Married, Not Sexually Active",0.0924898136024187,"GMIR81FL.DTA","Gambia",2019
+"Not Married, Sexually Active",0.0292448907952306,"GMIR81FL.DTA","Gambia",2019
+"Infecund, Menopausal",0.00885533202151061,"GHIR72FL.DTA","Ghana",2014
+"Married, Does Not Want Child within 2 Years",0.611184198151014,"GHIR72FL.DTA","Ghana",2014
+"Married, Wants Child within 2 Years",0.0884580636888523,"GHIR72FL.DTA","Ghana",2014
+"Not Married, Not Sexually Active",0.188678463246852,"GHIR72FL.DTA","Ghana",2014
+"Not Married, Sexually Active",0.102823942891771,"GHIR72FL.DTA","Ghana",2014
+"Infecund, Menopausal",0.0205399267147066,"GUIR71FL.DTA","Guatemala",2014
+"Married, Does Not Want Child within 2 Years",0.545380810224516,"GUIR71FL.DTA","Guatemala",2014
+"Married, Wants Child within 2 Years",0.0938255490482788,"GUIR71FL.DTA","Guatemala",2014
+"Not Married, Not Sexually Active",0.278792561748411,"GUIR71FL.DTA","Guatemala",2014
+"Not Married, Sexually Active",0.0614611522640874,"GUIR71FL.DTA","Guatemala",2014
+"Infecund, Menopausal",0.011760680931111,"GNIR62FL.DTA","Guinea",2012
+"Married, Does Not Want Child within 2 Years",0.656283201398054,"GNIR62FL.DTA","Guinea",2012
+"Married, Wants Child within 2 Years",0.180029613881905,"GNIR62FL.DTA","Guinea",2012
+"Not Married, Not Sexually Active",0.087852579515128,"GNIR62FL.DTA","Guinea",2012
+"Not Married, Sexually Active",0.0640739242738021,"GNIR62FL.DTA","Guinea",2012
+"Infecund, Menopausal",0.0255448130643667,"GNIR71FL.DTA","Guinea",2018
+"Married, Does Not Want Child within 2 Years",0.435847604801781,"GNIR71FL.DTA","Guinea",2018
+"Married, Wants Child within 2 Years",0.375367149162051,"GNIR71FL.DTA","Guinea",2018
+"Not Married, Not Sexually Active",0.115575076924114,"GNIR71FL.DTA","Guinea",2018
+"Not Married, Sexually Active",0.0476653560476867,"GNIR71FL.DTA","Guinea",2018
+"Infecund, Menopausal",0.0141942114451025,"HNIR62FL.DTA","Honduras",2011
+"Married, Does Not Want Child within 2 Years",0.374064901986702,"HNIR62FL.DTA","Honduras",2011
+"Married, Wants Child within 2 Years",0.0958253559592471,"HNIR62FL.DTA","Honduras",2011
+"Not Married, Not Sexually Active",0.482889527475859,"HNIR62FL.DTA","Honduras",2011
+"Not Married, Sexually Active",0.0330260031330897,"HNIR62FL.DTA","Honduras",2011
+"Infecund, Menopausal",0.0392960200106553,"IAIR73FL.DTA","India",2015
+"Married, Does Not Want Child within 2 Years",0.325665775207802,"IAIR73FL.DTA","India",2015
+"Married, Wants Child within 2 Years",0.618979191960871,"IAIR73FL.DTA","India",2015
+"Not Married, Not Sexually Active",0.0146689810376216,"IAIR73FL.DTA","India",2015
+"Not Married, Sexually Active",0.00139003178304975,"IAIR73FL.DTA","India",2015
+"Infecund, Menopausal",0.0307921323723186,"IAIR7DFL.DTA","India",2019
+"Married, Does Not Want Child within 2 Years",0.313539736936468,"IAIR7DFL.DTA","India",2019
+"Married, Wants Child within 2 Years",0.630834784944581,"IAIR7DFL.DTA","India",2019
+"Not Married, Not Sexually Active",0.024273159210174,"IAIR7DFL.DTA","India",2019
+"Not Married, Sexually Active",0.000560186536458486,"IAIR7DFL.DTA","India",2019
+"Infecund, Menopausal",0.0604437900382292,"IDIR63FL.DTA","Indonesia",2012
+"Married, Does Not Want Child within 2 Years",0.546649125632317,"IDIR63FL.DTA","Indonesia",2012
+"Married, Wants Child within 2 Years",0.284924429813308,"IDIR63FL.DTA","Indonesia",2012
+"Not Married, Not Sexually Active",0.105367950391636,"IDIR63FL.DTA","Indonesia",2012
+"Not Married, Sexually Active",0.00261470412451059,"IDIR63FL.DTA","Indonesia",2012
+"Infecund, Menopausal",0.0510599728339811,"IDIR71FL.DTA","Indonesia",2017
+"Married, Does Not Want Child within 2 Years",0.510741945528633,"IDIR71FL.DTA","Indonesia",2017
+"Married, Wants Child within 2 Years",0.306039085552315,"IDIR71FL.DTA","Indonesia",2017
+"Not Married, Not Sexually Active",0.129986507616102,"IDIR71FL.DTA","Indonesia",2017
+"Not Married, Sexually Active",0.00217248846896859,"IDIR71FL.DTA","Indonesia",2017
+"Infecund, Menopausal",0.00587178362861699,"JOIR6CFL.DTA","Jordan",2012
+"Married, Does Not Want Child within 2 Years",0.76165744134008,"JOIR6CFL.DTA","Jordan",2012
+"Married, Wants Child within 2 Years",0.232470775031303,"JOIR6CFL.DTA","Jordan",2012
+"Infecund, Menopausal",0.0167932613928002,"JOIR72FL.DTA","Jordan",2017
+"Married, Does Not Want Child within 2 Years",0.770208315291289,"JOIR72FL.DTA","Jordan",2017
+"Married, Wants Child within 2 Years",0.212998423315911,"JOIR72FL.DTA","Jordan",2017
+"Infecund, Menopausal",0.0222455178764045,"KEIR72FL.DTA","Kenya",2014
+"Married, Does Not Want Child within 2 Years",0.504383235956368,"KEIR72FL.DTA","Kenya",2014
+"Married, Wants Child within 2 Years",0.117534832776854,"KEIR72FL.DTA","Kenya",2014
+"Not Married, Not Sexually Active",0.276571958133937,"KEIR72FL.DTA","Kenya",2014
+"Not Married, Sexually Active",0.0792644552564363,"KEIR72FL.DTA","Kenya",2014
+"Infecund, Menopausal",0.0128743699823941,"KEIR8BFL.DTA","Kenya",2022
+"Married, Does Not Want Child within 2 Years",0.468546811141983,"KEIR8BFL.DTA","Kenya",2022
+"Married, Wants Child within 2 Years",0.143217031663098,"KEIR8BFL.DTA","Kenya",2022
+"Not Married, Not Sexually Active",0.266967325846,"KEIR8BFL.DTA","Kenya",2022
+"Not Married, Sexually Active",0.108394461366524,"KEIR8BFL.DTA","Kenya",2022
+"Infecund, Menopausal",0.0111289716351361,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Married, Does Not Want Child within 2 Years",0.764014726408255,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Married, Wants Child within 2 Years",0.112122792425745,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Not Married, Not Sexually Active",0.11151107101113,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Not Married, Sexually Active",0.00122243851973342,"KYIR61FL.DTA","Kyrgyz Republic",2012
+"Infecund, Menopausal",0.0422168416534863,"LSIR71FL.DTA","Lesotho",2014
+"Married, Does Not Want Child within 2 Years",0.455404205880417,"LSIR71FL.DTA","Lesotho",2014
+"Married, Wants Child within 2 Years",0.0926095653086535,"LSIR71FL.DTA","Lesotho",2014
+"Not Married, Not Sexually Active",0.289187420576491,"LSIR71FL.DTA","Lesotho",2014
+"Not Married, Sexually Active",0.120581966580952,"LSIR71FL.DTA","Lesotho",2014
+"Infecund, Menopausal",0.0188174370898225,"LBIR6AFL.DTA","Liberia",2013
+"Married, Does Not Want Child within 2 Years",0.552682733984225,"LBIR6AFL.DTA","Liberia",2013
+"Married, Wants Child within 2 Years",0.109719876354486,"LBIR6AFL.DTA","Liberia",2013
+"Not Married, Not Sexually Active",0.100664758006464,"LBIR6AFL.DTA","Liberia",2013
+"Not Married, Sexually Active",0.218115194565002,"LBIR6AFL.DTA","Liberia",2013
+"Infecund, Menopausal",0.0129501902140988,"LBIR7AFL.DTA","Liberia",2019
+"Married, Does Not Want Child within 2 Years",0.491709731094962,"LBIR7AFL.DTA","Liberia",2019
+"Married, Wants Child within 2 Years",0.0873460923553507,"LBIR7AFL.DTA","Liberia",2019
+"Not Married, Not Sexually Active",0.143431423654841,"LBIR7AFL.DTA","Liberia",2019
+"Not Married, Sexually Active",0.264562562680747,"LBIR7AFL.DTA","Liberia",2019
+"Infecund, Menopausal",0.0202886878073489,"MDIR81FL.DTA","Madagascar",2021
+"Married, Does Not Want Child within 2 Years",0.587237782014125,"MDIR81FL.DTA","Madagascar",2021
+"Married, Wants Child within 2 Years",0.130680299448678,"MDIR81FL.DTA","Madagascar",2021
+"Not Married, Not Sexually Active",0.140687897502541,"MDIR81FL.DTA","Madagascar",2021
+"Not Married, Sexually Active",0.121105333227307,"MDIR81FL.DTA","Madagascar",2021
+"Infecund, Menopausal",0.0296765932001072,"MWIR7AFL.DTA","Malawi",2015
+"Married, Does Not Want Child within 2 Years",0.572353601772969,"MWIR7AFL.DTA","Malawi",2015
+"Married, Wants Child within 2 Years",0.109128798782973,"MWIR7AFL.DTA","Malawi",2015
+"Not Married, Not Sexually Active",0.204000127153002,"MWIR7AFL.DTA","Malawi",2015
+"Not Married, Sexually Active",0.0848408790909487,"MWIR7AFL.DTA","Malawi",2015
+"Infecund, Menopausal",0.027047700839325,"MVIR71FL.DTA","Maldives",2016
+"Married, Does Not Want Child within 2 Years",0.708075020122059,"MVIR71FL.DTA","Maldives",2016
+"Married, Wants Child within 2 Years",0.126994669611397,"MVIR71FL.DTA","Maldives",2016
+"Not Married, Not Sexually Active",0.0977576839309163,"MVIR71FL.DTA","Maldives",2016
+"Not Married, Sexually Active",0.0401249254963026,"MVIR71FL.DTA","Maldives",2016
+"Infecund, Menopausal",0.0160300257846061,"MLIR6AFL.DTA","Mali",2012
+"Married, Does Not Want Child within 2 Years",0.645757196671701,"MLIR6AFL.DTA","Mali",2012
+"Married, Wants Child within 2 Years",0.254226634122794,"MLIR6AFL.DTA","Mali",2012
+"Not Married, Not Sexually Active",0.0379910607268147,"MLIR6AFL.DTA","Mali",2012
+"Not Married, Sexually Active",0.0459950826940842,"MLIR6AFL.DTA","Mali",2012
+"Infecund, Menopausal",0.0120955823126091,"MLIR7HFL.DTA","Mali",2018
+"Married, Does Not Want Child within 2 Years",0.689856284424788,"MLIR7HFL.DTA","Mali",2018
+"Married, Wants Child within 2 Years",0.22929495981378,"MLIR7HFL.DTA","Mali",2018
+"Not Married, Not Sexually Active",0.0394998888250552,"MLIR7HFL.DTA","Mali",2018
+"Not Married, Sexually Active",0.0292532846237683,"MLIR7HFL.DTA","Mali",2018
+"Infecund, Menopausal",0.0112353221884289,"MRIR71FL.DTA","Mauritania",2019
+"Married, Does Not Want Child within 2 Years",0.749930083000746,"MRIR71FL.DTA","Mauritania",2019
+"Married, Wants Child within 2 Years",0.238834594810825,"MRIR71FL.DTA","Mauritania",2019
+"Infecund, Menopausal",0.0159954791298158,"MZIR62FL.DTA","Mozambique",2011
+"Married, Does Not Want Child within 2 Years",0.549670126266693,"MZIR62FL.DTA","Mozambique",2011
+"Married, Wants Child within 2 Years",0.151115582483005,"MZIR62FL.DTA","Mozambique",2011
+"Not Married, Not Sexually Active",0.118762845292816,"MZIR62FL.DTA","Mozambique",2011
+"Not Married, Sexually Active",0.16445596682767,"MZIR62FL.DTA","Mozambique",2011
+"Infecund, Menopausal",0.0186773007879894,"NPIR60FL.DTA","Nepal",2011
+"Married, Does Not Want Child within 2 Years",0.86902278447586,"NPIR60FL.DTA","Nepal",2011
+"Married, Wants Child within 2 Years",0.0977672258965458,"NPIR60FL.DTA","Nepal",2011
+"Not Married, Not Sexually Active",0.0136781093598999,"NPIR60FL.DTA","Nepal",2011
+"Not Married, Sexually Active",0.00085457947970513,"NPIR60FL.DTA","Nepal",2011
+"Infecund, Menopausal",0.0224559419368883,"NPIR7HFL.DTA","Nepal",2016
+"Married, Does Not Want Child within 2 Years",0.833096780339524,"NPIR7HFL.DTA","Nepal",2016
+"Married, Wants Child within 2 Years",0.126028434768973,"NPIR7HFL.DTA","Nepal",2016
+"Not Married, Not Sexually Active",0.018418842954615,"NPIR7HFL.DTA","Nepal",2016
+"Infecund, Menopausal",0.0189807941852052,"NPIR81FL.DTA","Nepal",2022
+"Married, Does Not Want Child within 2 Years",0.809015058091455,"NPIR81FL.DTA","Nepal",2022
+"Married, Wants Child within 2 Years",0.138133959782058,"NPIR81FL.DTA","Nepal",2022
+"Not Married, Not Sexually Active",0.0325822731780063,"NPIR81FL.DTA","Nepal",2022
+"Not Married, Sexually Active",0.00128791476327526,"NPIR81FL.DTA","Nepal",2022
+"Infecund, Menopausal",0.0170265909184113,"NIIR61FL.DTA","Niger",2012
+"Married, Does Not Want Child within 2 Years",0.691555717220555,"NIIR61FL.DTA","Niger",2012
+"Married, Wants Child within 2 Years",0.246800810503636,"NIIR61FL.DTA","Niger",2012
+"Not Married, Not Sexually Active",0.0392192944437856,"NIIR61FL.DTA","Niger",2012
+"Not Married, Sexually Active",0.00539758691361216,"NIIR61FL.DTA","Niger",2012
+"Infecund, Menopausal",0.00969896975197321,"NGIR6AFL.DTA","Nigeria",2013
+"Married, Does Not Want Child within 2 Years",0.623503594067086,"NGIR6AFL.DTA","Nigeria",2013
+"Married, Wants Child within 2 Years",0.175288616013055,"NGIR6AFL.DTA","Nigeria",2013
+"Not Married, Not Sexually Active",0.141851129710854,"NGIR6AFL.DTA","Nigeria",2013
+"Not Married, Sexually Active",0.0496576904570308,"NGIR6AFL.DTA","Nigeria",2013
+"Infecund, Menopausal",0.0123757216944739,"NGIR7AFL.DTA","Nigeria",2018
+"Married, Does Not Want Child within 2 Years",0.569048346977298,"NGIR7AFL.DTA","Nigeria",2018
+"Married, Wants Child within 2 Years",0.205716981726901,"NGIR7AFL.DTA","Nigeria",2018
+"Not Married, Not Sexually Active",0.131732692207282,"NGIR7AFL.DTA","Nigeria",2018
+"Not Married, Sexually Active",0.0811262573940444,"NGIR7AFL.DTA","Nigeria",2018
+"Infecund, Menopausal",0.0210339099865324,"PKIR71FL.DTA","Pakistan",2017
+"Married, Does Not Want Child within 2 Years",0.818298958729357,"PKIR71FL.DTA","Pakistan",2017
+"Married, Wants Child within 2 Years",0.16066713128411,"PKIR71FL.DTA","Pakistan",2017
+"Infecund, Menopausal",0.0131061264211407,"PHIR61FL.DTA","Philippines",2013
+"Married, Does Not Want Child within 2 Years",0.74498176657575,"PHIR61FL.DTA","Philippines",2013
+"Married, Wants Child within 2 Years",0.0735590805547076,"PHIR61FL.DTA","Philippines",2013
+"Not Married, Not Sexually Active",0.139724789877428,"PHIR61FL.DTA","Philippines",2013
+"Not Married, Sexually Active",0.0286282365709733,"PHIR61FL.DTA","Philippines",2013
+"Infecund, Menopausal",0.0311357906841723,"PHIR81FL.DTA","Philippines",2022
+"Married, Does Not Want Child within 2 Years",0.639982779896604,"PHIR81FL.DTA","Philippines",2022
+"Married, Wants Child within 2 Years",0.12673730932077,"PHIR81FL.DTA","Philippines",2022
+"Not Married, Not Sexually Active",0.180711129098342,"PHIR81FL.DTA","Philippines",2022
+"Not Married, Sexually Active",0.0214329910001124,"PHIR81FL.DTA","Philippines",2022
+"Infecund, Menopausal",0.0178061676940496,"RWIR61FL.DTA","Rwanda",2010
+"Married, Does Not Want Child within 2 Years",0.773026037409429,"RWIR61FL.DTA","Rwanda",2010
+"Married, Wants Child within 2 Years",0.0734057963174833,"RWIR61FL.DTA","Rwanda",2010
+"Not Married, Not Sexually Active",0.112781211339185,"RWIR61FL.DTA","Rwanda",2010
+"Not Married, Sexually Active",0.0229807872398527,"RWIR61FL.DTA","Rwanda",2010
+"Infecund, Menopausal",0.0194622893277893,"RWIR70FL.DTA","Rwanda",2014
+"Married, Does Not Want Child within 2 Years",0.72293261113822,"RWIR70FL.DTA","Rwanda",2014
+"Married, Wants Child within 2 Years",0.0761876572437517,"RWIR70FL.DTA","Rwanda",2014
+"Not Married, Not Sexually Active",0.109635910881601,"RWIR70FL.DTA","Rwanda",2014
+"Not Married, Sexually Active",0.0717815314086379,"RWIR70FL.DTA","Rwanda",2014
+"Infecund, Menopausal",0.0182308570578383,"RWIR81FL.DTA","Rwanda",2019
+"Married, Does Not Want Child within 2 Years",0.572764637284583,"RWIR81FL.DTA","Rwanda",2019
+"Married, Wants Child within 2 Years",0.0897094189984361,"RWIR81FL.DTA","Rwanda",2019
+"Not Married, Not Sexually Active",0.237218725471983,"RWIR81FL.DTA","Rwanda",2019
+"Not Married, Sexually Active",0.0820763611871601,"RWIR81FL.DTA","Rwanda",2019
+"Infecund, Menopausal",0.0116634684466132,"SNIR61FL.DTA","Senegal",2010
+"Married, Does Not Want Child within 2 Years",0.67765264242843,"SNIR61FL.DTA","Senegal",2010
+"Married, Wants Child within 2 Years",0.172937620102343,"SNIR61FL.DTA","Senegal",2010
+"Not Married, Not Sexually Active",0.114472699023197,"SNIR61FL.DTA","Senegal",2010
+"Not Married, Sexually Active",0.0232735699994167,"SNIR61FL.DTA","Senegal",2010
+"Infecund, Menopausal",0.00988314756144652,"SNIR6DFL.DTA","Senegal",2012
+"Married, Does Not Want Child within 2 Years",0.696862595971086,"SNIR6DFL.DTA","Senegal",2012
+"Married, Wants Child within 2 Years",0.145619568649046,"SNIR6DFL.DTA","Senegal",2012
+"Not Married, Not Sexually Active",0.125416181795333,"SNIR6DFL.DTA","Senegal",2012
+"Not Married, Sexually Active",0.0222185060230879,"SNIR6DFL.DTA","Senegal",2012
+"Infecund, Menopausal",0.0188507022720144,"SNIR70FL.DTA","Senegal",2014
+"Married, Does Not Want Child within 2 Years",0.67498320173374,"SNIR70FL.DTA","Senegal",2014
+"Married, Wants Child within 2 Years",0.200381476502589,"SNIR70FL.DTA","Senegal",2014
+"Not Married, Not Sexually Active",0.0967971231138583,"SNIR70FL.DTA","Senegal",2014
+"Not Married, Sexually Active",0.00898749637779795,"SNIR70FL.DTA","Senegal",2014
+"Infecund, Menopausal",0.0298602819434624,"SNIR7HFL.DTA","Senegal",2015
+"Married, Does Not Want Child within 2 Years",0.683861877085781,"SNIR7HFL.DTA","Senegal",2015
+"Married, Wants Child within 2 Years",0.148161883190886,"SNIR7HFL.DTA","Senegal",2015
+"Not Married, Not Sexually Active",0.114753235640994,"SNIR7HFL.DTA","Senegal",2015
+"Not Married, Sexually Active",0.0233627221388764,"SNIR7HFL.DTA","Senegal",2015
+"Infecund, Menopausal",0.00882190010456337,"SNIR7QFL.DTA","Senegal",2016
+"Married, Does Not Want Child within 2 Years",0.709898515305464,"SNIR7QFL.DTA","Senegal",2016
+"Married, Wants Child within 2 Years",0.178933745344306,"SNIR7QFL.DTA","Senegal",2016
+"Not Married, Not Sexually Active",0.0939202261120198,"SNIR7QFL.DTA","Senegal",2016
+"Not Married, Sexually Active",0.00842561313364612,"SNIR7QFL.DTA","Senegal",2016
+"Infecund, Menopausal",0.0155911192734561,"SNIR7ZFL.DTA","Senegal",2017
+"Married, Does Not Want Child within 2 Years",0.628559180530882,"SNIR7ZFL.DTA","Senegal",2017
+"Married, Wants Child within 2 Years",0.205145796943716,"SNIR7ZFL.DTA","Senegal",2017
+"Not Married, Not Sexually Active",0.126926793176461,"SNIR7ZFL.DTA","Senegal",2017
+"Not Married, Sexually Active",0.0237771100754844,"SNIR7ZFL.DTA","Senegal",2017
+"Infecund, Menopausal",0.00814815373049455,"SNIR80FL.DTA","Senegal",2018
+"Married, Does Not Want Child within 2 Years",0.649378938170279,"SNIR80FL.DTA","Senegal",2018
+"Married, Wants Child within 2 Years",0.213525090175245,"SNIR80FL.DTA","Senegal",2018
+"Not Married, Not Sexually Active",0.110107659426033,"SNIR80FL.DTA","Senegal",2018
+"Not Married, Sexually Active",0.0188401584979486,"SNIR80FL.DTA","Senegal",2018
+"Infecund, Menopausal",0.0148518159945689,"SNIR8AFL.DTA","Senegal",2019
+"Married, Does Not Want Child within 2 Years",0.709743755111811,"SNIR8AFL.DTA","Senegal",2019
+"Married, Wants Child within 2 Years",0.20891187371628,"SNIR8AFL.DTA","Senegal",2019
+"Not Married, Not Sexually Active",0.0624831182158513,"SNIR8AFL.DTA","Senegal",2019
+"Not Married, Sexually Active",0.00400943696148913,"SNIR8AFL.DTA","Senegal",2019
+"Infecund, Menopausal",0.0337544721916757,"SLIR61FL.DTA","Sierra Leone",2013
+"Married, Does Not Want Child within 2 Years",0.572867212344169,"SLIR61FL.DTA","Sierra Leone",2013
+"Married, Wants Child within 2 Years",0.145584330527249,"SLIR61FL.DTA","Sierra Leone",2013
+"Not Married, Not Sexually Active",0.113504294709482,"SLIR61FL.DTA","Sierra Leone",2013
+"Not Married, Sexually Active",0.134289690227424,"SLIR61FL.DTA","Sierra Leone",2013
+"Infecund, Menopausal",0.0235853076658259,"SLIR7AFL.DTA","Sierra Leone",2019
+"Married, Does Not Want Child within 2 Years",0.574387459366616,"SLIR7AFL.DTA","Sierra Leone",2019
+"Married, Wants Child within 2 Years",0.154636961498355,"SLIR7AFL.DTA","Sierra Leone",2019
+"Not Married, Not Sexually Active",0.108068729919471,"SLIR7AFL.DTA","Sierra Leone",2019
+"Not Married, Sexually Active",0.139321541549732,"SLIR7AFL.DTA","Sierra Leone",2019
+"Infecund, Menopausal",0.0566304019328502,"ZAIR71FL.DTA","South Africa",2016
+"Married, Does Not Want Child within 2 Years",0.265802523731135,"ZAIR71FL.DTA","South Africa",2016
+"Married, Wants Child within 2 Years",0.110723734030854,"ZAIR71FL.DTA","South Africa",2016
+"Not Married, Not Sexually Active",0.279343481574467,"ZAIR71FL.DTA","South Africa",2016
+"Not Married, Sexually Active",0.287499858730694,"ZAIR71FL.DTA","South Africa",2016
+"Infecund, Menopausal",0.0186510701623261,"TJIR61FL.DTA","Tajikistan",2012
+"Married, Does Not Want Child within 2 Years",0.824781661850877,"TJIR61FL.DTA","Tajikistan",2012
+"Married, Wants Child within 2 Years",0.137848028153238,"TJIR61FL.DTA","Tajikistan",2012
+"Not Married, Not Sexually Active",0.0187192398335581,"TJIR61FL.DTA","Tajikistan",2012
+"Infecund, Menopausal",0.0585710444468399,"TJIR71FL.DTA","Tajikistan",2017
+"Married, Does Not Want Child within 2 Years",0.796388377970065,"TJIR71FL.DTA","Tajikistan",2017
+"Married, Wants Child within 2 Years",0.137700800223492,"TJIR71FL.DTA","Tajikistan",2017
+"Not Married, Not Sexually Active",0.00733977735960328,"TJIR71FL.DTA","Tajikistan",2017
+"Infecund, Menopausal",0.0150836528514571,"TZIR7BFL.DTA","Tanzania",2015
+"Married, Does Not Want Child within 2 Years",0.576279186675991,"TZIR7BFL.DTA","Tanzania",2015
+"Married, Wants Child within 2 Years",0.15798721221825,"TZIR7BFL.DTA","Tanzania",2015
+"Not Married, Not Sexually Active",0.130658723532838,"TZIR7BFL.DTA","Tanzania",2015
+"Not Married, Sexually Active",0.119991224721464,"TZIR7BFL.DTA","Tanzania",2015
+"Infecund, Menopausal",0.0147846535933452,"TZIR82FL.DTA","Tanzania",2022
+"Married, Does Not Want Child within 2 Years",0.593826638748245,"TZIR82FL.DTA","Tanzania",2022
+"Married, Wants Child within 2 Years",0.147418377789379,"TZIR82FL.DTA","Tanzania",2022
+"Not Married, Not Sexually Active",0.115145404758215,"TZIR82FL.DTA","Tanzania",2022
+"Not Married, Sexually Active",0.128824925110816,"TZIR82FL.DTA","Tanzania",2022
+"Infecund, Menopausal",0.0497318481390437,"TLIR71FL.DTA","Timor-Leste",2016
+"Married, Does Not Want Child within 2 Years",0.776921498602034,"TLIR71FL.DTA","Timor-Leste",2016
+"Married, Wants Child within 2 Years",0.16586895136291,"TLIR71FL.DTA","Timor-Leste",2016
+"Not Married, Not Sexually Active",0.00531659274867166,"TLIR71FL.DTA","Timor-Leste",2016
+"Not Married, Sexually Active",0.00216110914734073,"TLIR71FL.DTA","Timor-Leste",2016
+"Infecund, Menopausal",0.00851529018723776,"TGIR61FL.DTA","Togo",2013
+"Married, Does Not Want Child within 2 Years",0.648837371223899,"TGIR61FL.DTA","Togo",2013
+"Married, Wants Child within 2 Years",0.149721373820867,"TGIR61FL.DTA","Togo",2013
+"Not Married, Not Sexually Active",0.120753971595339,"TGIR61FL.DTA","Togo",2013
+"Not Married, Sexually Active",0.0721719931726577,"TGIR61FL.DTA","Togo",2013
+"Infecund, Menopausal",0.0269500890566657,"TRIR61FL.DTA","Turkey",2013
+"Married, Does Not Want Child within 2 Years",0.418197790517024,"TRIR61FL.DTA","Turkey",2013
+"Married, Wants Child within 2 Years",0.13631711933837,"TRIR61FL.DTA","Turkey",2013
+"Not Married, Not Sexually Active",0.386892136026548,"TRIR61FL.DTA","Turkey",2013
+"Not Married, Sexually Active",0.0316428650613916,"TRIR61FL.DTA","Turkey",2013
+"Infecund, Menopausal",0.0124722157235649,"UGIR60FL.DTA","Uganda",2011
+"Married, Does Not Want Child within 2 Years",0.655339970668784,"UGIR60FL.DTA","Uganda",2011
+"Married, Wants Child within 2 Years",0.077368674515064,"UGIR60FL.DTA","Uganda",2011
+"Not Married, Not Sexually Active",0.214692578198285,"UGIR60FL.DTA","Uganda",2011
+"Not Married, Sexually Active",0.0401265608943026,"UGIR60FL.DTA","Uganda",2011
+"Infecund, Menopausal",0.0179651367097878,"UGIR7BFL.DTA","Uganda",2016
+"Married, Does Not Want Child within 2 Years",0.620247510785644,"UGIR7BFL.DTA","Uganda",2016
+"Married, Wants Child within 2 Years",0.0988530515880214,"UGIR7BFL.DTA","Uganda",2016
+"Not Married, Not Sexually Active",0.16951043398602,"UGIR7BFL.DTA","Uganda",2016
+"Not Married, Sexually Active",0.0934238669305267,"UGIR7BFL.DTA","Uganda",2016
+"Infecund, Menopausal",0.0134817041704497,"ZMIR61FL.DTA","Zambia",2013
+"Married, Does Not Want Child within 2 Years",0.635057299619255,"ZMIR61FL.DTA","Zambia",2013
+"Married, Wants Child within 2 Years",0.0999668927460199,"ZMIR61FL.DTA","Zambia",2013
+"Not Married, Not Sexually Active",0.162150698234205,"ZMIR61FL.DTA","Zambia",2013
+"Not Married, Sexually Active",0.0893434052300706,"ZMIR61FL.DTA","Zambia",2013
+"Infecund, Menopausal",0.0210851227940763,"ZMIR71FL.DTA","Zambia",2018
+"Married, Does Not Want Child within 2 Years",0.532377474706597,"ZMIR71FL.DTA","Zambia",2018
+"Married, Wants Child within 2 Years",0.125153590511808,"ZMIR71FL.DTA","Zambia",2018
+"Not Married, Not Sexually Active",0.190703500724797,"ZMIR71FL.DTA","Zambia",2018
+"Not Married, Sexually Active",0.130680311262722,"ZMIR71FL.DTA","Zambia",2018
+"Infecund, Menopausal",0.028405838343412,"ZWIR62FL.DTA","Zimbabwe",2010
+"Married, Does Not Want Child within 2 Years",0.558916875111566,"ZWIR62FL.DTA","Zimbabwe",2010
+"Married, Wants Child within 2 Years",0.176708756394749,"ZWIR62FL.DTA","Zimbabwe",2010
+"Not Married, Not Sexually Active",0.177448116429763,"ZWIR62FL.DTA","Zimbabwe",2010
+"Not Married, Sexually Active",0.0585204137205107,"ZWIR62FL.DTA","Zimbabwe",2010
+"Infecund, Menopausal",0.0275722597088207,"ZWIR71FL.DTA","Zimbabwe",2015
+"Married, Does Not Want Child within 2 Years",0.493883234116425,"ZWIR71FL.DTA","Zimbabwe",2015
+"Married, Wants Child within 2 Years",0.190450553804641,"ZWIR71FL.DTA","Zimbabwe",2015
+"Not Married, Not Sexually Active",0.216709208440862,"ZWIR71FL.DTA","Zimbabwe",2015
+"Not Married, Sexually Active",0.0713847439292514,"ZWIR71FL.DTA","Zimbabwe",2015
